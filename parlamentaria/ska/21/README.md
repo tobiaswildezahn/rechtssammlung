@@ -1,6 +1,6 @@
 # Schriftliche Kleine Anfragen der 21. Wahlperiode
 
-Stand: 27.09.2026 08:00 · 13537 von 13865 SKA als Markdown (98%) · Quelle: Parlamentsdatenbank der Hamburgischen Bürgerschaft (ParlDok) · erzeugt mit `ska_archiv`
+Stand: 27.09.2026 09:07 · 13865 von 13865 SKA als Markdown (100%) · Quelle: Parlamentsdatenbank der Hamburgischen Bürgerschaft (ParlDok) · erzeugt mit `ska_archiv`
 
 Je SKA eine Datei mit YAML-Frontmatter (Drucksache, Datum, Urheber, Fraktion, Zahl der Fragen, zitierte Drucksachen) und Abschnitten *Einleitung für die Fragen*, *Einleitung für die Antworten des Senats* und *Fragen und Antworten* (`### Frage n`, `#### Antwort zu …`). Tabellen aus den PDFs stehen als Zeilen im Fließtext. Alle Metadaten zusätzlich in `index.csv`.
 
@@ -8,20 +8,22 @@ Je SKA eine Datei mit YAML-Frontmatter (Drucksache, Datum, Urheber, Fraktion, Za
 
 | Fraktion | SKA |
 |---|---:|
-| CDU | 5541 |
-| FDP | 2999 |
-| Die Linke | 2641 |
-| AfD | 1849 |
-| SPD | 253 |
+| CDU | 5696 |
+| FDP | 3078 |
+| Die Linke | 2709 |
+| AfD | 1855 |
+| SPD | 263 |
 | GRÜNE | 174 |
-| fraktionslos | 130 |
+| fraktionslos | 140 |
 | ohne Angabe | 1 |
 
 ## Nach Monat der Anfrage
 
 | Monat | SKA |
 |---|---:|
-| 2015-05 | 154 |
+| 2015-03 | 121 |
+| 2015-04 | 181 |
+| 2015-05 | 180 |
 | 2015-06 | 202 |
 | 2015-07 | 221 |
 | 2015-08 | 186 |
@@ -83,4 +85,4 @@ Je SKA eine Datei mit YAML-Frontmatter (Drucksache, Datum, Urheber, Fraktion, Za
 
 25 SKA lagen beim Abruf noch ohne Antwort des Senats vor (`beantwortet: false`); sie werden bei den nächsten Läufen nachgeholt.
 
-153 SKA ohne erkannte Frage-Struktur liegen als Volltext vor (`format_erkannt: false`).
+165 SKA ohne erkannte Frage-Struktur liegen als Volltext vor (`format_erkannt: false`).
