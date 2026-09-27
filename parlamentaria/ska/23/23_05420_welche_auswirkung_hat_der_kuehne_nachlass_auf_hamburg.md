@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105336"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105336/23_05420_welche_auswirkung_hat_der_kuehne_nachlass_auf_hamburg"
-abgerufen: "2026-09-25"
+abgerufen: "2026-09-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten David Stoop (Die Linke) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105336) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105336/23_05420_welche_auswirkung_hat_der_kuehne_nachlass_auf_hamburg)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

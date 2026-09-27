@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/4186"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105310"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105310/23_05405_charakter_einer_schikanemassnahme_missstaende_im_bereich_der_bezahlkarte"
-abgerufen: "2026-09-25"
+abgerufen: "2026-09-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Carola Ensslen (Die Linke) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105310) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105310/23_05405_charakter_einer_schikanemassnahme_missstaende_im_bereich_der_bezahlkarte)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

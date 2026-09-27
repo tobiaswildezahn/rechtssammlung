@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105276"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105276/23_05373_cannabis_und_andere_drogen_am_steuer_wie_hat_sich_die_verkehrssicherheit_in_hamburg_seit_der_teillegalisierung_entwickelt"
-abgerufen: "2026-09-25"
+abgerufen: "2026-09-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105276) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105276/23_05373_cannabis_und_andere_drogen_am_steuer_wie_hat_sich_die_verkehrssicherheit_in_hamburg_seit_der_teillegalisierung_entwickelt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

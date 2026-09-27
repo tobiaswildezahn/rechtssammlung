@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105319"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105319/23_05414_senkung_der_zuschuesse_fuer_die_energetische_sanierung_von_mehrfamilienhaeusern_durch_die_bundesregierung"
-abgerufen: "2026-09-25"
+abgerufen: "2026-09-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (Die Linke) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105319) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105319/23_05414_senkung_der_zuschuesse_fuer_die_energetische_sanierung_von_mehrfamilienhaeusern_durch_die_bundesregierung)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

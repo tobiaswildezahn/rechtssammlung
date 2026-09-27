@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105350"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105350/23_05433_gravierende_statikmaengel_im_staedtischen_wohnhaus_wie_geht_es_weiter"
-abgerufen: "2026-09-25"
+abgerufen: "2026-09-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Anke Frieling (CDU) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105350) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105350/23_05433_gravierende_statikmaengel_im_staedtischen_wohnhaus_wie_geht_es_weiter)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

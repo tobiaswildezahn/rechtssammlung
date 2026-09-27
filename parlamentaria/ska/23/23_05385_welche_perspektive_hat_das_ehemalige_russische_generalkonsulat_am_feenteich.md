@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105305"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105305/23_05385_welche_perspektive_hat_das_ehemalige_russische_generalkonsulat_am_feenteich"
-abgerufen: "2026-09-25"
+abgerufen: "2026-09-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Julian Herrmann (CDU) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105305) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105305/23_05385_welche_perspektive_hat_das_ehemalige_russische_generalkonsulat_am_feenteich)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

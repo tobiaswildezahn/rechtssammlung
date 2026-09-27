@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/3881"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105316"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105316/23_05411_ruecklaeufige_neueingaenge_wachsender_verfahrensbestand_warum_steigt_der_rueckstau_bei_der_staatsanwaltschaft_hamburg_weiter"
-abgerufen: "2026-09-25"
+abgerufen: "2026-09-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105316) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105316/23_05411_ruecklaeufige_neueingaenge_wachsender_verfahrensbestand_warum_steigt_der_rueckstau_bei_der_staatsanwaltschaft_hamburg_weiter)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

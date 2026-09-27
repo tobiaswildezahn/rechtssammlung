@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105278"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105278/23_05375_17_000_schreiben_nicht_versandt_wie_konnte_die_it_panne_bei_der_hamburger_staatsanwaltschaft_fast_zwei_monate_unbemerkt_bleiben"
-abgerufen: "2026-09-25"
+abgerufen: "2026-09-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105278) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105278/23_05375_17_000_schreiben_nicht_versandt_wie_konnte_die_it_panne_bei_der_hamburger_staatsanwaltschaft_fast_zwei_monate_unbemerkt_bleiben)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 25.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
