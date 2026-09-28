@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105374"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105374/23_05467_wo_bleiben_aufgefundene_brieftauben_wenn_das_tierheim_des_hamburger_tierschutzvereins_von_1841_e_v_htv_sie_nicht_aufnehmen_kann"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (Die Linke) vom 24.09.26 und Antwort des Senats · Drucksache vom 24.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105374) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105374/23_05467_wo_bleiben_aufgefundene_brieftauben_wenn_das_tierheim_des_hamburger_tierschutzvereins_von_1841_e_v_htv_sie_nicht_aufnehmen_kann)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

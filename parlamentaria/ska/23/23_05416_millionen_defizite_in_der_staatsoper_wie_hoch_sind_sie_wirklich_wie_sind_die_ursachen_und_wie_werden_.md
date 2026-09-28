@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/1319", "23/4469", "23/5000"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105321"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105321/23_05416_millionen_defizite_in_der_staatsoper_wie_hoch_sind_sie_wirklich_wie_sind_die_ursachen_und_wie_werden_sie_ausgeglichen"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dietrich Wersich (CDU) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105321) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105321/23_05416_millionen_defizite_in_der_staatsoper_wie_hoch_sind_sie_wirklich_wie_sind_die_ursachen_und_wie_werden_sie_ausgeglichen)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

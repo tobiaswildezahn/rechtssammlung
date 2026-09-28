@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105343"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105343/23_05426_geplanter_neubau_des_abrigado_an_der_buxtehuder_strasse_31_baustellenlogistik_verkehrsbelastung_und_information_des_umfeldes"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Dirk Nockemann (AfD) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105343) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105343/23_05426_geplanter_neubau_des_abrigado_an_der_buxtehuder_strasse_31_baustellenlogistik_verkehrsbelastung_und_information_des_umfeldes)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

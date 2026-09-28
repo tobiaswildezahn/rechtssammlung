@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105279
 titel: "Kein pauschaler Rückbau von Busbuchten? – Wie setzt der Senat die Vereinbarung aus dem Koalitionsvertrag um?"
 datum_anfrage: "2026-09-16"
-datum_drucksache: "2026-09-16"
+datum_drucksache: "2026-09-22"
 urheber: ["Dirk Nockemann", "Thomas Reich"]
 fraktionen: ["AfD"]
 vorgang: null
-seiten: 4
+seiten: 5
 fragen: 20
 einzelfragen: 25
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 13
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["20/9965", "20/9513"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105279"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105279/23_05376_kein_pauschaler_rueckbau_von_busbuchten_wie_setzt_der_senat_die_vereinbarung_aus_dem_koalitionsvertrag_um"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5376: Kein pauschaler Rückbau von Busbuchten? – Wie setzt der Senat die Vereinbarung aus dem Koalitionsvertrag um?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Dirk Nockemann und Thomas Reich (AfD) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Dirk Nockemann und Thomas Reich (AfD) vom 16.09.26 und Antwort des Senats · Drucksache vom 22.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105279) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105279/23_05376_kein_pauschaler_rueckbau_von_busbuchten_wie_setzt_der_senat_die_vereinbarung_aus_dem_koalitionsvertrag_um)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -57,6 +55,10 @@ Hat das in Drs. 20/9965 genannte „Grundsatzpapier zu Planungen und straßenver
 
 Falls nein: Welche Regelung ist an seine Stelle getreten und seit wann?
 
+#### Antwort zu Fragen 1 und 2
+
+Ja.
+
 ### Frage 3
 
 Welche geltenden Vorschriften, technischen Regelwerke, Verwaltungsvorschriften, Dienstanweisungen, Leitfäden und sonstigen verbindlichen oder behördeninternen Vorgaben sind derzeit für die Entscheidung maßgeblich, ob eine Bushaltestelle als Busbucht oder als Fahrbahnrandhaltestelle ausgeführt wird? Bitte jeweils Bezeichnung, Fassung und Datum angeben.
@@ -65,19 +67,51 @@ Welche geltenden Vorschriften, technischen Regelwerke, Verwaltungsvorschriften, 
 
 Welche konkreten Vorgaben enthalten die ReStra, Ausgabe 2017, Fassung vom 23. März 2026, für die Wahl zwischen Busbucht und Fahrbahnrandhaltestelle?
 
+#### Antwort zu Fragen 3 und 4
+
+Welche Haltestellenform in Betracht kommt, ist grundsätzlich in den nachstehenden Dokumenten geregelt:
+
+- Richtlinien für die Anlage von Stadtstraßen (RASt 06), Ausgabe 2006, FGSV-Nummer 200
+
+- Empfehlungen für Anlagen des öffentlichen Personennahverkehrs (EAÖ), Ausgabe 2013, FGSV-Nummer 289
+
+- Hinweise für barrierefreie Verkehrsanlagen (HBVA), Ausgabe 2011, FGSV-Nummer 212
+
+- DIN18040-3, Barrierefreies Bauen - Planungsgrundlagen - Teil 3: Öffentlicher Verkehrs- und Freiraum, Ausgabe 2014
+
+- Empfehlungen für Fußgängerverkehrsanlagen (EFA), Ausgabe 2002, FGSV-Nummer 284
+
+- Empfehlungen für Radverkehrsanlagen (ERA), Ausgabe 2010, FGSV-Nummer 288
+
+- Sowie gegebenenfalls ergänzende Regelungen dazu in den Hamburger Regelwerken für Planung und Entwurf von Stadtstraßen (ReStra), Fassung 23. März 2026
+
+- Welche Haltestellenform in Betracht kommt, ist dabei abhängig von den konkreten Örtlichkeiten und den technischen Regelwerken der FGSV.
+
 ### Frage 5
 
 Handelt es sich bei der vom LSBG für den Straßenzug Ulzburger Straße bis Poppenbütteler Chaussee verwendeten Formulierung, ÖPNV-Haltestellen würden „vorzugsweise als Haltestellen am Fahrbahnrand“ ausgebildet, um ein allgemeines planerisches Leitbild des Senats beziehungsweise der zuständigen Behörden und Landesbetriebe?
 
 Falls ja: Seit wann gilt dieses Leitbild, auf welcher Grundlage beruht es und für welche Straßen beziehungsweise Haltestellen gilt es?
 
+#### Antwort zu Frage 5
+
+Es gibt kein planerisches Leitbild. Die entsprechende Formulierung orientiert sich an den in den bundesweit anerkannten Regelwerken abgebildeten Standards und Empfehlungen. Diese Regelwerke bilden die Grundlage für die Planung und Ausgestaltung von Haltestellen und gelten für alle Straßen und Haltestellen, sofern keine besonderen örtlichen Anforderungen abweichende Lösungen erforderlich machen.
+
 ### Frage 6
 
 Wie grenzt der Senat einen nach dem Koalitionsvertrag ausgeschlossenen „pauschalen Rückbau“ von Busbuchten von zulässigen Einzelfallentscheidungen über den Umbau einer Busbucht in eine Fahrbahnrandhaltestelle ab?
 
+#### Antwort zu Frage 6
+
+Bei Umbaumaßnahmen im Straßenraum werden regelmäßig die Auswirkungen auf den motorisierten Individualverkehr, den Wirtschaftsverkehr und den ruhenden Verkehr untersucht, transparent dargelegt und im Sinne einer Optimierung der Gesamtmobilität beachtet.
+
 ### Frage 7
 
 Welche Kriterien müssen vor dem Rückbau einer Busbucht im Einzelfall geprüft und gegeneinander abgewogen werden? Bitte insbesondere auf Kfz-Verkehrsstärke, Busfrequenz, Zahl und Art der Buslinien, Lage zu Knotenpunkten, zu erwartende Rückstaulängen, Verkehrssicherheit, mögliche Überholvorgänge, Rad- und Fußverkehr, Barrierefreiheit, Reisezeiten des ÖPNV sowie die Belange des Wirtschafts- und Rettungsverkehrs eingehen.
+
+#### Antwort zu Frage 7
+
+In Abhängigkeit von der örtlichen Situation werden die in der Frage formulierten Kriterien bei der Wahl einer Bushaltestellenform abgewogen. Die dabei gegebenenfalls zugrunde zulegenden Maße/Werte und deren Anwendung sind in den in Antwort zu 3 und 4 genannten Dokumenten benannt.
 
 ### Frage 8
 
@@ -87,13 +121,39 @@ Falls ja: Auf welcher Grundlage und mit welchen Mindestinhalten?
 
 Falls nein: Nach welchen Kriterien wird entschieden, ob eine solche Untersuchung durchgeführt wird?
 
+#### Antwort zu Frage 8
+
+Die Wahl einer Haltestellenform richtet sich abhängig von der konkreten Örtlichkeit nach den Vorgaben der genannten Regelwerke. In den EAÖ ist geregelt, welche Einsatzbereiche für Haltestellen mit Halt am Fahrbahnrand sich in Bezug zum Kfz-Verkehr aus der Belastung einer Strecke mit Kraftfahrzeugen, der Anzahl der Fahrstreifen und der Fahrzeugfolge des Busverkehrs ergeben.
+
 ### Frage 9
 
 Welche Behörden, Bezirksämter, Landesbetriebe, Straßenverkehrsbehörden und Verkehrsunternehmen werden bei der Entscheidung über den Rückbau einer Busbucht beteiligt, und wer trifft die abschließende Entscheidung?
 
+#### Antwort zu Frage 9
+
+Die Abwägung zur Planung erfolgt im Rahmen des Verschickungsverfahrens mit den Trägern öffentlicher Belange und wird vom jeweiligen Realisierungsträger im Erläuterungsbericht dokumentiert.
+
+Die straßenverkehrsbehördliche Anordnung erfolgt durch die zuständige Straßenverkehrsbehörde unter Berücksichtigung der in Frage 7 genannten Kriterien.
+
 ### Frage 10
 
 Wie viele Busbuchten bestehen derzeit im Hamburger Straßennetz? Bitte nach Bezirken und, soweit vorhanden, nach Straßenbaulastträgern aufschlüsseln.
+
+#### Antwort zu Frage 10
+
+Die zum 31. August 2026 bestehenden 1379 Busbuchten in Hamburg verteilen sich wie in der folgenden Tabelle dargestellt auf die Bezirke:
+
+Tabelle
+
+Bezirke Anzahl Busbuchten  
+Hamburg-Mitte 294  
+Altona 122  
+Eimsbüttel 134  
+Hamburg-Nord 183  
+Wandsbek 377  
+Bergedorf 95  
+Harburg 174  
+Gesamtergebnis 1379
 
 ### Frage 11
 
@@ -121,18 +181,46 @@ Welche Fahrbahnrandhaltestellen wurden seit dem 1. Januar 2020 wieder in Busbuch
 
 Welche weiteren Rückbauten beziehungsweise Umbauten bestehender Busbuchten zu Fahrbahnrandhaltestellen sind mit Stand 15. September 2026 beschlossen, in Planung oder in Vorbereitung? Bitte jeweils Haltestelle, Straße, Bezirk, Planungsstand, vorgesehenen Umsetzungszeitraum und Begründung angeben.
 
+#### Antwort zu Fragen 11 bis 16
+
+Diese Daten werden statistisch nicht erfasst.
+
 ### Frage 17
 
 Welche konkreten verkehrlichen Untersuchungen und Abwägungen lagen der Entscheidung zugrunde, die beiden Busbuchten an der Haltestelle „Alaskaweg“ in der Saseler Straße zu Fahrbahnrandhaltestellen umzubauen? Bitte insbesondere die zugrunde gelegten Kfz-Verkehrsstärken, Buslinien und Busfrequenzen, die erwarteten Auswirkungen auf Rückstau und Verkehrsfluss sowie die Belange der Verkehrssicherheit darstellen.
+
+#### Antwort zu Frage 17
+
+Durch den Umbau der Haltestellen Alaskaweg zu Haltestellen am Fahrbahnrand wird das Anfahren der Haltestelle erleichtert. Der Einsatz eines Bussonderbordes ermöglicht es dem Bus, den Restspalt zwischen Wartefläche und Bus beim Heranfahren deutlich zu minimieren und so für einen barrierearmen Einstieg zu sorgen. Die Haltestelle auf der Nordseite wird weiter in Richtung Osten geschoben und liegt damit gegenüber der Haltestelle auf der Südseite. Damit wird die Sichtbeziehung auf den geplanten Fußgängerüberweg verbessert. Das Vorbeifahren am haltenden Bus ist inklusive Begegnungsverkehr grundsätzlich möglich, so dass kein Rückstau zu erwarten ist, der sich auf die Bauart beziehungsweise Geometrie der geplanten Bushaltestellen zurückführen lässt.
+
+Weitere Informationen zur Planung: Bezirksroute Saseler Straße (Rahlstedt) - Umbau - Bezirksamt Wandsbek - hamburg.de
 
 ### Frage 18
 
 Welche Kosten entfallen bei der Maßnahme Saseler Straße auf den Umbau der beiden Busbuchten an der Haltestelle „Alaskaweg“, und wie werden die bislang von den Busbuchten beanspruchten Flächen nach dem Umbau konkret genutzt?
 
+#### Antwort zu Frage 18
+
+Eine exakte Kostenbenennung für die Bushaltestellenbereiche ist nicht möglich.
+
+Die durch die Gestaltung gewonnenen Flächen werden zur Abwicklung der in den Nebenflächen stattfindenden Verkehre (Fuß- und Radverkehr) sowie für die regelkonforme Ausgestaltung des barrierefreien Wartebereiches genutzt. Details können den Planungsunterlagen entnommen werden.
+
 ### Frage 19
 
 Welche bestehenden Busbuchten im Straßenzug Ulzburger Straße bis Poppenbütteler Chaussee sollen nach dem derzeitigen Planungsstand erhalten bleiben und welche zu Fahrbahnrandhaltestellen umgebaut werden? Bitte für jede Haltestelle die jeweilige Entscheidung und die maßgeblichen Gründe darstellen.
 
+#### Antwort zu Frage 19
+
+Die Planung für die Straßenbaumaßnahmen Poppenbütteler Chausse und Ulzburger Straße entsprechen den derzeitigen Regelwerken. Vor dem Hintergrund der örtlichen Platzverhältnisse orientiert sich die Grundinstandsetzung am Bestand.
+
+Weitere Informationen zur Planung: Aktuelle Planungen
+
 ### Frage 20
 
 Wie und wo werden bei den in den Fragen 16 bis 19 genannten Maßnahmen die nach dem Koalitionsvertrag regelmäßig zu untersuchenden Auswirkungen auf den motorisierten Individualverkehr, den Wirtschaftsverkehr und den ruhenden Verkehr transparent dargelegt? Bitte die jeweiligen öffentlich zugänglichen Planungsunterlagen beziehungsweise Fundstellen benennen.
+
+#### Antwort zu Frage 20
+
+Die Abwägung zur Planung wird vom jeweiligen Realisierungsträger im Erläuterungsbericht dokumentiert.
+
+Im Übrigen wird auf die öffentlich zugänglichen Planungsunterlagen verwiesen.

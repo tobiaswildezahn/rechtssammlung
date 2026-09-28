@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/3586"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105335"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105335/23_05418_kein_stadtnahes_terminal_fuer_flusskreuzfahrtschiffe_in_hamburg_sachstand_und_perspektiven"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner und David Erkalp (CDU) vom 18.09.26 und Antwort des Senats · Drucksache vom 18.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105335) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105335/23_05418_kein_stadtnahes_terminal_fuer_flusskreuzfahrtschiffe_in_hamburg_sachstand_und_perspektiven)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

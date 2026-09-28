@@ -19,7 +19,7 @@ zitierte_drucksachen: ["22/17219", "23/4340"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105341"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105341/23_05424_lokale_gesundheitszentren_in_hamburg_wie_hoch_sind_die_tatsaechlichen_kosten_und_wie_soll_die_foerderung_ab_2027_fortgefuehrt_werden"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Christin Christ (CDU) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105341) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105341/23_05424_lokale_gesundheitszentren_in_hamburg_wie_hoch_sind_die_tatsaechlichen_kosten_und_wie_soll_die_foerderung_ab_2027_fortgefuehrt_werden)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

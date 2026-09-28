@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105307"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105307/23_05402_fortschritte_bei_der_antriebswende_ausbau_der_elektrischen_ladeinfrastruktur_in_hamburg"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Rosa Domm (GRÜNE) vom 17.09.26 und Antwort des Senats · Drucksache vom 17.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105307) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105307/23_05402_fortschritte_bei_der_antriebswende_ausbau_der_elektrischen_ladeinfrastruktur_in_hamburg)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

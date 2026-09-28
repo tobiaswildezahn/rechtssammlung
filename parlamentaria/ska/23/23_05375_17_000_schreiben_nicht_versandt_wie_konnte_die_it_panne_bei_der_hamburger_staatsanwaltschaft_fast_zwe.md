@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105278
 titel: "17.000 Schreiben nicht versandt – wie konnte die IT-Panne bei der Hamburger Staatsanwaltschaft fast zwei Monate unbemerkt bleiben?"
 datum_anfrage: "2026-09-16"
-datum_drucksache: "2026-09-16"
+datum_drucksache: "2026-09-22"
 urheber: ["Dirk Nockemann"]
 fraktionen: ["AfD"]
 vorgang: null
-seiten: 3
+seiten: 4
 fragen: 25
 einzelfragen: 32
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
-zitierte_drucksachen: []
+antwortbloecke: 11
+beantwortet: true
+status: "beantwortet"
+zitierte_drucksachen: ["23/5333"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105278"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105278/23_05375_17_000_schreiben_nicht_versandt_wie_konnte_die_it_panne_bei_der_hamburger_staatsanwaltschaft_fast_zwei_monate_unbemerkt_bleiben"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5375: 17.000 Schreiben nicht versandt – wie konnte die IT-Panne bei der Hamburger Staatsanwaltschaft fast zwei Monate unbemerkt bleiben?
 
-> Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 16.09.26 und Antwort des Senats · Drucksache vom 16.09.2026  
+> Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 16.09.26 und Antwort des Senats · Drucksache vom 22.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105278) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105278/23_05375_17_000_schreiben_nicht_versandt_wie_konnte_die_it_panne_bei_der_hamburger_staatsanwaltschaft_fast_zwei_monate_unbemerkt_bleiben)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -56,6 +54,10 @@ Welche technische Veränderung beziehungsweise welches konkrete Software-Update 
 
 Welche Stelle beziehungsweise welcher externe oder interne Dienstleister war für Entwicklung, Prüfung, Freigabe und Einspielen des betreffenden Updates jeweils verantwortlich?
 
+#### Antwort zu Fragen 1, 2 und 3
+
+Siehe Drs. 23/5333.
+
 ### Frage 4
 
 Wann wurde erstmals festgestellt, dass Dokumente nicht ordnungsgemäß versandt worden waren, und durch wen beziehungsweise aufgrund welchen konkreten Hinweises erfolgte diese Feststellung?
@@ -70,9 +72,24 @@ Falls ja, wann gingen die ersten entsprechenden Nachfragen ein und wie wurde dar
 
 Wie viele Schreiben wurden infolge der Störung insgesamt nicht beziehungsweise verspätet versandt? Bitte die genaue Zahl angeben.
 
+#### Antwort zu Fragen 4, 5 und 6
+
+Etwaige Nachfragen zu Unregelmäßigkeiten im Sinne der Fragestellung erfolgen regelmäßig direkt zu den jeweiligen Sachverfahren. Ohne eine Überprüfung sämtlicher betroffener Versandpakete und der zugehörigen Verfahrensakten kann daher nicht festgestellt werden, wann erste entsprechende schriftliche Nachfragen eingegangen sind.
+
+Der IT-Abteilung der Staatsanwaltschaft Hamburg ist am 13. August 2026 erstmals der Hinweis auf Beschwerden von Rechtsanwältinnen und Rechtsanwälten zu nicht erhaltenen Schreiben, in denen mitgeteilt wird, dass Akten zur Einsicht bereitgestellt werden, zur Kenntnis gelangt – dort noch ohne näheren prüfbaren Sachbezug, zumal verschiedene Fehlerquellen und Anwenderfehler in Betracht gezogen werden mussten. Am
+1. September 2026 wurde der IT-Abteilung dann erstmals ein überprüfbarer Vorgang mitgeteilt, der sodann zur Feststellung des Fehlers führte.
+
+Im Übrigen siehe Drs. 23/5333.
+
 ### Frage 7
 
 Wie viele unterschiedliche Ermittlungs- beziehungsweise Strafverfahren waren von den nicht oder verspätet versandten Schreiben betroffen?
+
+#### Antwort zu Frage 7
+
+Von dem Fehler betroffen waren ca. 13.400 Straf- und Ermittlungsverfahren. Soweit in der Drs. 23/5333 die Zahl der betroffenen Verfahren mit 14.100 Verfahren angegeben wurde, liegt diese Abweichung darin begründet, dass zusätzlich zu den hier abgefragten Straf- und Ermittlungsverfahren auch alle anderen betroffenen Verfahren, insbesondere Ordnungswidrigkeitenverfahren und AR-Vorgänge, in der Gesamtzahl berücksichtigt wurden.
+
+Im Übrigen siehe Drs. 23/5333
 
 ### Frage 8
 
@@ -100,6 +117,10 @@ Wie viele der betroffenen Schreiben enthielten Fristsetzungen oder waren sonst f
 
 In wie vielen Fällen mussten infolge des verspäteten Versands Fristen neu gesetzt, verlängert oder sonstige verfahrensrechtliche Vorkehrungen getroffen werden?
 
+#### Antwort zu Fragen 8 bis 10
+
+Siehe Drs. 23/5333.
+
 ### Frage 11
 
 Welche Maßnahmen hat die Staatsanwaltschaft getroffen, um sicherzustellen, dass Verfahrensbeteiligten aus der verspäteten Versendung keine rechtlichen Nachteile entstehen?
@@ -109,6 +130,16 @@ Welche Maßnahmen hat die Staatsanwaltschaft getroffen, um sicherzustellen, dass
 Trifft es zu, dass betroffene Fristen großzügig verlängert werden sollen?
 
 Falls ja, nach welchen Kriterien erfolgt dies und werden die Betroffenen hierüber aktiv informiert?
+
+#### Antwort zu Fragen 11 und 12
+
+Sämtliche Mitarbeitende der Staatsanwaltschaften Hamburg sind über das entstandene Problem informiert und angewiesen worden, bei Schreiben, die im Zeitraum 9. Juli 2026 bis 7. September 2026 versandt worden sind und etwaige Fristsetzungen beinhalten, diese Fristen großzügig zu verlängern. Ferner wurde der Versand der betroffenen Nachrichten durch die IT-Abteilung unmittelbar nach Einspielung des den Fehler behebenden Hotfixes erneut angestoßen und in derselben Woche abgeschlossen.
+
+Durch die IT-Abteilung ist ferner eine Aufstellung der betroffenen Verfahren erstellt und an die Sachabteilungen verteilt worden, so dass im Zweifelsfall anhand dieser Listen geprüft werden kann, ob Schreiben tatsächlich erst verspätet übersandt worden sind.
+
+Da die Übermittlungen inzwischen nachgeholt worden sind, ist eine gesonderte Information der betroffenen Adressaten nicht vorgesehen.
+
+Im Übrigen siehe Drs. 23/5333.
 
 ### Frage 13
 
@@ -121,6 +152,10 @@ Falls ja, mit welchem Ergebnis?
 Sind dem Senat Fälle bekannt, in denen die IT-Panne zu einer konkreten Verzögerung eines Ermittlungs-, Zwischen- oder Hauptverfahrens geführt hat?
 
 Falls ja, wie viele und in welchem Umfang?
+
+#### Antwort zu Fragen 13 und 14
+
+Siehe Drs. 23/5333.
 
 ### Frage 15
 
@@ -142,17 +177,35 @@ Falls ja, wann, durch wen und mit welchem Ergebnis?
 
 Welche Test-, Abnahme- und Freigabeverfahren sind grundsätzlich vorgesehen, bevor Updates des Fachverfahrens MESTA im Echtbetrieb der Staatsanwaltschaft eingesetzt werden?
 
+#### Antwort zu Fragen 15 bis 18
+
+Der gesamte Versandprozess wird an mehreren Stellen überwacht. An diesen erfolgen bei technischen Problemen systemseitig Hinweis- und Fehlermeldungen, denen bei Auftreten nachgegangen wird. Die Fehlfunktion blieb unerkannt, da diese an einer technischen Nahtstelle erfolgte, die bisher nicht selbst überwacht worden war. Eine eigenständige, automatisierte Kontrollsoftware ist nicht im Einsatz.
+
+Im Übrigen siehe Drs. 23/5333.
+
 ### Frage 19
 
 Welche täglichen, wöchentlichen oder sonstigen statistischen Übersichten bestehen über erzeugte, versandte, nicht versandte oder technisch fehlerhafte Dokumente?
+
+#### Antwort zu Frage 19
+
+Eine Erfassung von Dokumenten oder Übersichten im Sinne der Fragestellung erfolgt bei der Staatsanwaltschaft Hamburg nicht. An den überwachten Stellen wie insbesondere der Schnittstellenverarbeitung erfolgen hingegen systemseitig Hinweis- und Fehlermeldungen, denen bei Auftreten nachgegangen wird.
 
 ### Frage 20
 
 Wie häufig kam es seit dem 1. Januar 2020 bei der Staatsanwaltschaft Hamburg zu technischen Störungen von MESTA oder angeschlossenen Systemen, durch die Dokumente nicht oder verspätet versandt oder Verfahren verzögert wurden? Bitte nach Jahr, Störung, Dauer und Auswirkungen aufschlüsseln.
 
+#### Antwort zu Frage 20
+
+Eine Erhebung von Störungen im Sinne der Fragestellung erfolgt bei der Staatsanwaltschaft Hamburg nicht.
+
 ### Frage 21
 
 Sind nach Kenntnis des Senats auch andere Länder, die MESTA einsetzen, von derselben oder einer vergleichbaren Störung im Zusammenhang mit dem betreffenden Update betroffen gewesen?
+
+#### Antwort zu Frage 21
+
+Erkenntnisse im Sinne der Fragestellung liegen der zuständigen Behörde nicht vor.
 
 ### Frage 22
 
@@ -172,3 +225,7 @@ Falls ja, wann soll diese abgeschlossen werden und welche Konsequenzen sind vorg
 
 Welche zusätzlichen personellen oder sachlichen Aufwände sind durch die nachträgliche Bearbeitung und Versendung der rund
 17.000 Schreiben entstanden?
+
+#### Antwort zu Fragen 22 bis 25
+
+Siehe Drs. 23/5333.

@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/3074"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105376"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105376/23_05472_wie_steht_es_um_die_hvv_max_app_im_jahr_2026_iv"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Philipp Heißner (CDU) vom 24.09.26 und Antwort des Senats · Drucksache vom 24.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105376) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105376/23_05472_wie_steht_es_um_die_hvv_max_app_im_jahr_2026_iv)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

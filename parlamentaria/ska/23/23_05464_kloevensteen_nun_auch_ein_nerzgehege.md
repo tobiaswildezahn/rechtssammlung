@@ -19,7 +19,7 @@ zitierte_drucksachen: ["22/10301"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105372"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105372/23_05464_kloevensteen_nun_auch_ein_nerzgehege"
-abgerufen: "2026-09-27"
+abgerufen: "2026-09-28"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (Die Linke) vom 24.09.26 und Antwort des Senats · Drucksache vom 24.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105372) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105372/23_05464_kloevensteen_nun_auch_ein_nerzgehege)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
