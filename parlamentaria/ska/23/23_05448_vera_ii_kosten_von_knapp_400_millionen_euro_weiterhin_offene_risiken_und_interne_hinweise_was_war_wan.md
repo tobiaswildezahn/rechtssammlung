@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/1374", "23/1515", "23/1779", "23/1967", "23/2069", "2
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105354"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105354/23_05448_vera_ii_kosten_von_knapp_400_millionen_euro_weiterhin_offene_risiken_und_interne_hinweise_was_war_wann_bekannt_und_welche_probleme_bestehen_weiterhin"
-abgerufen: "2026-09-28"
+abgerufen: "2026-09-29"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Sandro Kappe (CDU) vom 22.09.26 und Antwort des Senats · Drucksache vom 22.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105354) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105354/23_05448_vera_ii_kosten_von_knapp_400_millionen_euro_weiterhin_offene_risiken_und_interne_hinweise_was_war_wann_bekannt_und_welche_probleme_bestehen_weiterhin)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

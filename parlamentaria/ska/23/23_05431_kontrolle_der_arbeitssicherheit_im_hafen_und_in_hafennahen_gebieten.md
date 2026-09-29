@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5193"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105348"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105348/23_05431_kontrolle_der_arbeitssicherheit_im_hafen_und_in_hafennahen_gebieten"
-abgerufen: "2026-09-28"
+abgerufen: "2026-09-29"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner (CDU) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105348) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105348/23_05431_kontrolle_der_arbeitssicherheit_im_hafen_und_in_hafennahen_gebieten)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

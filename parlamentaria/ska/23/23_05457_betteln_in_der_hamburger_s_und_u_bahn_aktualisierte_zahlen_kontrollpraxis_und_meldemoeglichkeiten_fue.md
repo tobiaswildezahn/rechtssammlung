@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/2892"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105364"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105364/23_05457_betteln_in_der_hamburger_s_und_u_bahn_aktualisierte_zahlen_kontrollpraxis_und_meldemoeglichkeiten_fuer_betroffene"
-abgerufen: "2026-09-28"
+abgerufen: "2026-09-29"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Philipp Heißner und Dr. Antonia-Katharina Goldner (CDU) vom 23.09.26 und Antwort des Senats · Drucksache vom 23.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105364) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105364/23_05457_betteln_in_der_hamburger_s_und_u_bahn_aktualisierte_zahlen_kontrollpraxis_und_meldemoeglichkeiten_fuer_betroffene)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

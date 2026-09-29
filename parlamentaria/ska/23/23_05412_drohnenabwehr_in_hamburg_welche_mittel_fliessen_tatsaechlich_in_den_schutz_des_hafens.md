@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105317
 titel: "Drohnenabwehr in Hamburg – welche Mittel fließen tatsächlich in den Schutz des Hafens?"
 datum_anfrage: "2026-09-17"
-datum_drucksache: "2026-09-17"
+datum_drucksache: "2026-09-25"
 urheber: ["Dr. Antonia-Katharina Goldner"]
 fraktionen: ["CDU"]
 vorgang: null
-seiten: 2
+seiten: 3
 fragen: 11
 einzelfragen: 13
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
-zitierte_drucksachen: ["23/5236", "23/5359"]
+antwortbloecke: 1
+beantwortet: true
+status: "beantwortet"
+zitierte_drucksachen: ["23/5236", "23/5359", "23/5154"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105317"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105317/23_05412_drohnenabwehr_in_hamburg_welche_mittel_fliessen_tatsaechlich_in_den_schutz_des_hafens"
-abgerufen: "2026-09-28"
+abgerufen: "2026-09-29"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5412: Drohnenabwehr in Hamburg – welche Mittel fließen tatsächlich in den Schutz des Hafens?
 
-> Schriftliche Kleine Anfrage und Antwort des Senats · Drucksache vom 17.09.2026  
+> Schriftliche Kleine Anfrage und Antwort des Senats · Drucksache vom 25.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105317) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105317/23_05412_drohnenabwehr_in_hamburg_welche_mittel_fliessen_tatsaechlich_in_den_schutz_des_hafens)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -41,6 +39,22 @@ Am 15. September 2026 berichtete zudem das „Hamburger Abendblatt“ (siehe Lin
 Es liegt selbstverständlich nicht im öffentlichen Interesse, technische Einzelheiten, konkrete Einsatzkonzepte oder Informationen offenzulegen, aus denen Rückschlüsse auf Fähigkeiten oder Verwundbarkeiten der Drohnenabwehr gezogen werden könnten. Dies schließt jedoch abstrakte Angaben zu Finanzierung, Beschaffungsstand, Zeitplanung und statistischen Größen nicht grundsätzlich aus.
 
 Vor diesem Hintergrund frage ich den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Der „Hamburger Investitionsbooster“ beschreibt den Hamburger Anteil von 2,65860 Milliarden Euro aus dem Sondervermögen „Infrastruktur und Klimaneutralität“ nach dem Länder-und-Kommunal-Infrastrukturfinanzierungsgesetz (LuKIFG). Für die Stärkung der Krisenresilienz und insbesondere den Ausbau der Drohnenabwehr hat die Behörde für Inneres und Sport (BIS) hiervon 60 Millionen Euro eingeplant. Näheres siehe: hamburger-investitionsbooster-data.pdf.
+
+Geplant ist die Anschaffung von Technik im Bereich der Drohnendetektion, Verifikation und Intervention. Im Übrigen sind die Überlegungen hierzu noch nicht abschlossen. Mit der Drs. 23/5359 wurde ein Teil dieser geplanten Investitionen in die Anschaffung von Drohnenabwehrtechnik vorgezogen, um vor dem Hintergrund des Vorfalls am Flughafen Leipzig den Fähigkeitsgewinn, angepasst an die aktuelle Bedrohungslage, zu beschleunigen. Das parlamentarische Fragerecht der Hamburgischen Bürgerschaft umfasst nicht Aspekte der senats- beziehungsweise behördeninternen Meinungsbildung, Planung und Sondierung, die im Kernbereich der exekutiven Eigenverantwortung liegen beziehungsweise einer konkreten Positionierung vorgelagert sind. Aus diesem Grund sieht der Senat in ständiger Praxis von Auskünften hierzu ab.
+
+Zwischen der Polizei Hamburg, Rheinmetall und der HPA wurde eine strategische Partnerschaft zur Entwicklung von geeigneten Ansätzen zum Schutz des Hamburger Hafens eingegangen. Zwischen den Vereinbarungspartnern der Absichtserklärung ist Vertraulichkeit vereinbart worden, insofern sind Veröffentlichungen über das bereits Bekannte hinaus nicht vorgesehen.
+
+An circa 100 Tagen fanden am oder vom dronePORT Flugeinsätze statt. Keiner der vom dronePORT durchgeführten Flugeinsätze stand in Verbindung zur Kooperation zwischen Polizei, Rheinmetall und HPA.
+
+Die Angaben zu Finanzierung, Kostenteilung, Beschaffung, Zeitplanung, Entscheidungsprozessen, Lieferzeiträumen, eingesetzter Technik, der Anzahl von System, technischen Spezifikationen und der konkreten Verteilung der dafür vorgesehenen Mittel innerhalb der genannten Projekte werden aus sicherheitspolitischen Gründen zurückgehalten, da daraus Rückschlüsse auf Projektinhalte, Leistungsanteile, operative Schwerpunkte, strategische Prioritäten, Fähigkeiten, Einsatzgrenzen, räumliche Deckungsgrade, Übergangszeiten in denen Schutzmaßnahmen noch nicht vollständig implementiert sind und mögliche Schwachstellen der Drohnenabwehr gezogen werden könnten. Aus diesen Gründen ist eine Zurückhaltung dieser Informationen unabdingbar, um die Wirksamkeit, Integrität und Sicherheit der eingesetzten Systeme sowie den Schutz von Personal, Infrastruktur und Einsatzfähigkeit zu gewährleisten. Ebenso werden aggregierte Fallzahlen zu verdächtigen Drohnenflügen nicht veröffentlicht, weil sie Erkenntnisse über Entdeckungswahrscheinlichkeit, Leistungsfähigkeit und Verwundbarkeiten der Hamburger Drohnenabwehr liefern könnten, die potenziellen Angreifenden erlauben würden, Angriffe gezielt zu planen und Abwehrmaßnahmen zu testen.
+
+Im Übrigen siehe Drs. 23/5236 und 23/5154.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 ## Fragen und Antworten
 
@@ -87,3 +101,7 @@ An wie vielen Einsatztagen wurde bislang im Jahr 2026 der dronePort für Flugein
 ### Frage 11
 
 Wie viele der unter Frage 10 genannten dieser Einsatztage beziehungsweise Flugeinsätze standen im Zusammenhang mit der Kooperation zwischen HPA, Polizei und Rheinmetall zur Entwicklung einer ganzheitlichen Drohnenabwehr?
+
+#### Antwort zu Fragen 1 bis 11
+
+Siehe Vorbemerkung.

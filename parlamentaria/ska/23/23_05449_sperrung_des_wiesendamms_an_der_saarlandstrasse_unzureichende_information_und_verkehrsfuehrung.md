@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105355"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105355/23_05449_sperrung_des_wiesendamms_an_der_saarlandstrasse_unzureichende_information_und_verkehrsfuehrung"
-abgerufen: "2026-09-28"
+abgerufen: "2026-09-29"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Julian Herrmann (CDU) vom 22.09.26 und Antwort des Senats · Drucksache vom 22.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105355) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105355/23_05449_sperrung_des_wiesendamms_an_der_saarlandstrasse_unzureichende_information_und_verkehrsfuehrung)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 28.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
