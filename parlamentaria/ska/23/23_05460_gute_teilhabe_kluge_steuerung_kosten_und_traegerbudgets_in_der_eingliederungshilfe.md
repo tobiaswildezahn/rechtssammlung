@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5356", "23/5233"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105368"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105368/23_05460_gute_teilhabe_kluge_steuerung_kosten_und_traegerbudgets_in_der_eingliederungshilfe"
-abgerufen: "2026-09-29"
+abgerufen: "2026-09-30"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Antje Müller-Möller (CDU) vom 24.09.26 und Antwort des Senats · Drucksache vom 24.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105368) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105368/23_05460_gute_teilhabe_kluge_steuerung_kosten_und_traegerbudgets_in_der_eingliederungshilfe)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

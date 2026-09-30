@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105362"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105362/23_05455_die_arche_hamburg_welche_finanziellen_foerderungen_erhaelt_das_kinder_und_jugendwerk_von_der_stadt_hamburg"
-abgerufen: "2026-09-29"
+abgerufen: "2026-09-30"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Silke Seif (CDU) vom 23.09.26 und Antwort des Senats · Drucksache vom 23.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105362) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105362/23_05455_die_arche_hamburg_welche_finanziellen_foerderungen_erhaelt_das_kinder_und_jugendwerk_von_der_stadt_hamburg)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

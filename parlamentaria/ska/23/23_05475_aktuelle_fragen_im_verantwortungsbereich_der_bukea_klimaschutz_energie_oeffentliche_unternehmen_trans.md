@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/4913"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105382"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105382/23_05475_aktuelle_fragen_im_verantwortungsbereich_der_bukea_klimaschutz_energie_oeffentliche_unternehmen_transparenz_und_gruenflaechen"
-abgerufen: "2026-09-29"
+abgerufen: "2026-09-30"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Sandro Kappe (CDU) vom 25.09.26 und Antwort des Senats · Drucksache vom 25.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105382) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105382/23_05475_aktuelle_fragen_im_verantwortungsbereich_der_bukea_klimaschutz_energie_oeffentliche_unternehmen_transparenz_und_gruenflaechen)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

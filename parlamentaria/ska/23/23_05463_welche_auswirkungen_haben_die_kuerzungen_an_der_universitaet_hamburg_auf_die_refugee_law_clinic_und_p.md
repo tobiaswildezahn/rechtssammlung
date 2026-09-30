@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105371"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105371/23_05463_welche_auswirkungen_haben_die_kuerzungen_an_der_universitaet_hamburg_auf_die_refugee_law_clinic_und_praktische_ausbildung_von_studierenden"
-abgerufen: "2026-09-29"
+abgerufen: "2026-09-30"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Carola Ensslen und Xenija Melnik-Üzüm (Die Linke) vom 24.09.26 und Antwort des Senats · Drucksache vom 24.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105371) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105371/23_05463_welche_auswirkungen_haben_die_kuerzungen_an_der_universitaet_hamburg_auf_die_refugee_law_clinic_und_praktische_ausbildung_von_studierenden)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

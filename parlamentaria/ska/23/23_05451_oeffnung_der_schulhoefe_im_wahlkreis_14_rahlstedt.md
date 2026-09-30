@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105357"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105357/23_05451_oeffnung_der_schulhoefe_im_wahlkreis_14_rahlstedt"
-abgerufen: "2026-09-29"
+abgerufen: "2026-09-30"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Markus Kranig (CDU) vom 22.09.26 und Antwort des Senats · Drucksache vom 22.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105357) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105357/23_05451_oeffnung_der_schulhoefe_im_wahlkreis_14_rahlstedt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

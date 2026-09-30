@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/3373"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105349"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105349/23_05432_altonaer_deckel_und_klinikneubau_hat_der_senat_die_herausforderungen_durch_parallel_laufende_grossprojekte_im_blick"
-abgerufen: "2026-09-29"
+abgerufen: "2026-09-30"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Anke Frieling (CDU) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105349) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105349/23_05432_altonaer_deckel_und_klinikneubau_hat_der_senat_die_herausforderungen_durch_parallel_laufende_grossprojekte_im_blick)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105339"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105339/23_05422_neue_drogengefahren_sind_streetwork_und_niedrigschwellige_hilfen_in_hamburg_ausreichend_informiert_und_vorbereitet"
-abgerufen: "2026-09-29"
+abgerufen: "2026-09-30"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Dirk Nockemann (AfD) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105339) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105339/23_05422_neue_drogengefahren_sind_streetwork_und_niedrigschwellige_hilfen_in_hamburg_ausreichend_informiert_und_vorbereitet)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

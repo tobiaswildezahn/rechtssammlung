@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105370"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105370/23_05462_planmaessige_stellenvakanzen_zur_erfuellung_von_kuerzungszielen_wie_ist_die_praxis_in_den_behoerden"
-abgerufen: "2026-09-29"
+abgerufen: "2026-09-30"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten David Stoop (Die Linke) vom 24.09.26 und Antwort des Senats · Drucksache vom 24.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105370) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105370/23_05462_planmaessige_stellenvakanzen_zur_erfuellung_von_kuerzungszielen_wie_ist_die_praxis_in_den_behoerden)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 29.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
