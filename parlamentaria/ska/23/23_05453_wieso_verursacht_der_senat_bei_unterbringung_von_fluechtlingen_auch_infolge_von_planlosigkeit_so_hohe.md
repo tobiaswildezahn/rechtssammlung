@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5356"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105360"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105360/23_05453_wieso_verursacht_der_senat_bei_unterbringung_von_fluechtlingen_auch_infolge_von_planlosigkeit_so_hohe_mehrkosten"
-abgerufen: "2026-09-30"
+abgerufen: "2026-10-01"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Andreas Grutzeck (CDU) vom 23.09.26 und Antwort des Senats · Drucksache vom 23.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105360) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105360/23_05453_wieso_verursacht_der_senat_bei_unterbringung_von_fluechtlingen_auch_infolge_von_planlosigkeit_so_hohe_mehrkosten)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105343
 titel: "Geplanter Neubau des Abrigado an der Buxtehuder Straße 31 – Baustellenlogistik, Verkehrsbelastung und Information des Umfeldes"
 datum_anfrage: "2026-09-21"
-datum_drucksache: "2026-09-21"
+datum_drucksache: "2026-09-29"
 urheber: ["Thomas Reich", "Dirk Nockemann"]
 fraktionen: ["AfD"]
 vorgang: null
-seiten: 3
+seiten: 4
 fragen: 15
 einzelfragen: 27
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 4
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105343"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105343/23_05426_geplanter_neubau_des_abrigado_an_der_buxtehuder_strasse_31_baustellenlogistik_verkehrsbelastung_und_information_des_umfeldes"
-abgerufen: "2026-09-30"
+abgerufen: "2026-10-01"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5426: Geplanter Neubau des Abrigado an der Buxtehuder Straße 31 – Baustellenlogistik, Verkehrsbelastung und Information des Umfeldes
 
-> Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Dirk Nockemann (AfD) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Dirk Nockemann (AfD) vom 21.09.26 und Antwort des Senats · Drucksache vom 29.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105343) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105343/23_05426_geplanter_neubau_des_abrigado_an_der_buxtehuder_strasse_31_baustellenlogistik_verkehrsbelastung_und_information_des_umfeldes)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -43,6 +41,12 @@ Von Bedeutung ist darüber hinaus, ob Anwohner, Gewerbetreibende und soziale bez
 Aus den bisherigen Antworten des Senats zum Abrigado-Neubau sind entsprechende Einzelheiten nicht ersichtlich.
 
 Vor diesem Hintergrund fragen wir den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Die Beauftragung der Bauplanung und Abstimmung mit den zuständigen Stellen erfolgt nach der Ausschreibung und Auftragserteilung eines Generalunternehmens durch F & W Fördern und Wohnen AöR (F&W) mit dem Ziel eines Baubeginns im Jahr 2026. Die Verkehrliche Baustellenkoordinierung kann entsprechend erst mit vorliegender Planung erfolgen.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundlage von Auskünften von F&W wie folgt:
 
 ## Fragen und Antworten
 
@@ -94,6 +98,10 @@ e) Inanspruchnahmen öffentlicher Verkehrsflächen für Baustelleneinrichtung, A
 
 Wo sollen Baustellenfahrzeuge warten, rangieren sowie be- und entladen und wie soll verhindert werden, dass dadurch der fließende Verkehr auf der Buxtehuder Straße zusätzlich beeinträchtigt wird?
 
+#### Antwort zu Fragen 1 bis 6
+
+Eine temporäre Spursperrung zur Einrichtung der Baustellenzufahrt über die Buxtehuder Straße wird erforderlich. Das Be- und Entladen wird auf dem Grundstück erfolgen. Darüber hinaus sind zunächst keine weiteren Einschränkungen absehbar. Änderungen können sich durch die Bauplanung und dem Baustellenkonzept ergeben. Im Übrigen siehe Vorbemerkung.
+
 ### Frage 7
 
 Welche weiteren größeren Straßen-, Leitungs-, Hoch- oder Tiefbaumaßnahmen sind während der vorgesehenen Bauzeit bis Ende 2028 auf der Buxtehuder Straße beziehungsweise den für die Verkehrsabwicklung relevanten angrenzenden Straßen geplant und wie wird der Abrigado-Neubau mit diesen Maßnahmen koordiniert?
@@ -118,11 +126,21 @@ Falls ja, mit welchem Ergebnis?
 
 Falls nein, warum nicht?
 
+#### Antwort zu Fragen 7 bis 10
+
+Es ist beabsichtigt, zunächst die Deckschichtsanierung durchzuführen und in diesem Zusammenhang die darunterliegenden Wasserleitungen zu erneuern und damit die Buxtehuder Straße im Jahr 2027 vollständig instand zu setzen. Die für die Instandsetzung notwendigen Planungsschritte beinhalten verschiedene Voruntersuchungen der Fahrbahn von qualifizierten Laboren, die teilweise durchgeführt wurden und teilweise noch geplant sind. Die daraus vorliegenden Ergebnisse werden im Anschluss ausgewertet und im weiteren Planungsprozess berücksichtigt. Eine Koordinierung von Baustellen auf Hauptverkehrsstraßen erfolgt ministeriell durch die Verkehrliche Baustellenkoordination der für Verkehr zuständigen Behörde.
+
+Im Übrigen siehe Vorbemerkung.
+
 ### Frage 11
 
 Wird vor Beginn der Abbrucharbeiten eine dokumentierte Zustandserfassung beziehungsweise Beweissicherung der voraussichtlich durch den Baustellenverkehr beanspruchten öffentlichen Straßen-, Geh- und Radverkehrsflächen vorgenommen?
 
 Falls nein, warum nicht?
+
+#### Antwort zu Frage 11
+
+Eine Beweissicherung wird durch die zuständigen Stellen und den Generalunternehmer erfolgen.
 
 ### Frage 12
 
@@ -165,3 +183,7 @@ a) welche wesentlichen Planungen, Abstimmungen oder Genehmigungen stehen noch au
 b) wann sollen diese abgeschlossen sein und
 
 c) hält der Senat weiterhin am vorgesehenen Baustart Ende 2026 fest?
+
+#### Antwort zu Fragen 12 bis 15 c)
+
+Sobald die Planung abgeschlossen ist und Auswirkungen absehbar sind, wird die Nachbarschaft vor Baubeginn schriftlich informiert. Weiter wird vor Baubeginn ein Bauschild mit allen relevanten Informationen aufgestellt. Im Übrigen siehe Vorbemerkung.

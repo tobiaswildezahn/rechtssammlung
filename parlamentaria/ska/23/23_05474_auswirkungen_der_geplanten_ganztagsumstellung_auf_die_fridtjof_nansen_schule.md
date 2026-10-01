@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105381"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105381/23_05474_auswirkungen_der_geplanten_ganztagsumstellung_auf_die_fridtjof_nansen_schule"
-abgerufen: "2026-09-30"
+abgerufen: "2026-10-01"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Antje Müller-Möller und Birgit Stöver (CDU) vom 25.09.26 und Antwort des Senats · Drucksache vom 25.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105381) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105381/23_05474_auswirkungen_der_geplanten_ganztagsumstellung_auf_die_fridtjof_nansen_schule)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

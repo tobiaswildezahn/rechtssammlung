@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/2865"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105356"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105356/23_05450_wohnunterkunft_am_luisenhof_tegelweg_entfristungsantrag_von_foerdern_wohnen_laufzeiten_der_genehmigungen_und_weiterhin_zugesagter_rueckbau"
-abgerufen: "2026-09-30"
+abgerufen: "2026-10-01"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Sandro Kappe (CDU) vom 22.09.26 und Antwort des Senats · Drucksache vom 22.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105356) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105356/23_05450_wohnunterkunft_am_luisenhof_tegelweg_entfristungsantrag_von_foerdern_wohnen_laufzeiten_der_genehmigungen_und_weiterhin_zugesagter_rueckbau)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

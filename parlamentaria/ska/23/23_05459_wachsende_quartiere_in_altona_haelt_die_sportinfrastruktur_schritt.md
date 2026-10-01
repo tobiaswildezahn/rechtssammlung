@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105366"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105366/23_05459_wachsende_quartiere_in_altona_haelt_die_sportinfrastruktur_schritt"
-abgerufen: "2026-09-30"
+abgerufen: "2026-10-01"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage und Antwort des Senats · Drucksache vom 23.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105366) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105366/23_05459_wachsende_quartiere_in_altona_haelt_die_sportinfrastruktur_schritt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

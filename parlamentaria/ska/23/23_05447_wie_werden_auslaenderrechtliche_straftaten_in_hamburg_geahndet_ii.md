@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/1569", "22/15757", "22/11502", "22/4957"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105353"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105353/23_05447_wie_werden_auslaenderrechtliche_straftaten_in_hamburg_geahndet_ii"
-abgerufen: "2026-09-30"
+abgerufen: "2026-10-01"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Richard Seelmaecker und Dennis Gladiator (CDU) vom 22.09.26 und Antwort des Senats · Drucksache vom 22.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105353) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105353/23_05447_wie_werden_auslaenderrechtliche_straftaten_in_hamburg_geahndet_ii)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105339
 titel: "Neue Drogengefahren – sind Streetwork und niedrigschwellige Hilfen in Hamburg ausreichend informiert und vorbereitet"
 datum_anfrage: "2026-09-21"
-datum_drucksache: "2026-09-21"
+datum_drucksache: "2026-09-29"
 urheber: ["Thomas Reich", "Dirk Nockemann"]
 fraktionen: ["AfD"]
 vorgang: null
-seiten: 3
+seiten: 5
 fragen: 19
 einzelfragen: 23
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
-zitierte_drucksachen: []
+antwortbloecke: 2
+beantwortet: true
+status: "beantwortet"
+zitierte_drucksachen: ["23/5421"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105339"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105339/23_05422_neue_drogengefahren_sind_streetwork_und_niedrigschwellige_hilfen_in_hamburg_ausreichend_informiert_und_vorbereitet"
-abgerufen: "2026-09-30"
+abgerufen: "2026-10-01"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5422: Neue Drogengefahren – sind Streetwork und niedrigschwellige Hilfen in Hamburg ausreichend informiert und vorbereitet
 
-> Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Dirk Nockemann (AfD) vom 21.09.26 und Antwort des Senats · Drucksache vom 21.09.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Thomas Reich und Dirk Nockemann (AfD) vom 21.09.26 und Antwort des Senats · Drucksache vom 29.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105339) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105339/23_05422_neue_drogengefahren_sind_streetwork_und_niedrigschwellige_hilfen_in_hamburg_ausreichend_informiert_und_vorbereitet)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 30.09.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -36,13 +34,35 @@ Menschen mit langjährigem Hochrisiko-Drogenkonsum sind in besonderem Maße auf 
 
 Vor diesem Hintergrund fragen wir den Senat:
 
+## Einleitung für die Antworten des Senats
+
+In der Freien und Hansestadt Hamburg (FHH) ist derzeit kein virulentes Geschehen im Zusammenhang mit neuen hochpotenten synthetischen Opioiden, insbesondere Nitazenen, festzustellen. Ein strukturelles Problem ist somit aktuell nicht erkennbar. Die für Gesundheit zuständige Behörde beobachtet die Entwicklung gleichwohl aufmerksam und steht hierzu regelmäßig im Austausch mit den freien Trägern der niedrigschwelligen Suchthilfe. Auffälligkeiten und Beobachtungen zu veränderten Konsummustern, ungewöhnlichen Wirkungen oder möglichen neuen Substanzen werden im Rahmen der bestehenden Regelaustausche und Sachberichte ausgetauscht beziehungsweise dokumentiert. Sollten relevante Auffälligkeiten bekannt werden, können die Informationen über diese bestehenden Kommunikationswege an die in der offenen Drogenszene und den niedrigschwelligen Hilfen tätigen Fachkräfte weitergegeben und im Rahmen der aufsuchenden Tätigkeit sowie der Beratungsangebote an die betroffenen Personen vermittelt werden.
+
+Die FHH hat am bundesweiten Projekt NALtrain teilgenommen, dessen Projektlaufzeit von Juli 2021 bis Juni 2024 war und im Rahmen dessen verschiedene Träger der niedrigschwelligen Suchthilfe in der FHH zur Naloxon-Anwendung geschult wurden. Nach den Erfahrungen aus diesem Projekt war die Akzeptanz der Take-Home-Vergabe von Naloxon bei der Klientel der Drogenkonsumierenden eher gering. Die Möglichkeit zur Mitnahme wurde nur in geringem Umfang genutzt. Eine gesonderte Hamburger Dokumentation zu den Projektergebnissen liegt der für Gesundheit zuständigen Behörde nicht vor. Insoweit wird auf den Ergebnisbericht des NALtrain-Projekts verwiesen.
+
+Mit dem Auslaufen von NALtrain besteht bei den geförderten Hamburger Trägern der Suchthilfe derzeit kein eigenständiges Angebot zur Take-Home-Vergabe von Naloxon. Die Themen Naloxon, Opioidüberdosierungen und Notfallversorgung sind jedoch weiterhin Bestandteil interner Schulungen und Fortbildungen der freien Träger, insbesondere der regelmäßigen Notfallschulungen für Mitarbeitende in Drogenkonsumräumen.
+
+Die aufsuchende Straßensozialarbeit der Obdachlosenhilfe richtet sich demgegenüber an erwachsene obdachlose Menschen, bei denen eine Suchtmittelabhängigkeit nicht im Vordergrund steht. Entsprechend haben die Mitarbeitenden nur selten Kontakt zu Menschen mit Hochrisiko-Opioidkonsum. Eine spezifische Schulung oder Versorgung der Mitarbeitenden mit Take-Home-Naloxon erfolgt daher nicht. Bei Bedarf besteht jedoch ein enger Austausch mit den Einrichtungen und Angeboten der Drogen- und Suchthilfe, an die betroffene Menschen vermittelt oder begleitet werden können. Bei akuten gesundheitlichen Notlagen werden die erforderlichen Rettungs- beziehungsweise Notfallstrukturen hinzugezogen.
+
+Für die Beobachtung und Information über neue beziehungsweise besonders gefährliche Substanzen steht den Behörden und Trägern zudem das bundesweite NEWS-Projekt des IFT – Institut für Therapieforschung als Informationsquelle zur Verfügung. Die bestehenden Informations- und Kommunikationsstrukturen sollen künftig durch die geplanten Landesknotenpunkte der Länder und ein entsprechendes Frühwarnsystem weiterentwickelt werden. Diese Strukturen befinden sich derzeit noch in der Planung.
+
+Die bestehenden Hamburger Strukturen ermöglichen damit sowohl die kontinuierliche Beobachtung der Entwicklungen in der offenen Drogenszene als auch die Weitergabe relevanter Informationen an die Fachkräfte der niedrigschwelligen Suchthilfe und über diese an die betroffenen Drogenkonsumierenden. Eine weitergehende systematische Dokumentation einzelner Warnungen, Schulungen oder Weitergaben von Informationen zu Nitazenen beziehungsweise anderen neuen hochpotenten synthetischen Opioiden liegt der für Gesundheit zuständigen Behörde derzeit nicht vor.
+
+Im Übrigen siehe Drs. 23/5421.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
 
-Welche Stellen, Träger beziehungsweise Angebote sind derzeit im Auftrag, mit Finanzierung oder Förderung der Freien und Hansestadt Hamburg regelmäßig aufsuchend in der offenen Drogenszene beziehungsweise an bekannten Treffpunkten Drogenkonsumenten tätig?
+Welche Stellen, Träger beziehungsweise Angebote sind derzeit im Auftrag, mit Finanzierung oder Förderung der Freien und Hansestadt Hamburg regelmäßig aufsuchend in der offenen Drogenszene beziehungsweise an bekannten Treffpunkten Drogenkonsumenten tätig? Bitte für jedes Angebot Einsatzgebiet beziehungsweise Einsatzorte,
 
-Bitte für jedes Angebot Einsatzgebiet beziehungsweise Einsatzorte, regelmäßige Einsatzzeiten sowie die Zahl der hierfür eingesetzten Mitarbeiter und Vollzeitäquivalente angeben.
+regelmäßige Einsatzzeiten sowie die Zahl der hierfür eingesetzten Mitarbeiter und Vollzeitäquivalente angeben.
+
+#### Antwort zu Frage 1
+
+Siehe Anlage.
 
 ### Frage 2
 
@@ -123,3 +143,13 @@ Wenn ja, über welche Angebote und in welchem Umfang?
 ### Frage 19
 
 Welche Maßnahmen hat der Senat seit 2024 ergriffen beziehungsweise plant er, um angesichts neuer hochpotenter synthetischer Opioide die Information und Schulung von Streetwork und niedrigschwelligen Hilfen sowie den Zugang besonders gefährdeter Menschen zu Naloxon und Take-Home-Naloxon zu verbessern?
+
+#### Antwort zu Fragen 2 bis 19
+
+Siehe Vorbemerkung.
+
+Bürgerschaft der Freien und Anzahl Std. Hansestadt Projekt Träger Stadtteil Fördernde Stelle Anzahl VZÄ 1) pro Woche Drob Inn mobil Jugendhilfe e.V. St. Georg und Umgebung des Hauptbahnhofes Sozialbehörde/ Amt für Gesundheit 3,00 25 Stay Alive mobil Jugendhilfe e.V. St. Pauli und Altona-Altstadt Sozialbehörde/ Amt für Gesundheit 2,5 20 Hamburg – ragazza ragazza e.V. St. Georg Sozialbehörde/ Amt für Gesundheit 0,88 14 23. Park In Die Heilsarmee in Deutschland City-Bereich sowie im Hamburger Osten Sozialbehörde/ Amt für Gesundheit 1,48 32
+
+\1) Es gibt keine festgelegten Einsatzzeiten, damit flexibel auf die Bedarfe der Klientinnen und Klienten sowie der Stadtteile reagiert werden kann. Einsätze erfolgen wäh- rend der Tagesöffnungszeiten der Einrichtungen. Wahlperiode
+
+Drucksache Anlage23/5422
