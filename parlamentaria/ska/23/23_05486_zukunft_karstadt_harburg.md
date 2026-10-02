@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/3998", "23/1763"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105415"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105415/23_05486_zukunft_karstadt_harburg"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Xenija Melnik-Üzüm (Die Linke) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105415) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105415/23_05486_zukunft_karstadt_harburg)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

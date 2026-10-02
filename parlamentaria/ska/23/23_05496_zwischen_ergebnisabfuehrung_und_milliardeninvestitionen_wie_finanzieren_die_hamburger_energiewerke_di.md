@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105422"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105422/23_05496_zwischen_ergebnisabfuehrung_und_milliardeninvestitionen_wie_finanzieren_die_hamburger_energiewerke_die_waermewende"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Markus Kranig, Sandro Kappe und Dr. Antonia Goldner (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105422) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105422/23_05496_zwischen_ergebnisabfuehrung_und_milliardeninvestitionen_wie_finanzieren_die_hamburger_energiewerke_die_waermewende)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

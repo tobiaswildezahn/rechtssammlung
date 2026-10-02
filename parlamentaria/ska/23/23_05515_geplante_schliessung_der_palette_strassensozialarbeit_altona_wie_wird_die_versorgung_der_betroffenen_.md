@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5270"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105432"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105432/23_05515_geplante_schliessung_der_palette_strassensozialarbeit_altona_wie_wird_die_versorgung_der_betroffenen_sichergestellt"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Andreas Grutzeck (CDU) vom 29.09.26 und Antwort des Senats · Drucksache vom 29.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105432) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105432/23_05515_geplante_schliessung_der_palette_strassensozialarbeit_altona_wie_wird_die_versorgung_der_betroffenen_sichergestellt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

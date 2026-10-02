@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105380"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105380/23_05473_profit_vor_patientenwohl_situation_in_der_notaufnahme_der_asklepios_klinik_wandsbek_im_zweiten_halbjahr_2025"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Claudia Loss (SPD) vom 25.09.26 und Antwort des Senats · Drucksache vom 25.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105380) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105380/23_05473_profit_vor_patientenwohl_situation_in_der_notaufnahme_der_asklepios_klinik_wandsbek_im_zweiten_halbjahr_2025)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

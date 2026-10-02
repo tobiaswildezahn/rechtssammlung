@@ -19,7 +19,7 @@ zitierte_drucksachen: ["21/1583", "21/3004", "21/14946", "22/9201"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105413"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105413/23_05484_dolmetscher_und_uebersetzungsleistungen_im_auftrag_der_strafverfolgungsbehoerden_und_gerichte_wie_haben_sich_die_kosten_in_den_letzten_jahren_entwicke"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Richard Seelmaecker (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105413) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105413/23_05484_dolmetscher_und_uebersetzungsleistungen_im_auftrag_der_strafverfolgungsbehoerden_und_gerichte_wie_haben_sich_die_kosten_in_den_letzten_jahren_entwicke)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

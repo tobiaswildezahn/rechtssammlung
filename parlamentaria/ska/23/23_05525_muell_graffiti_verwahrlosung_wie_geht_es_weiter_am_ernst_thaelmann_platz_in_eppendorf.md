@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105434"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105434/23_05525_muell_graffiti_verwahrlosung_wie_geht_es_weiter_am_ernst_thaelmann_platz_in_eppendorf"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner (CDU) vom 29.09.26 und Antwort des Senats · Drucksache vom 29.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105434) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105434/23_05525_muell_graffiti_verwahrlosung_wie_geht_es_weiter_am_ernst_thaelmann_platz_in_eppendorf)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

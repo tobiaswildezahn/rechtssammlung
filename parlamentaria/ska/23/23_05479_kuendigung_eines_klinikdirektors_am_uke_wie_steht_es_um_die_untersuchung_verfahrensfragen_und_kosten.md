@@ -19,7 +19,7 @@ zitierte_drucksachen: ["22/15773", "22/15899"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105408"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105408/23_05479_kuendigung_eines_klinikdirektors_am_uke_wie_steht_es_um_die_untersuchung_verfahrensfragen_und_kosten"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Richard Seelmaecker, Dr. Anke Frieling, Anna von Treuenfels-Frowein (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105408) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105408/23_05479_kuendigung_eines_klinikdirektors_am_uke_wie_steht_es_um_die_untersuchung_verfahrensfragen_und_kosten)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

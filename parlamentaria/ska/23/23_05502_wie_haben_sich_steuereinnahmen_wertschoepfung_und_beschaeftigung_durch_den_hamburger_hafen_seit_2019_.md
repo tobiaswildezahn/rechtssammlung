@@ -19,7 +19,7 @@ zitierte_drucksachen: ["22/12205"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105428"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105428/23_05502_wie_haben_sich_steuereinnahmen_wertschoepfung_und_beschaeftigung_durch_den_hamburger_hafen_seit_2019_entwickelt"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105428) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105428/23_05502_wie_haben_sich_steuereinnahmen_wertschoepfung_und_beschaeftigung_durch_den_hamburger_hafen_seit_2019_entwickelt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

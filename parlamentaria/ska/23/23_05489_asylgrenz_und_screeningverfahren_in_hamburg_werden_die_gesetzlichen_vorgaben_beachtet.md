@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105418"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105418/23_05489_asylgrenz_und_screeningverfahren_in_hamburg_werden_die_gesetzlichen_vorgaben_beachtet"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Carola Ensslen (Die Linke) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105418) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105418/23_05489_asylgrenz_und_screeningverfahren_in_hamburg_werden_die_gesetzlichen_vorgaben_beachtet)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

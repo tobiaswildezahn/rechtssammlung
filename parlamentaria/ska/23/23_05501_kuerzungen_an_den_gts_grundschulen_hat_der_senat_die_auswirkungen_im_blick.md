@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105427"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105427/23_05501_kuerzungen_an_den_gts_grundschulen_hat_der_senat_die_auswirkungen_im_blick"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten David Stoop (Die Linke) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105427) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105427/23_05501_kuerzungen_an_den_gts_grundschulen_hat_der_senat_die_auswirkungen_im_blick)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

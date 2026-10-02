@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/2471"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105410"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105410/23_05481_dauerleerstaende_auf_der_uhlenhorst_was_passiert_in_der_karlstrasse_39_und_an_der_ecke_papenhuder_strasse_hartwicusstrasse"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Julian Herrmann (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105410) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105410/23_05481_dauerleerstaende_auf_der_uhlenhorst_was_passiert_in_der_karlstrasse_39_und_an_der_ecke_papenhuder_strasse_hartwicusstrasse)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

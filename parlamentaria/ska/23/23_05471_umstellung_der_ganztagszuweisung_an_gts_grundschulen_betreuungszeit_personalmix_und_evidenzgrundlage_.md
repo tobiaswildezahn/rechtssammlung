@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5000", "23/4914", "23/4680"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105375"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105375/23_05471_umstellung_der_ganztagszuweisung_an_gts_grundschulen_betreuungszeit_personalmix_und_evidenzgrundlage_der_neuregelung"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Birgit Stöver (CDU) vom 24.09.26 und Antwort des Senats · Drucksache vom 24.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105375) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105375/23_05471_umstellung_der_ganztagszuweisung_an_gts_grundschulen_betreuungszeit_personalmix_und_evidenzgrundlage_der_neuregelung)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105430"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105430/23_05513_unterelbeabkommen_kosten_der_wasserschutzpolizei_und_flottenmodell_der_hpa_wer_finanziert_eigentlich_die_maritime_sicherheit_hamburgs"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Stefan Bereuter und Dennis Gladiator (CDU) vom 29.09.26 und Antwort des Senats · Drucksache vom 29.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105430) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105430/23_05513_unterelbeabkommen_kosten_der_wasserschutzpolizei_und_flottenmodell_der_hpa_wer_finanziert_eigentlich_die_maritime_sicherheit_hamburgs)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

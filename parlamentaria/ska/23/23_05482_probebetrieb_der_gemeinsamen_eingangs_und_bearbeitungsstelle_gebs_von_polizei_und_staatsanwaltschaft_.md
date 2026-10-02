@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5098", "23/4623"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105411"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105411/23_05482_probebetrieb_der_gemeinsamen_eingangs_und_bearbeitungsstelle_gebs_von_polizei_und_staatsanwaltschaft_erste_erkenntnisse_v"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dennis Gladiator und Richard Seelmaecker (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105411) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105411/23_05482_probebetrieb_der_gemeinsamen_eingangs_und_bearbeitungsstelle_gebs_von_polizei_und_staatsanwaltschaft_erste_erkenntnisse_v)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

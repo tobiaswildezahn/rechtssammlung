@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105421"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105421/23_05492_kein_anschluss_unter_dieser_nummer_wahlkreis_rahlstedt_am_stadtrand_mit_schlechtem_mobilfunknetz"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Markus Kranig (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105421) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105421/23_05492_kein_anschluss_unter_dieser_nummer_wahlkreis_rahlstedt_am_stadtrand_mit_schlechtem_mobilfunknetz)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

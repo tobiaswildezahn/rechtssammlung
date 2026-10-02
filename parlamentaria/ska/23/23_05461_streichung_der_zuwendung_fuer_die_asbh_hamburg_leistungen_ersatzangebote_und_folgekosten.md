@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105369"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105369/23_05461_streichung_der_zuwendung_fuer_die_asbh_hamburg_leistungen_ersatzangebote_und_folgekosten"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Antje Müller-Möller (CDU) vom 24.09.26 und Antwort des Senats · Drucksache vom 24.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105369) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105369/23_05461_streichung_der_zuwendung_fuer_die_asbh_hamburg_leistungen_ersatzangebote_und_folgekosten)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -19,7 +19,7 @@ zitierte_drucksachen: ["22/11368"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105425"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105425/23_05499_13_jaehriger_mit_mutmasslichem_toetungsauftrag_wie_reagiert_hamburg_auf_schwere_kinderkriminalitaet_und_die_anwerbung_minderjaehriger"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105425) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105425/23_05499_13_jaehriger_mit_mutmasslichem_toetungsauftrag_wie_reagiert_hamburg_auf_schwere_kinderkriminalitaet_und_die_anwerbung_minderjaehriger)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

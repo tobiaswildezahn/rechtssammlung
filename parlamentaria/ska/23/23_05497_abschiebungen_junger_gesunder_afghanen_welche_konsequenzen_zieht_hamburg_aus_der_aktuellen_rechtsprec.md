@@ -19,7 +19,7 @@ zitierte_drucksachen: ["21/6632", "21/6802", "23/4867"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105423"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105423/23_05497_abschiebungen_junger_gesunder_afghanen_welche_konsequenzen_zieht_hamburg_aus_der_aktuellen_rechtsprechung"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105423) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105423/23_05497_abschiebungen_junger_gesunder_afghanen_welche_konsequenzen_zieht_hamburg_aus_der_aktuellen_rechtsprechung)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

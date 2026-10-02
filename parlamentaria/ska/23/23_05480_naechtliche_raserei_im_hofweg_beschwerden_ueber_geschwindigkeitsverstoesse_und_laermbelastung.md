@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105409"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105409/23_05480_naechtliche_raserei_im_hofweg_beschwerden_ueber_geschwindigkeitsverstoesse_und_laermbelastung"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Julian Herrmann (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105409) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105409/23_05480_naechtliche_raserei_im_hofweg_beschwerden_ueber_geschwindigkeitsverstoesse_und_laermbelastung)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

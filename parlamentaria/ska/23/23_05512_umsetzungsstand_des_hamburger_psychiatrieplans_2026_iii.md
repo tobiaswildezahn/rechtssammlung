@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/483", "23/2164", "23/2325", "23/2629", "23/3114", "23
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105429"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105429/23_05512_umsetzungsstand_des_hamburger_psychiatrieplans_2026_iii"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Christin Christ (CDU) vom 29.09.26 und Antwort des Senats · Drucksache vom 29.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105429) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105429/23_05512_umsetzungsstand_des_hamburger_psychiatrieplans_2026_iii)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

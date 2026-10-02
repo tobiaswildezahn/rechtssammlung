@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5280", "23/5100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105412"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105412/23_05483_verhandlungen_und_aenderungen_der_wirtschaftsplaene_der_staatlichen_hochschulen_fuer_2027_und_2028"
-abgerufen: "2026-10-01"
+abgerufen: "2026-10-02"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Anna-Elisabeth von Treuenfels-Frowein (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105412) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105412/23_05483_verhandlungen_und_aenderungen_der_wirtschaftsplaene_der_staatlichen_hochschulen_fuer_2027_und_2028)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.10.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
