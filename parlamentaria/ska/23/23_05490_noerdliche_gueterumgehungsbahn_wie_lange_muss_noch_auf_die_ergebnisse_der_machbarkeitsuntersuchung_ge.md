@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105419
 titel: "Nördliche Güterumgehungsbahn – wie lange muss noch auf die Ergebnisse der Machbarkeitsuntersuchung gewartet werden?"
 datum_anfrage: "2026-09-28"
-datum_drucksache: "2026-09-28"
+datum_drucksache: "2026-10-06"
 urheber: ["Heike Sudmann"]
 fraktionen: ["Die Linke"]
 vorgang: null
 seiten: 2
 fragen: 6
 einzelfragen: 7
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 1
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/365"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105419"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105419/23_05490_noerdliche_gueterumgehungsbahn_wie_lange_muss_noch_auf_die_ergebnisse_der_machbarkeitsuntersuchung_gewartet_werden"
-abgerufen: "2026-10-02"
+abgerufen: "2026-10-10"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5490: Nördliche Güterumgehungsbahn – wie lange muss noch auf die Ergebnisse der Machbarkeitsuntersuchung gewartet werden?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Heike Sudmann (Die Linke) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Heike Sudmann (Die Linke) vom 28.09.26 und Antwort des Senats · Drucksache vom 06.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105419) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105419/23_05490_noerdliche_gueterumgehungsbahn_wie_lange_muss_noch_auf_die_ergebnisse_der_machbarkeitsuntersuchung_gewartet_werden)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -37,6 +35,18 @@ Seit nunmehr sechs Jahren tagt das sogenannte Dialogforum Schiene Hamburg-Altona
 Eine der wichtigen Aufgabe ist der Abschluss der Machbarkeitsuntersuchung zur Güterumgehungsbahn. In der Verkehrsausschusssitzung am 10. September sagte der Senat, dass im nächsten halben Jahr mit Ergebnissen zu rechnen sei. Im Mai 2025 antwortete der Senat noch auf eine Schriftliche Kleine Anfrage, Drs. 23/365, dass die Machbarkeitsuntersuchung (MBU) in einem weit fortgeschrittenen Stadium sei und noch in 2025 abgeschlossen werden könne.
 
 Vor diesem Hintergrund frage ich den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Die im Rahmen des Dialogforums Schiene Hamburg-Altona in Auftrag gegebene Machbarkeitsuntersuchung (MBU) zur nördlichen Güterumgehungsbahn wird von allen Partnern in der Verständigung eng und im ständigen Dialog begleitet. Im Mai 2025 war die MBU bereits in einem fortgeschrittenen Stadium. In den Jahren 2025 und 2026 schloss sich der weitere Bearbeitungs- und Abstimmungsprozess der Dialogpartner mit dem Gutachter an, welcher mehr Zeit in Anspruch nimmt als zunächst erwartet.
+
+Das Dialogforum Schiene Hamburg-Altona ist ein eigenständiges Gremium, in dem Themen von allen Dialogpartnern gleichberechtigt eingebracht und diskutiert werden. Es erfolgt die erforderliche Prüfung und Abstimmung, welche mit den vorgenannten Zielen des Dialogforums im Einklang steht. Entsprechende Maßnahmen müssen zunächst untersucht werden, um belastbare Ergebnisse zu erhalten. Eine Aufstellung zu einzelnen Überarbeitungs- oder Änderungswünschen existiert nicht.
+
+Die abschließenden Auswertungen der MBU liegen noch nicht vor und werden nach Fertigstellung zum gegebenen Zeitpunkt veröffentlicht.
+
+Im Übrigen siehe Drs. 23/365.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundlage von Auskünften der DB InfraGO AG wie folgt:
 
 ## Fragen und Antworten
 
@@ -63,3 +73,7 @@ Wie ist die Verzögerung der Fertigstellung der Studie mit dem Ziel des Dialogfo
 ### Frage 6
 
 Welche Kosten sind bis heute für die MBU angefallen beziehungsweise in welcher Gesamthöhe werden voraussichtlich Kosten anfallen? Nördliche Güterumgehungsbahn – wie lange muss noch auf die Ergebnisse der Machbarkeitsuntersuchung gewartet werden?
+
+#### Antwort zu Fragen 1 bis 6
+
+Siehe Vorbemerkung.

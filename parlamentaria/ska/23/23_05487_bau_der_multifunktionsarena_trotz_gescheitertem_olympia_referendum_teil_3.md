@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105416
 titel: "Bau der Multifunktionsarena trotz gescheitertem Olympia Referendum – Teil 3"
 datum_anfrage: "2026-09-28"
-datum_drucksache: "2026-09-28"
+datum_drucksache: "2026-10-06"
 urheber: ["Martin Wolter"]
 fraktionen: ["Die Linke"]
 vorgang: null
 seiten: 2
 fragen: 3
 einzelfragen: 3
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 2
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5146", "23/4689", "23/3415"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105416"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105416/23_05487_bau_der_multifunktionsarena_trotz_gescheitertem_olympia_referendum_teil_3"
-abgerufen: "2026-10-02"
+abgerufen: "2026-10-10"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5487: Bau der Multifunktionsarena trotz gescheitertem Olympia Referendum – Teil 3
 
-> Schriftliche Kleine Anfrage des Abgeordneten Martin Wolter (Die Linke) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
+> Schriftliche Kleine Anfrage des Abgeordneten Martin Wolter (Die Linke) vom 28.09.26 und Antwort des Senats · Drucksache vom 06.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105416) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105416/23_05487_bau_der_multifunktionsarena_trotz_gescheitertem_olympia_referendum_teil_3)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -54,6 +52,18 @@ Aus welchen Gründen gestaltet sich der Bau der Multifunktionsarena nach dem ges
 
 Aus welchen Gründen behauptet der Senat, dass Olympia für den Bau der Multifunktionsarena „ein Beschleuniger“ gewesen wäre, wo diese doch unabhängig von der Ausrichtung Olympischer und Paralympischer Spiele geplant wurde und in jedem Fall gebaut werden soll?
 
+#### Antwort zu Fragen 1 und 2
+
+Die Aussage, dass die Multifunktionsarena unabhängig von der Ausrichtung Olympischer und Paralympischer Spiele geplant sei, hat nach wie vor Bestand. Gleichwohl hat der Senat ebenfalls wiederholt darauf hingewiesen, dass es nach dem negativen Ausgang des Referendums schwieriger wird, private Investitionen für die Realisierung der Multifunktionsarena in Hamburg zu akquirieren, die für eine Realisierung notwendig sind. Mit dem Ausgang des Referendums ist Hamburg als Standort für Investitionen in große Sportinfrastrukturprojekte unattraktiver und – nach der Entscheidung der DOSB- Mitgliederversammlung – München attraktiver geworden.
+
+Im Übrigen siehe Drs. 23/5146.
+
 ### Frage 3
 
 Aus welcher seriösen Quelle (Gutachten, Analyse, et cetera) stammen die vom Senat aufgestellten Vorzüge, die der Bau der Multifunktionsarena ermöglichen soll?
+
+#### Antwort zu Frage 3
+
+Die Vorzüge ergeben sich insbesondere aus den offensichtlichen und deutlich erweiterten Nutzungsmöglichkeiten der Multifunktionsarena gegenüber dem aktuellen Stadion, was unter anderem auch kommerzielle und weitere Mantelnutzungen betrifft. Gutachten, Analysen oder Ähnliches sind zum Gewinn dieser Erkenntnis nicht erforderlich.
+
+Im Übrigen umfasst das parlamentarische Fragerecht der Hamburgischen Bürgerschaft nicht Aspekte der senats- beziehungsweise behördeninternen Meinungsbildung, Planung und Sondierung, die im Kernbereich der exekutiven Eigenverantwortung liegen beziehungsweise einer konkreten Positionierung vorgelagert sind. Aus diesem Grund sieht der Senat von weitergehenden Auskünften hierzu ab.

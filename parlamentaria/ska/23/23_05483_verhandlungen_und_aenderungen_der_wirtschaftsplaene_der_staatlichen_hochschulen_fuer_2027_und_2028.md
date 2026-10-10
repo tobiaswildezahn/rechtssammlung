@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105412
 titel: "Verhandlungen und Änderungen der Wirtschaftspläne der staatlichen Hochschulen für 2027 und 2028"
 datum_anfrage: "2026-09-28"
-datum_drucksache: "2026-09-28"
+datum_drucksache: "2026-10-06"
 urheber: ["Anna-Elisabeth von Treuenfels-Frowein"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 2
+vorgang: 89347
+seiten: 3
 fragen: 9
 einzelfragen: 12
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 3
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5280", "23/5100"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105412"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105412/23_05483_verhandlungen_und_aenderungen_der_wirtschaftsplaene_der_staatlichen_hochschulen_fuer_2027_und_2028"
-abgerufen: "2026-10-02"
+abgerufen: "2026-10-10"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5483: Verhandlungen und Änderungen der Wirtschaftspläne der staatlichen Hochschulen für 2027 und 2028
 
-> Schriftliche Kleine Anfrage der Abgeordneten Anna-Elisabeth von Treuenfels-Frowein (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Anna-Elisabeth von Treuenfels-Frowein (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 06.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105412) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105412/23_05483_verhandlungen_und_aenderungen_der_wirtschaftsplaene_der_staatlichen_hochschulen_fuer_2027_und_2028)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -38,7 +36,27 @@ Der Senat erklärt außerdem, alternative Planungen, abweichende Prioritäten un
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Vorbemerkung
+
 Bitte die Fragen jeweils getrennt für die Universität Hamburg, die Technische Universität Hamburg, die Hochschule für Angewandte Wissenschaften Hamburg, die HafenCity Universität Hamburg, die Hochschule für bildende Künste Hamburg und die Hochschule für Musik und Theater Hamburg beantworten.
+
+## Einleitung für die Antworten des Senats
+
+Die grundsätzlichen finanziellen Rahmenbedingungen setzt der Hamburger Zukunftsvertrag (gültig vom 1. Januar 2020 bis 31. Dezember 2027). Diese werden in den Ziel- und Leistungsvereinbarungen (ZLV) aufgegriffen und im Kontext der haushalterischen Umsetzbarkeit auf die Wirtschaftsplanentwürfe projiziert. Die ZLV werden von der Behördenleitung der für Wissenschaft zuständigen Behörde mit den Präsidien der Hochschulen verhandelt. Daneben vertrat die Behördenleitung in den Präsidesgesprächen mit der für Finanzen zuständigen Behörde die finanziellen Belange der Hochschulen.
+
+Die Wirtschaftsplanaufstellung wird insbesondere verantwortlich durch die Kanzlerinnen beziehungsweise Kanzler und Präsidentinnen beziehungsweise Präsidenten der Hochschulen geführt. Dies geht auf folgende Regelungen im Hamburgischen Hochschulgesetz zurück:
+
+Die Aufstellung des Wirtschaftsplanentwurfs obliegt gemäß § 83 Absatz 1 S. 4 HmbHG der Funktion Kanzlerinnen und Kanzler.
+
+Die Beschlussfassung zu den Wirtschaftsplänen erfolgt durch das Präsidium gemäß § 79 Absatz 2 Nummer 3 HmbHG.
+
+Der formale Prozess zur Wirtschaftsplanerstellung wurde durch die für Wissenschaft zuständige Behörde am 19. Dezember 2025 initiiert. Im Verlauf kam es praxisgerecht zu einer Vielzahl von formellen Terminen, aber auch zu einer Vielzahl kurzfristiger Rückfragen und Iterationen zwischen den Hochschulen und der zuständigen Behörde. Die entsprechende Kommunikation erfolgte grundsätzlich auf der operativen Arbeitsebene zwischen der für Wissenschaft zuständigen Behörde und den Hochschulen.
+
+Im Rahmen der Aufstellung als notwendig erachteter Plananpassungen hat die Behördenleitung in den Präsidesgesprächen und in den Gesprächen mit der Landeshochschulkonferenz verhandelt. In der finalen Haushaltsaufstellungsphase waren weitere Plananpassungen unter anderem im Bereich der Sondermittel erforderlich. Diese Anpassungen wurden ebenfalls durch Gespräche beispielsweise in der Landeshochschulkonferenz (Präsidentinnen und Präsidenten der Hochschulen) durch die Behördenleitung verhandelt.
+
+Im Übrigen siehe Drs. 23/5280.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 ## Fragen und Antworten
 
@@ -56,10 +74,18 @@ War Wissenschaftssenatorin Maryam Blumenthal persönlich an Gesprächen mit den 
 
 Wenn ja, bitte jeweils Datum, beteiligte Hochschule, Art der Beteiligung, besprochene Mittel oder Vorgaben und Ergebnis nennen. Wenn sie an einer dieser Verfahrensstufen nicht beteiligt war, bitte dies jeweils ausdrücklich angeben.
 
+#### Antwort zu Fragen 1, 2 und 3
+
+Siehe Vorbemerkung.
+
 ### Frage 4
 
 Wer hat die in der Antwort auf Drs. 23/5280 genannte Weisung vom
 14. Juli 2026 zur Änderung der Wirtschaftspläne erteilt? Bitte die entscheidende Person mit Namen und Funktion, die ausstellende Behörde sowie die Personen benennen, die die Weisung unterzeichnet und an die Hochschulen übermittelt haben. Hat Wissenschaftssenatorin Maryam Blumenthal die Erteilung der Weisung selbst angeordnet oder genehmigt beziehungsweise war sie vor deren Übermittlung über Inhalt und finanzielle Auswirkungen informiert? Bitte jeweils mit Datum und Art ihrer Beteiligung beantworten.
+
+#### Antwort zu Frage 4
+
+Die Grundlage, die haushälterischen Rahmenbedingungen sowie deren notwendige Umsetzung durch die Hochschulen, wurden in der Landeshochschulkonferenz thematisiert und das Schreiben im Nachgang durch den stellvertretenden Beauftragten für den Haushalt der zuständigen Behörde unterzeichnet.
 
 ### Frage 5
 
@@ -80,3 +106,11 @@ Welche der Änderungen nach Frage 6 gingen auf eine Entscheidung der jeweiligen 
 ### Frage 9
 
 Welche in den ursprünglichen Planungen vorgesehenen Maßnahmen oder Leistungen können nach Kenntnis des Senats infolge der Änderungen nach Frage 6 nicht, nur in geringerem Umfang oder erst später umgesetzt werden?
+
+#### Antwort zu Fragen 5 bis 9
+
+Die Hochschulen meldeten grundsätzlich die Mittel an, die aus dem Hamburger Zukunftsvertrag „Studium und Lehre stärken“ in den ZLV zu den entsprechenden Zeitpunkten vorgesehen wurden. Zudem wurden durch Sondermittel finanzierte Maßnahmen, die aus den Vorjahren bereits bekannt, beziehungsweise praktiziert waren, seitens der Hochschulen in die Wirtschaftsplanentwürfe aufgenommen.
+
+Die aus den Verhandlungen resultierenden Sachverhalte wurden den Hochschulen gesammelt mit einem Schreiben der Amtsleitungen der für Wissenschaft zuständigen Behörde vom 7. Juli 2026 mitgeteilt. Im Übrigen sieht der Senat in ständiger Praxis von der Nennung konkreter Verhandlungssachverhalte ab, da diese den Kernbereich der unmittelbaren exekutiven Willensbildung betreffen.
+
+Die Anpassung der Sondermittelfinanzierung erfolgte durch die für Wissenschaft zuständige Behörde nach Beschluss des Haushaltsplanentwurfs durch den Senat in Anbetracht der zur Verfügung stehenden Mittel.
