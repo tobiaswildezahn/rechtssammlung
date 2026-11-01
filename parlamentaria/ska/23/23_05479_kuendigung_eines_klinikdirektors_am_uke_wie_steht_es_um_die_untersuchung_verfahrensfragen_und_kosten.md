@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105408
 titel: "Kündigung eines Klinikdirektors am UKE: Wie steht es um die Untersuchung, Verfahrensfragen und Kosten?"
 datum_anfrage: "2026-09-28"
-datum_drucksache: "2026-09-28"
+datum_drucksache: "2026-10-06"
 urheber: ["Richard Seelmaecker", "Dr. Anke Frieling", "Anna-Elisabeth von Treuenfels-Frowein"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 3
+vorgang: 89342
+seiten: 4
 fragen: 25
 einzelfragen: 32
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
-zitierte_drucksachen: ["22/15773", "22/15899"]
+antwortbloecke: 3
+beantwortet: true
+status: "beantwortet"
+zitierte_drucksachen: ["22/15773", "22/15899", "22/15969"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105408"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105408/23_05479_kuendigung_eines_klinikdirektors_am_uke_wie_steht_es_um_die_untersuchung_verfahrensfragen_und_kosten"
-abgerufen: "2026-10-02"
+abgerufen: "2026-11-01"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5479: Kündigung eines Klinikdirektors am UKE: Wie steht es um die Untersuchung, Verfahrensfragen und Kosten?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Richard Seelmaecker, Dr. Anke Frieling, Anna von Treuenfels-Frowein (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 28.09.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Richard Seelmaecker, Dr. Anke Frieling, Anna von Treuenfels-Frowein (CDU) vom 28.09.26 und Antwort des Senats · Drucksache vom 06.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105408) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105408/23_05479_kuendigung_eines_klinikdirektors_am_uke_wie_steht_es_um_die_untersuchung_verfahrensfragen_und_kosten)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 02.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -41,6 +39,14 @@ Der Kündigungsrechtsstreit ist noch nicht abgeschlossen. Zugleich sind weitere 
 Bereits mit den Antworten auf die Schriftlichen Kleinen Anfragen, Drs. 22/15773 und 22/15899, hat der Senat zu den im Frühjahr 2024 erhobenen Vorwürfen und dem Vorgehen des UKE Stellung genommen. Seitdem sind mehr als zwei Jahre vergangen.
 
 Vor diesem Hintergrund fragen wir den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Das Universitätsklinikum Hamburg-Eppendorf (UKE) nimmt als Körperschaft des öffentlichen Rechts und als eigene juristische Person ihre Aufgaben selbständig und in den Grenzen des Aufsichtsrechts unabhängig wahr. Personalangelegenheiten nimmt das UKE nicht als staatliche Auftragsangelegenheiten wahr. Parteien des in der vorliegenden parlamentarischen Anfrage angeführten Rechtsstreits sind das UKE und der betroffene Arzt. Die zuständige Behörde selbst ist keine Partei. Im Übrigen sind die in der vorliegenden parlamentarischen Anfrage in Bezug genommenen Fragestellungen weitüberwiegend mittelbar und unmittelbar Gegenstand eines arbeitsgerichtlichen Verfahrens, das noch nicht abgeschlossen ist. Die zuständige Behörde sieht in ständiger Praxis davon ab, sich zum Inhalt laufender Verfahren zu äußern.
+
+Im Übrigen siehe Drs. 22/15773, 22/15899 und 22/15969.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundlage von Auskünften des Universitätsklinikum Hamburg-Eppendorf (UKE) wie folgt:
 
 ## Fragen und Antworten
 
@@ -122,9 +128,7 @@ Wurden das Arbeitsgericht und der frühere Klinikdirektor über entsprechende Zu
 ### Frage 17
 
 Welche Erkenntnisse hat das UKE hinsichtlich der Operation vom
-8. Februar 2024 dazu, welche Ärztinnen und Ärzte tatsächlich an der
-
-Operation beteiligt waren, und welche Dokumentationen liegen hierzu vor?
+8. Februar 2024 dazu, welche Ärztinnen und Ärzte tatsächlich an der Operation beteiligt waren, und welche Dokumentationen liegen hierzu vor?
 
 ### Frage 18
 
@@ -134,6 +138,10 @@ Wann erhielt das UKE erstmals Kenntnis von dem Vorwurf, der Klinikdirektor habe 
 
 Wer war für die Erstellung und Freigabe dieser Rechnung verantwortlich und hatte der Klinikdirektor zu diesem Zeitpunkt noch Zugriff auf das Abrechnungssystem?
 
+#### Antwort zu Fragen 1 bis 19
+
+Siehe Vorbemerkung.
+
 ### Frage 20
 
 Welche Erkenntnisse hat das UKE dazu, ob interne Beschwerden, Inhalte aus dem Verfahren der externen Stelle oder Untersuchungsberichte an Medien oder sonstige Dritte gelangt sind, und wurde eine mögliche Weitergabe untersucht?
@@ -141,6 +149,12 @@ Welche Erkenntnisse hat das UKE dazu, ob interne Beschwerden, Inhalte aus dem Ve
 ### Frage 21
 
 Wurde geprüft, ob eine entsprechende Weitergabe eine Verletzung des Schutzes personenbezogener Daten darstellen könnte und erfolgte gegebenenfalls eine Meldung nach Artikel 33 DSGVO?
+
+#### Antwort zu Fragen 20 und 21
+
+Hierzu liegen dem UKE keine belastbaren Erkenntnisse vor.
+
+Im Übrigen: entfällt.
 
 ### Frage 22
 
@@ -171,3 +185,9 @@ In welcher Höhe hat das UKE für den Gesamtkomplex bislang Rückstellungen gebi
 Sind Personen, gegen die im Zusammenhang mit diesem Sachverhalt strafrechtliche Ermittlungen geführt werden, weiterhin mit dem arbeitsgerichtlichen Verfahren, der Betreuung von Zeugen, der internen Aufarbeitung oder Entscheidungen über Kostenübernahmen befasst?
 
 Falls ja, in welcher Funktion?
+
+#### Antwort zu Fragen 22 bis 25
+
+Der Offenlegung der nachgefragten detaillierten Daten steht der Schutz von Betriebs- und Geschäftsgeheimnissen entgegen. Diesem Schutz unterliegt auch das UKE als öffentliches Unternehmen in einem stark wettbewerblich geprägten Hamburger Gesundheitsmarkt.
+
+Im Übrigen siehe Vorbemerkung.
