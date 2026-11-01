@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105460
 titel: "Schulbauinvestitionen ab 2026 – welche Vorhaben sind geplant und welche finanziellen Handlungsspielräume bestehen"
 datum_anfrage: "2026-10-02"
-datum_drucksache: "2026-10-02"
+datum_drucksache: "2026-10-09"
 urheber: ["Antje Müller-Möller"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 2
+vorgang: 89412
+seiten: 4
 fragen: 3
 einzelfragen: 4
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
-zitierte_drucksachen: ["23/5234", "23/5001"]
+antwortbloecke: 1
+beantwortet: true
+status: "beantwortet"
+zitierte_drucksachen: ["23/5234", "23/5001", "20/5317"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105460"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105460/23_05569_schulbauinvestitionen_ab_2026_welche_vorhaben_sind_geplant_und_welche_finanziellen_handlungsspielraeume_bestehen"
-abgerufen: "2026-10-10"
+abgerufen: "2026-11-01"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5569: Schulbauinvestitionen ab 2026 – welche Vorhaben sind geplant und welche finanziellen Handlungsspielräume bestehen
 
-> Schriftliche Kleine Anfrage der Abgeordneten Antje Müller-Möller (CDU) vom 02.10.26 und Antwort des Senats · Drucksache vom 02.10.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Antje Müller-Möller (CDU) vom 02.10.26 und Antwort des Senats · Drucksache vom 09.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105460) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105460/23_05569_schulbauinvestitionen_ab_2026_welche_vorhaben_sind_geplant_und_welche_finanziellen_handlungsspielraeume_bestehen)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 10.10.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -43,6 +41,26 @@ Der Schulbaubericht gemäß Drs. 23/5001 erfasst noch nicht abgeschlossene Bauvo
 Für die Haushaltsberatungen und die längerfristige Investitionsplanung ist von Interesse, wie sich die vorgesehenen Mittel auf konkrete Bauvorhaben verteilen und welche zusätzlichen Schulkapazitäten damit geschaffen werden.
 
 Vor diesem Hintergrund frage ich den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Der Senat investiert in diesem Jahrzehnt über vier Milliarden Euro in den bedarfsgerechten Ausbau und die Sanierung der schulischen Infrastruktur, um zum einen dem starken Schülerwachstum der vergangenen Jahre gerecht zu werden und zum anderen nachhaltig gute Lern- und Lebensräume für die Schülerinnen und Schüler zu gestalten. Seitdem im Jahr 2019 beschlossenen Schulentwicklungsplan (SEPL 2019) haben SBH | Schulbau Hamburg (SBH) und GMH | Gebäudemanagement Hamburg GmbH (GMH) in den Jahren 2020 bis 2025 bereits rund 2,1 Milliarden Euro investiert. In Jahren 2026 bis 2029 sind nochmal weitere rund 2,0 Milliarden Euro in Planung. SBH und GMH stellen jedes Jahr im Durchschnitt mehr als 100 Neubau-, Umbau- und Sanierungsmaßnahmen fertig. Hinzu kommen Maßnahmen in der laufenden Instandhaltung der bestehenden Schulgebäude.
+
+Die Investitionsmaßnahmen erfolgen dabei zeitlich und sachlich bedarfsgerecht, um die gesetzliche Schulpflicht unter den schulgesetzlichen Rahmenbedingungen der Schulorganisation unter der Maßgabe eines wirtschaftlichen Mitteleinsatzes zu gewährleisten, siehe auch Drs. 23/5234.
+
+Die Investitionsmaßnahmen erfolgen dabei stets auf Grundlage der schulform- und zügigkeitsspezifischen Flächenausweisungen des Musterflächenprogramms, welches die Flächenkategorien Allgemeiner Unterricht, Fachunterricht, Ganztag, Gemeinschaftsfläche, Lehrer- und Verwaltung sowie Sportflächen unterscheidet. Es werden keine expliziten Raumvorgaben eingefordert, damit den Schulen eine möglichst hohe Freiheit bei der infrastrukturellen Ausgestaltung ihres pädagogischen Konzepts ermöglicht werden kann. Entsprechend kann keine numerische Anzahl von durch Schulbauvorhaben entstehenden zusätzlichen Räumen benannt werden. Auch über die konkrete Nutzung der Flächen entscheidet stets die selbstverantwortete Schule entlang ihrer pädagogischen Erfordernisse.
+
+Die Zielzügigkeiten der Baumaßnahmen auf Basis des Musterflächenprogramms ergeben sich aus der Schulentwicklungsplanung 2019 (SEPL 2019) sowie aus den Anpassungen der jährlichen Fortschreibungen.
+
+Bei der bedarfsorientierten Veranschlagung von Investitionsmaßnahmen ist zu berücksichtigen, dass nicht nur die Ausbaubedarfe, sondern insbesondere auch die Sanierungserfordernisse einen zentralen Bestandteil des Investitionsprogramms Schulbau darstellen. Hinsichtlich der Ausbaubedarfe besteht zudem nicht immer eine unmittelbare zeitliche 1:1 Korrelation mit der erwarteten Schülerentwicklung. So stieg die Anzahl der Schülerinnen und Schüler in den weiterführenden Schulen seit Beschluss des SEPL 2019 bereits um rund 15.000 Schülerinnen und Schüler. Die zusätzlichen Schülerinnen und Schüler konnten neben Ausbaumaßnahmen unter anderem durch die Nutzung von Flächenreserven, sowie durch nur temporär mögliche schulorganisatorische und infrastrukturelle Maßnahmen, die auch die Neugründung von Schulen in Interimsgebäuden beinhaltet, aufgefangen werden. Schwerpunkt der Investitionsmaßnahmen der zweiten Hälfte dieses Jahrzehnts ist daher, auch vor dem Hintergrund des weiteren Anstiegs um rund 10.000 Schülerinnen und Schülern in den weiterführenden Systemen bis Anfang kommenden Jahrzehnts, den dauerhaften Ausbau der Kapazitäten rasch umzusetzen.
+
+Der Fokus des Investitionsprogramms der ersten Hälfte dieses Jahrzehnts lag vor allem auf den Ausbau der Grundschulkapazitäten, da hier Flächenreserven in weitaus geringem Umfang vorhanden waren und Maßnahmen der inneren und äußeren Schulorganisation weitaus schwieriger umzusetzen sind. Gleichwohl sind trotz der insgesamt rückläufigen Entwicklung der Anzahl der Schülerinnen und Schüler im Grundschulalter in der Freien und Hansestadt Hamburg (FHH) auch in der zweiten Hälfte dieses Jahrzehnts noch Ausbaumaßnahmen im Grundschulbereich erforderlich, sowohl aufgrund dauerhafter regionaler Bedarfslagen als auch aufgrund der Behebung von Funktionsflächendefiziten, die für eine dauerhafte Beschulung auf Zielzügigkeit erforderlich sind.
+
+Da aufgrund der genannten Vielzahl der Baumaßnahmen eine Zusammenstellung aller Baumaßnahmen auf der Basis individueller Fragestellungen in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich ist, hat der Senat zwischen den Jahren 2013 und 2025 aufgrund eines Bürgerschaftlichen Ersuchens mit dem jährlichen Berichtswesen über Schulbaumaßnahmen jeweils transparent und detailliert über abgeschlossene und nicht abgeschlossene Baumaßnahmen berichtet. Dieses Ersuchen fiel der Diskontinuität anheim, sodass der Senat seit diesem Jahr dieses Berichtswesen in eigener Zuständigkeit fortführt, siehe Drs. 23/5001. Das Berichtswesen enthält alle Baumaßnahmen mit einem Volumen von mehr als einer Million Euro, was die Bautätigkeit weit überwiegend abdeckt und den Finanzierungsrahmen des Mieter-Vermieter-Modells (MVM) Schulbau für die kommenden Haushaltsjahre 2027/2028 bereits ausschöpft. Projekte mit einem Volumen von größer einer Millionen Euro haben regelhaft mehrjährige Realisierungszeiträume, sodass bereits mit dem Halbjahresbericht 2026 (siehe Drs. 23/5001) ein nahezu vollständiger Ausblick auf das fertig zu stellende Projektportfolio im kommenden Doppelhaushalt gegeben wird. Bei Bauvorhaben mit einem Volumen von unter einer Million Euro handelt es sich fast ausschließlich um Abrisse, Außenanlagenprojekte, Umbauten oder Sonderbestellungen, die in der Regel inhaltlich und zeitlich eng mit einem größeren Sanierungs- oder Neubauvorhaben zusammenhängen und eine separat finanzierte Teilleistung darstellen, aber hinsichtlich der Realisierung pädagogischer Flächenbedarfe eine untergeordnete Rolle spielen.
+
+Im Rahmen des mit Drs. 20/5317 etablierten MVM Schulbau führen SBH und GMH auf Bestellung der für Bildung zuständigen Behörde und im Auftrag des Sondervermögens Schulimmobilien alle Neubau- und Sanierungsmaßnahmen durch. Die für Bildung zuständige Behörde sowie SBH und GMH stimmen sich auf Basis des SEPL jährlich zu den Prioritäten im Schulbau ab und halten diese in einer Rahmenplanung fest. Für die einzelnen Bauprojekte sind erst mit dem durch das Sondervermögen Schulimmobilien und die für Bildung zuständige Behörde unterzeichneten Angebot von SBH/GMH und der geprüften Bau- und Kostenunterlage Aufgabenstellung und Leistungsumfang sowie Kostenumfang und Terminschiene verbindlich abgestimmt. Diese Verbindlichkeit liegt der Entscheidung zugrunde, im jährlichen Berichtswesen Bauprojekte ab der Leistungsphase 4 zu berichten und entspricht zudem der Landeshaushaltsordnung und dem Bauhandbuch (VV-Bau) zur Veranschlagungsreife von Bauprojekten (abgeschlossene Leistungsphase 3).
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 ## Fragen und Antworten
 
@@ -78,12 +96,16 @@ In welchem Umfang sind die für die unter Frage 1 aufgeführten Vorhaben noch vo
 
 Welche weiteren Investitionsmittel sind neben den in Frage 1 erfassten Bauvorhaben vorgesehen und welche Mittel sind bislang noch nicht verplant? Bitte die Beträge für die Jahre 2026 bis 2030 jeweils getrennt und zusammengefasst nach Verwendungszweck ausweisen. Dabei unterscheiden zwischen:
 
-Kleineren Bauvorhaben unter einer Million Euro,
+a) Kleineren Bauvorhaben unter einer Million Euro,
 
-Grundstücksankäufen und Baureifmachung,
+b) Grundstücksankäufen und Baureifmachung,
 
-projektübergreifenden Vorsorgeansätzen,
+c) projektübergreifenden Vorsorgeansätzen,
 
-sonstigen bereits verplanten Investitionsmitteln und
+d) sonstigen bereits verplanten Investitionsmitteln und
 
-Mitteln, für die noch keine konkrete Verwendung festgelegt wurde.
+e) Mitteln, für die noch keine konkrete Verwendung festgelegt wurde.
+
+#### Antwort zu Fragen 1 bis 3 e)
+
+Siehe Vorbemerkung.
