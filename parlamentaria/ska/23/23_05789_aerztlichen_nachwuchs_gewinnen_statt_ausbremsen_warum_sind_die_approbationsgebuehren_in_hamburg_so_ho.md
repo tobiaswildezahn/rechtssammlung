@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105716"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105716/23_05789_aerztlichen_nachwuchs_gewinnen_statt_ausbremsen_warum_sind_die_approbationsgebuehren_in_hamburg_so_hoch"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-03"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Richard Seelmaecker und Christin Christ (CDU) vom 27.10.26 und Antwort des Senats · Drucksache vom 27.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105716) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105716/23_05789_aerztlichen_nachwuchs_gewinnen_statt_ausbremsen_warum_sind_die_approbationsgebuehren_in_hamburg_so_hoch)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

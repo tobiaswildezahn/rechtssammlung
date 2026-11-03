@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105721"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105721/23_05799_wie_achtet_die_schulbehoerde_auf_die_einhaltung_des_neutralitaetsgebots_an_hamburger_schulen"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-03"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Benjamin Mennerich (AfD) vom 28.10.26 und Antwort des Senats · Drucksache vom 28.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105721) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105721/23_05799_wie_achtet_die_schulbehoerde_auf_die_einhaltung_des_neutralitaetsgebots_an_hamburger_schulen)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

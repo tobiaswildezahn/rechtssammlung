@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105697"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105697/23_05769_wie_ist_der_gegenwaertige_stand_bei_bundesmitteln_im_hamburger_haushalt"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-03"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Thilo Kleibauer (CDU) vom 23.10.26 und Antwort des Senats · Drucksache vom 28.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105697) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105697/23_05769_wie_ist_der_gegenwaertige_stand_bei_bundesmitteln_im_hamburger_haushalt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

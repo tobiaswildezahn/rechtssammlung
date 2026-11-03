@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/1536"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105708"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105708/23_05781_mangelnde_baustellenkoordinationen_und_verzoegerungen_an_der_osterstrasse_fragen_zur_aktuellen_situation_den_ursachen_der_bauunterbrechung_und_der_ver"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-03"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Philipp Heißner (CDU) vom 26.10.26 und Antwort des Senats · Drucksache vom 26.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105708) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105708/23_05781_mangelnde_baustellenkoordinationen_und_verzoegerungen_an_der_osterstrasse_fragen_zur_aktuellen_situation_den_ursachen_der_bauunterbrechung_und_der_ver)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

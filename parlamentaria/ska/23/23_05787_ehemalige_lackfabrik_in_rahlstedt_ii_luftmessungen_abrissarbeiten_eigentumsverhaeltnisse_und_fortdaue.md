@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/1313", "23/1629", "23/4599", "23/3471", "23/1454"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105714"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105714/23_05787_ehemalige_lackfabrik_in_rahlstedt_ii_luftmessungen_abrissarbeiten_eigentumsverhaeltnisse_und_fortdauernde_belastungen_fuer_die_anwohnerschaft"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-03"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Markus Kranig (CDU) vom 27.10.26 und Antwort des Senats · Drucksache vom 29.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105714) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105714/23_05787_ehemalige_lackfabrik_in_rahlstedt_ii_luftmessungen_abrissarbeiten_eigentumsverhaeltnisse_und_fortdauernde_belastungen_fuer_die_anwohnerschaft)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105713"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105713/23_05786_routes_world_2026_in_frankfurt_welche_chancen_hat_hamburg_bei_der_leitmesse_fuer_globale_flugroutenentwicklung_genutzt"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-03"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Prof. Dr. Michael Becken (CDU) vom 27.10.26 und Antwort des Senats · Drucksache vom 27.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105713) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105713/23_05786_routes_world_2026_in_frankfurt_welche_chancen_hat_hamburg_bei_der_leitmesse_fuer_globale_flugroutenentwicklung_genutzt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

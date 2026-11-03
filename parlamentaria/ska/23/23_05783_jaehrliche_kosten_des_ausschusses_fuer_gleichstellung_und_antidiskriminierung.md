@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105711"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105711/23_05783_jaehrliche_kosten_des_ausschusses_fuer_gleichstellung_und_antidiskriminierung"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-03"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Eugen Seiler (AfD) vom 27.10.26 und Antwort des Senats · Drucksache vom 27.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105711) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105711/23_05783_jaehrliche_kosten_des_ausschusses_fuer_gleichstellung_und_antidiskriminierung)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

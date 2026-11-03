@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105723"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105723/23_05813_linksextreme_propaganda_und_aufrufe_zur_steinigung_an_hamburger_grundschule"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-03"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Benjamin Mennerich und Dirk Nockemann (AfD) vom 28.10.26 und Antwort des Senats · Drucksache vom 28.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105723) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105723/23_05813_linksextreme_propaganda_und_aufrufe_zur_steinigung_an_hamburger_grundschule)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
