@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105696
 titel: "Bürgermeister Tschentscher fordert mehr Bundesgeld für den Hafen – sind Dual Use und Sabotageschutz in den acht Milliarden Euro Investitionsbedarf bereits enthalten?"
 datum_anfrage: "2026-10-23"
-datum_drucksache: "2026-10-23"
+datum_drucksache: "2026-10-30"
 urheber: ["Dr. Antonia-Katharina Goldner"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 2
+vorgang: 89610
+seiten: 3
 fragen: 6
 einzelfragen: 13
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
-zitierte_drucksachen: ["23/4544"]
+antwortbloecke: 1
+beantwortet: true
+status: "beantwortet"
+zitierte_drucksachen: ["23/4544", "23/4019", "23/5412"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105696"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105696/23_05768_buergermeister_tschentscher_fordert_mehr_bundesgeld_fuer_den_hafen_sind_dual_use_und_sabotageschutz_in_den_acht_milliarden_euro_investitionsbedarf_ber"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-10"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5768: Bürgermeister Tschentscher fordert mehr Bundesgeld für den Hafen – sind Dual Use und Sabotageschutz in den acht Milliarden Euro Investitionsbedarf bereits enthalten?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner (CDU) vom 23.10.26 und Antwort des Senats · Drucksache vom 23.10.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner (CDU) vom 23.10.26 und Antwort des Senats · Drucksache vom 30.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105696) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105696/23_05768_buergermeister_tschentscher_fordert_mehr_bundesgeld_fuer_den_hafen_sind_dual_use_und_sabotageschutz_in_den_acht_milliarden_euro_investitionsbedarf_ber)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -39,6 +37,18 @@ Zuvor hatte der Erste Bürgermeister einen Investitionsbedarf von acht Milliarde
 Die folgenden Fragen richten sich ausschließlich auf die finanzielle Bedarfsabgrenzung, Berechnungsgrundlagen und Finanzierung. Angaben zu konkreten sicherheitsrelevanten Anlagen, militärischen Fähigkeiten, Schutzmaßnahmen oder möglichen Schwachstellen werden ausdrücklich nicht erbeten.
 
 Vor diesem Hintergrund frage ich den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Der Senat und die Hamburg Port Authority AöR (HPA) verfolgen die aktuellen Entwicklungen auf Bundes- und EU-Ebene zur Stärkung kritischer Verkehrs- und Hafeninfrastrukturen sowie deren möglicher Dual-Use-Fähigkeiten fortlaufend. Konkrete, belastbare Berechnungen oder abschließende finanzielle Bewertungen zu einem hieraus resultierenden zusätzlichen Investitionsbedarf liegen derzeit nicht vor. Der Umfang möglicher Dual-Use-Maßnahmen sowie die daraus resultierenden Kosten sind maßgeblich von der Ausgestaltung der Anforderungsspezifika abhängig und unterliegen infolge militärischer Priorisierungen der NATO sowie der Bundeswehr.
+
+Auch ohne konkrete militärische Anforderungsspezifika an die Hamburger Hafeninfrastruktur kann grundsätzlich die Aussage getroffen werden, dass mit erhöhten militärischen Anforderungen an die Hafeninfrastruktur zusätzliche signifikante Investitionskosten einhergehen. Entsprechende Forderungen richten sich an den Bund, da die Kosten für den Ausbau beziehungsweise die Erweiterung von Dual-Use-Fähigkeiten gemäß dem Verursacherprinzip auf den Bund in seiner Zuständigkeit für die Verteidigung entfielen. Die Kosten für die Herstellung oder Erweiterung spezifischer Dual-Use-Fähigkeiten sind aufgrund ihrer Charakteristik derzeit weder gesondert in der Haushalts- und Finanzplanung der Freien und Hansestadt Hamburg (FHH) noch in der Wirtschafts- und
+
+Finanzplanung der HPA veranschlagt. Etwaige spezifische Finanzierungsbedarfe können erst nach Vorliegen konkreter militärischer Anforderungen und Maßnahmenplanungen und abgestimmter Finanzierungsmodelle bewertet und gegebenenfalls berücksichtigt werden. Der Investitionsbedarf von acht Milliarden Euro inkludiert folglich keine Investitionen entsprechend der Definition von Dual-Use. Bei der genannten Summe handelt es sich um eine indikative Gesamteinschätzung der HPA (siehe Drs. 23/4019).
+
+Der Senat bekräftigt aufgrund der gesamtstaatlichen Bedeutung des Hamburger Hafens für die wirtschaftliche Leistungsfähigkeit, die Versorgungssicherheit sowie die sicherheits- und verteidigungspolitischen Interessen Deutschlands seine Forderung nach einer stärkeren Beteiligung des Bundes an dem Erhalt und Ausbau der Hamburger Hafeninfrastruktur, denn jegliche Nutzung des Hafens kann letztlich auch in einem potenziellen militärischen Kontext stattfinden. Der Senat fordert die Bundesregierung daher weiterhin auf, wie im Koalitionsvertrag der Bundesregierung vereinbart und in der Nationalen Hafenstrategie angekündigt, einen entsprechenden dauerhaften Finanzierungsplan zur Hafeninfrastruktur vorzulegen. Die vom Senat bereits in Drs. 23/5412 geplanten Investitionen in die Anschaffung von Technik im Bereich der Drohnendetektion, Verifikation und Intervention sind vor dem Hintergrund des Vorfalls in Leipzig eine Antwort auf den Fähigkeitsgewinn, der im Sinne der Sabotageabwehr im Hamburger Hafen erfolgen soll und sind nicht in den bisher genannten acht Milliarden inkludiert.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundlage von Auskünften der HPA wie folgt:
 
 ## Fragen und Antworten
 
@@ -52,9 +62,7 @@ Auf welchen Berechnungsstand und welchen Investitionszeitraum bezieht sich die S
 
 ### Frage 3
 
-Liegen dem Senat beziehungsweise der Hamburg Port Authority AöR (HPA) Berechnungen, Schätzungen oder vorläufige finanzielle Bewertungen dazu vor, ob und in welcher Höhe die Herstellung
-
-beziehungsweise Erweiterung der Dual-Use-Fähigkeit einen über die acht Milliarden Euro hinausgehenden Investitionsbedarf verursacht?
+Liegen dem Senat beziehungsweise der Hamburg Port Authority AöR (HPA) Berechnungen, Schätzungen oder vorläufige finanzielle Bewertungen dazu vor, ob und in welcher Höhe die Herstellung beziehungsweise Erweiterung der Dual-Use-Fähigkeit einen über die acht Milliarden Euro hinausgehenden Investitionsbedarf verursacht?
 
 Wenn ja, bitte jeweils Stand und finanzielles Gesamtergebnis angeben.
 
@@ -77,3 +85,7 @@ Bringt die Aussage des Ersten Bürgermeisters, die Hafeninfrastruktur müsse „
 Wenn ja, sind die hierfür erforderlichen Kosten in dem genannten Investitionsbedarf von acht Milliarden Euro vollständig, teilweise oder nicht berücksichtigt, und welcher zusätzliche Finanzbedarf wurde gegebenenfalls bislang ermittelt?
 
 Wenn nein, worauf bezieht sich die Aussage hinsichtlich des Schutzes vor Sabotage?
+
+#### Antwort zu Fragen 1 bis 6
+
+Siehe Vorbemerkung.

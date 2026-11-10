@@ -5,34 +5,38 @@ wahlperiode: 23
 id: 105693
 titel: "Ausweichrouten, Dauergenehmigungen, Bauwerksprüfungen und mehr: Was tut der Senat, um eine Lücke in der Haupthafenroute zu verhindern? (VII)"
 datum_anfrage: "2026-10-23"
-datum_drucksache: "2026-10-23"
+datum_drucksache: "2026-10-30"
 urheber: ["Dr. Antonia-Katharina Goldner", "Philipp Heißner"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 2
+vorgang: 89607
+seiten: 4
 fragen: 12
 einzelfragen: 16
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
-zitierte_drucksachen: ["23/5320", "23/4490", "23/4821"]
+antwortbloecke: 10
+beantwortet: true
+status: "beantwortet"
+zitierte_drucksachen: ["23/5742", "23/5320", "23/4960", "23/4945", "23/4864", "23/4826", "23/4821", "23/4818", "23/4544", "23/4490", "23/4272", "23/3945", "23/3649", "23/2137", "22/14809"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105693"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105693/23_05762_ausweichrouten_dauergenehmigungen_bauwerkspruefungen_und_mehr_was_tut_der_senat_um_eine_luecke_in_der_haupthafenroute_zu_verhindern_vii"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-10"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5762: Ausweichrouten, Dauergenehmigungen, Bauwerksprüfungen und mehr: Was tut der Senat, um eine Lücke in der Haupthafenroute zu verhindern? (VII)
 
-> Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner und Philipp Heißner (CDU) vom 23.10.26 und Antwort des Senats · Drucksache vom 23.10.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner und Philipp Heißner (CDU) vom 23.10.26 und Antwort des Senats · Drucksache vom 30.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105693) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105693/23_05762_ausweichrouten_dauergenehmigungen_bauwerkspruefungen_und_mehr_was_tut_der_senat_um_eine_luecke_in_der_haupthafenroute_zu_verhindern_vii)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
 Wir fragen den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Der Senat hat zur Köhlbrandbrücke bereits umfangreich berichtet, siehe etwa Drs. 23/5742, 23/5320, 23/4960, 23/4945, 23/4864, 23/4826, 23/4821, 23/4818, 23/4544, 23/4490, 23/4272, 23/3945, 23/3649 sowie 23/2137.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundlage von Auskünften der Hamburg Port Authority AöR (HPA) wie folgt:
 
 ## Fragen und Antworten
 
@@ -40,9 +44,21 @@ Wir fragen den Senat:
 
 Wie weit ist die Optimierung bestehender Ausweichrouten für genehmigungspflichtige Schwertransporte (GST) über 44 Tonnen durch bauliche Maßnahmen inzwischen gediehen? Bis wann wird zum Beispiel der seit Monaten laufende Rückbau von Verkehrsinseln zur Verbesserung von Schleppkurven abgeschlossen?
 
+#### Antwort zu Frage 1
+
+Die Optimierung bestehender Ausweichrouten für genehmigungspflichtige Schwertransporte (GST) ist ein noch andauernder Prozess. Die ersten baulichen Maßnahmen in der Zuständigkeit der HPA konnten ab Mai 2026 abgeschlossen werden. Weitere bauliche Maßnahmen wurden seitdem von der HPA durchgeführt und sollen voraussichtlich im Laufe des 4. Quartals 2026 abgeschlossen werden. Ein aktueller Stand, der vonseiten der HPA fertiggestellten Maßnahmen, kann auf der Webseite Köhlbrandbrücke eingesehen werden.
+
+Die letzten der dem Landesbetrieb Straßen, Brücken und Gewässer (LSBG) zugeordneten Maßnahmen konnten im Oktober des Jahres 2026 erfolgreich umgesetzt werden.
+
 ### Frage 2
 
 Bis wann wird „eine Anpassung der logistischen Hafenprozesse geprüft“, wie es in Drs. 23/5320 heißt, was ist darunter im Einzelnen zu verstehen und wie ist der Zeitplan für die auf die Prüfung mutmaßlich folgende Umsetzung?
+
+#### Antwort zu Frage 2
+
+Die Anpassung der logistischen Hafenprozesse betrifft insbesondere die bahn- und wasserseitigen Umschlagsprozesse der Terminals und Hafenbetriebe. Wie im Wirtschaftsausschuss am 7. Oktober dargestellt, handelt es sich hierbei um mittel- bis langfristige Maßnahmen. Die Themen werden im Rahmen der regelmäßigen Routinen mit allen Beteiligten aufgegriffen und im Rahmen der jeweiligen Zuständigkeiten abge
+
+stimmt. Die Prüfung, Optimierung und zeitliche Umsetzung konkreter Maßnahmen liegen in der Verantwortung der Hafenbetriebe. Ein übergreifender Zeitplan besteht daher nicht. Die Wahl der Verkehrsträger obliegt grundsätzlich den Unternehmen, wie in Drs. 23/4490 dargestellt.
 
 ## Vorbemerkung
 
@@ -52,13 +68,25 @@ Laut Drs. 23/4490 wurde seit 20. Mai 2026 mit der Autobahn GmbH Niederlassung No
 
 Warum ist die Lösung bezüglich Dauergenehmigungen nur befristet, wenn Transporte über 44 Tonnen bis zum Ende der Lebensdauer der Köhlbrandbrücke nicht mehr über das Bauwerk fahren dürfen?
 
+#### Antwort zu Frage 3
+
+Es handelt sich bei der bis 30. November 2026 befristeten Lösung um einen Kompromiss, der zusammen mit der Autobahn GmbH Niederlassung Nord und der Autobahn GmbH des Bundes gefunden wurde. Nach Kenntnis der zuständigen Behörde besteht die Autobahn GmbH auf bundesweit einheitlichen Genehmigungsparametern, was auch beinhaltet, dass Dauererlaubnisse über 4,35 m für den Bereich der Autobahnen grundsätzlich nicht genehmigt werden. Aufgrund der besonderen Umstände der kurzfristigen Ablastung ist die Autobahn GmbH des Bundes von dieser grundsätzlichen Linie abgewichen und hat die Zustimmung zu der befristeten Ausnahme erteilt.
+
 ### Frage 4
 
 Welche Regelung wird ab 1. Dezember 2026 gelten? Falls dies noch nicht feststeht, bis wann wird darüber entschieden?
 
+#### Antwort zu Frage 4
+
+Derzeit liegen noch keine neuen Regelungen vor. Die zuständige Behörde und Autobahn GmbH stehen hierzu mit dem Verband Straßengüterverkehr und Logistik e.V. (VSH) im Austausch. Ziel ist es, rechtzeitig vor dem Auslaufen der bestehenden Regelung zu einer abgestimmten Anschlussregelung zu gelangen.
+
 ### Frage 5
 
 Wie viele Dauergenehmigungen auf Autobahnen wurden seit 20. Mai 2026 beantragt? Wie viele davon wurden nicht erteilt und weshalb?
+
+#### Antwort zu Frage 5
+
+Die Daten im Sinne der Fragestellung liegen der zuständigen Behörde nicht vor und sind über die Autobahn GmbH des Bundes zu ermitteln. Die Rückmeldung der Autobahn GmbH lag in der für die Parlamentarische Anfrage zur Verfügung stehenden Zeit nicht vor. Angesichts dieses Umstandes war eine vollständige Beantwortung mit den zur Verfügung stehenden Ressourcen und den nicht statistisch auswertbaren Datenbeständen innerhalb der für die Beantwortung einer Schriftlichen Kleinen Anfrage zur Verfügung stehenden Zeit nicht möglich.
 
 ## Vorbemerkung
 
@@ -66,23 +94,37 @@ Zu der Präsentation „Köhlbrandbrücke. Ersatzbau und aktuelle Maßnahmen“ 
 
 ### Frage 6
 
-Wie ist angesichts einer zunehmend maroden Köhlbrandbrücke die Aussage zu verstehen, Materialuntersuchungen hätten „bisher überwiegend unauffällige Ergebnisse“ (Seite 4 der Präsentation) gezeitigt, zumal auf derselben Seite von zunehmender Schadensdynamik an
+Wie ist angesichts einer zunehmend maroden Köhlbrandbrücke die Aussage zu verstehen, Materialuntersuchungen hätten „bisher überwiegend unauffällige Ergebnisse“ (Seite 4 der Präsentation) gezeitigt, zumal auf derselben Seite von zunehmender Schadensdynamik an Schweißnähten an der Strombrücke und von verstärkter Rissbildung und lokalen Betonschäden an den Rampenbauwerken gesprochen wird?
 
-Schweißnähten an der Strombrücke und von verstärkter Rissbildung und lokalen Betonschäden an den Rampenbauwerken gesprochen wird?
+#### Antwort zu Frage 6
+
+Aufgrund der geänderten Materialbewertung von Spannstählen durch die Bundesanstalt für Materialforschung, siehe Protokoll des Ausschusses für Wirtschaft, Arbeit und Innovation, Nummer 23/11 (Protokoll des Ausschusses für Wirtschaft, Arbeit und Innovation, Seite 37), wurden seitens HPA eine Materialuntersuchungen von Spannstählen veranlasst. Die vorliegenden Zwischenergebnisse werden als überwiegend unauffällig bewertet. Im Übrigen siehe Vorbemerkung.
 
 ### Frage 7
 
 Wann genau wird die noch ausstehende „abschließende ingenieurmäßige Gesamtbeurteilung“ (Seite 4) erfolgen?
 
+#### Antwort zu Frage 7
+
+Bis Ende des Jahres 2026.
+
 ### Frage 8
 
 Auf Seite 11 heißt es zum Ersatzneubau, „Beschleunigungspotenziale von mehr als 2,5 Jahren konnten bereits gehoben werden. Weitere sollen folgen“. Wie erklärt sich der Wert von zweieinhalb Jahren konkret: Bezieht er sich zum Beispiel auf den Umstand, dass anfangs 2042 als angestrebtes Jahr der Fertigstellung genannt wurde und die öffentlich kommunizierte Planung zurzeit von einer Fertigstellung bis Ende der 2030er-Jahre (= spätestens 31. Dezember 2039) ausgeht? Bitte ausführen.
+
+#### Antwort zu Frage 8
+
+Die genannte Beschleunigung bezieht sich auf die in Drs. 22/14809 genannte Zeitplanung.
 
 ### Frage 9
 
 Auf dem Zeitstrahl (Seite 11) wird die durch den Ersatzneubau künftig erweiterte Schiffshöhenfreiheit etwa für das Jahr 2040 oder kurz danach angegeben. Teilt der Senat die Einschätzung, dass die Höhenfreigabe erst erfolgen kann, wenn zumindest die Strombrücke abgerissen beziehungsweise gesprengt und die Beseitigung entsprechender Bauwerksreste beziehungsweise Trümmer erfolgt und der Köhlbrand wieder gewohnt schiffbar ist?
 
 Wenn nein, warum nicht?
+
+#### Antwort zu Frage 9
+
+Nach der Verkehrsfreigabe des Neubaus erfolgt der Rückbau der Bestandsbrücke. Nach derzeitiger Planung sollen circa nach einem Jahr die den Köhlbrand überspannenden Brückenteile dergestalt entfernt sein, dass dann die größere Durchfahrtshöhe für die Schifffahrt bereitgestellt werden kann. Im Übrigen siehe Drs. 22/14809.
 
 ## Vorbemerkung
 
@@ -99,3 +141,17 @@ Wann werden die nächsten Hauptprüfungen voraussichtlich stattfinden?
 ### Frage 12
 
 Wie lauten die aktuellen Zustandsbewertungen beziehungsweise -noten für die Strombrücke und die West- und Ostrampe und wann wurden sie jeweils vorgenommen?
+
+#### Antwort zu Fragen 10, 11 und 12
+
+Die letzte Hauptprüfung fand von Anfang des Jahres 2025 bis Ende April des Jahres 2026 statt. Die nächsten Hauptprüfungen sind für die Jahre 2031 und 2037 vorgesehen.
+
+Ergebnis der letzten Hauptprüfung waren die folgenden Zustandsnoten:
+
+Strombrücke: 3,4
+
+Westrampe: 3,5
+
+Ostrampe: 3,5
+
+Im Übrigen sind wesentliche Erkenntnisse aus der Hauptprüfung in die Erläuterung zum Brückenzustand in verschiedene Drucksachen der letzten Monate eingeflossen. Siehe hierzu die Vorbemerkung. Ebenso siehe hierzu Protokoll 23/11 des Ausschusses für Wirtschaft, Arbeit und Innovation der Sitzung vom 7. Oktober 2026 (Protokoll des Ausschusses für Wirtschaft, Arbeit und Innovation) sowie: Umleitung für Schwertransporte: Verringerung der Belastung soll Weiterbetrieb der Köhlbrandbrücke sicherstellen.
