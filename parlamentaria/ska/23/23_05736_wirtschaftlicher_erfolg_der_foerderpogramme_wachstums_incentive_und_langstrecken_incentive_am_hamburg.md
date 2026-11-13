@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105653
 titel: "Wirtschaftlicher Erfolg der Förderpogramme „Wachstums-Incentive“ und „Langstrecken-Incentive“ am Hamburg Airport"
 datum_anfrage: "2026-10-19"
-datum_drucksache: "2026-10-19"
+datum_drucksache: "2026-10-27"
 urheber: ["Prof. Dr. Michael Becken"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 3
+vorgang: 89578
+seiten: 4
 fragen: 18
 einzelfragen: 18
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 9
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105653"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105653/23_05736_wirtschaftlicher_erfolg_der_foerderpogramme_wachstums_incentive_und_langstrecken_incentive_am_hamburg_airport"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-13"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5736: Wirtschaftlicher Erfolg der Förderpogramme „Wachstums-Incentive“ und „Langstrecken-Incentive“ am Hamburg Airport
 
-> Schriftliche Kleine Anfrage des Abgeordneten Prof. Dr. Michael Becken (CDU) vom 19.10.26 und Antwort des Senats · Drucksache vom 19.10.2026  
+> Schriftliche Kleine Anfrage des Abgeordneten Prof. Dr. Michael Becken (CDU) vom 19.10.26 und Antwort des Senats · Drucksache vom 27.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105653) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105653/23_05736_wirtschaftlicher_erfolg_der_foerderpogramme_wachstums_incentive_und_langstrecken_incentive_am_hamburg_airport)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -40,6 +38,20 @@ Der Hamburg Airport fördert zudem die Aufnahme neuer direkter Langstreckenverbi
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Einleitung für die Antworten des Senats
+
+Die erfragten Informationen betreffen die Marketing-, Vertriebs- und Wettbewerbsstrategie der Flughafen Hamburg GmbH (FHG) und enthalten Angaben, deren Offenlegung Rückschlüsse auf die unternehmerische Ausrichtung, die Bewertung einzelner Märkte, die Ansprache von Fluggesellschaften sowie die Ausgestaltung kommerzieller Anreiz- und Kooperationsmodelle zulassen würde.
+
+Die Informationen sind nicht öffentlich zugänglich und werden innerhalb des Unternehmens nur einem begrenzten Personenkreis zur Verfügung gestellt. Ihre Bekanntgabe würde Wettbewerbern, insbesondere anderen europäischen Flughäfen, die Möglichkeit eröffnen, die strategische Marktbearbeitung der FHG nachzuvollziehen und ihr eigenes Marktverhalten entsprechend auszurichten. Darüber hinaus könnten Rückschlüsse auf Verhandlungspositionen und wirtschaftliche Bewertungen gezogen werden, was die Wettbewerbs- und Verhandlungsposition der FHG in laufenden und zukünftigen Gesprächen mit Fluggesellschaften und sonstigen Geschäftspartnern beeinträchtigen
+
+könnte. Zudem sind bei einer Aufschlüsselung nach Luftverkehrsgesellschaften auch deren Betriebs- und Geschäftsgeheimnisse betroffen.
+
+Die erfragten Angaben stellen daher Betriebs- und Geschäftsgeheimnisse dar. Nach Abwägung des parlamentarischen Informationsinteresses mit den schutzwürdigen Geheimhaltungsinteressen der FHG und ihrer Vertragspartner wird von einer Offenlegung der konkreten strategischen Inhalte abgesehen.
+
+Dies gilt insbesondere für Angaben zu den der strategischen Ausgestaltung der Programme zugrunde liegenden Marktanalysen, Zielmärkten, Auswahlkriterien, Wirtschaftlichkeitsbewertungen und Vermarktungskonzepten. Die Offenlegung solcher Informationen könnte Wettbewerbern sowie potenziellen Vertragspartnerinnen und -partnern einen erheblichen Erkenntnisgewinn verschaffen und die wirtschaftlichen Interessen der FHG nachhaltig beeinträchtigen.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen auf der Grundlage von Auskünften der FHG wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
@@ -47,6 +59,10 @@ Vor diesem Hintergrund frage ich den Senat:
 Wie viele Luftverkehrsgesellschaften haben seit dessen Einführung zum 1. April 2025 je Quartal das oben genannte Programm der Flughafen Hamburg GmbH in Anspruch genommen?
 
 Bitte nach Quartalen und nach einzelnen Luftverkehrsgesellschaften aufschlüsseln.
+
+#### Antwort zu Frage 1
+
+Seit April des Jahres 2025 wurden durchschnittlich rund 15 Fluggesellschaften pro Quartal gefördert. Eine weitergehende Aufschlüsselung der Angaben ist nicht möglich, da hierdurch schutzwürdige Betriebs- und Geschäftsgeheimnisse der FHG und der jeweiligen Gesellschaften offengelegt würden. Im Übrigen siehe Vorbemerkung.
 
 ### Frage 2
 
@@ -58,21 +74,33 @@ Wie hoch war das durchschnittliche Incentive je gefördertem zusätzlichem einst
 
 ### Frage 4
 
-Wie hoch ist der wirtschaftliche Nettoeffekt des Growth Incentive für die Flughafen Hamburg GmbH, berechnet aus den durch die zusätzlichen Passagiere erzielten Erlösen abzüglich der unmittelbar
-
-dadurch entstehenden zusätzlichen Kosten und der gewährten Incentives? Bitte nach Quartalen und nach den jeweils angewandten Förderstufen aufschlüsseln.
+Wie hoch ist der wirtschaftliche Nettoeffekt des Growth Incentive für die Flughafen Hamburg GmbH, berechnet aus den durch die zusätzlichen Passagiere erzielten Erlösen abzüglich der unmittelbar dadurch entstehenden zusätzlichen Kosten und der gewährten Incentives? Bitte nach Quartalen und nach den jeweils angewandten Förderstufen aufschlüsseln.
 
 ### Frage 5
 
 Nach welchen Kennzahlen und anhand welcher Datengrundlage bewertet die Flughafen Hamburg GmbH den wirtschaftlichen Erfolg des Growth Incentive?
 
+#### Antwort zu Fragen 2 bis 5
+
+Siehe Vorbemerkung.
+
 ### Frage 6
 
 Wie viele der im Rahmen des Programms berücksichtigten zusätzlichen Passagiere wären nach Einschätzung der Flughafen Hamburg GmbH auch ohne das Growth Incentive nach oder von Hamburg geflogen (Mitnahmeeffekt)?
 
+#### Antwort zu Frage 6
+
+Das Growth-Incentive steht nach einheitlichen Kriterien allen Fluggesellschaften offen, die die Programmbedingungen erfüllen. Das Incentive wird dabei stets automatisch berücksichtigt. Eine Bezifferung, wie viele der im Rahmen des Programms berücksichtigten zusätzlichen Passagiere auch ohne das Growth-Incentive nach oder von Hamburg geflogen wären, ist insofern nicht möglich.
+
+Im Übrigen siehe Vorbemerkung.
+
 ### Frage 7
 
 Welche Gesamtaufwendungen und Erlöse beziehungsweise Erlösminderungen erwartet die Flughafen Hamburg GmbH für das gesamte Programm vom 1. April 2025 bis zum 31. März 2028? Bitte nach Geschäftsjahren beziehungsweise Kalenderjahren aufschlüsseln.
+
+#### Antwort zu Frage 7
+
+Siehe Vorbemerkung.
 
 ### Frage 8
 
@@ -81,6 +109,10 @@ Plant der Senat beziehungsweise die Flughafen Hamburg GmbH nach dem Ende des Pro
 ### Frage 9
 
 Falls ja, welche Kriterien sollen für die Entscheidung maßgeblich sein und soll die Entscheidung von einer vorherigen Evaluation der Kosten und der tatsächlich zusätzlich generierten Passagiere abhängig gemacht werden?
+
+#### Antwort zu Fragen 8 und 9
+
+Angesichts der Laufzeit des aktuellen Incentive-Programms stehen derzeit weder eine Evaluation noch eine Entscheidung über dessen Fortführung an.
 
 ### Frage 10
 
@@ -98,13 +130,25 @@ Wie viele zusätzliche Flüge und Passagiere wurden durch die geförderten Langs
 
 Wie hoch ist der wirtschaftliche Nettoeffekt des Langstreckenförderprogramms für die Flughafen Hamburg GmbH, berechnet aus den durch die geförderten Verbindungen erzielten zusätzlichen Erlösen abzüglich der unmittelbar dadurch entstehenden zusätzlichen Kosten und der gewährten Rabatte auf Flughafenentgelte? Bitte nach Quartalen aufschlüsseln.
 
+#### Antwort zu Fragen 10 bis 13
+
+Seit dem 1. April 2025 hat keine Fluggesellschaft das Langstrecken-Incentive in Anspruch genommen. Es sind daher keine geförderten Strecken, Rabatte, zusätzlichen Flüge oder Passagiere sowie kein programmbezogener Nettoeffekt angefallen. Im Übrigen siehe Vorbemerkung.
+
 ### Frage 14
 
 Auf welcher Datengrundlage und anhand welcher Kennzahlen bewertet die Flughafen Hamburg GmbH den wirtschaftlichen Erfolg des Langstreckenförderprogramms?
 
+#### Antwort zu Frage 14
+
+Siehe Vorbemerkung.
+
 ### Frage 15
 
 Inwieweit wird geprüft, ob die geförderten Langstreckenverbindungen auch ohne die gewährten Rabatte aufgenommen worden wären?
+
+#### Antwort zu Frage 15
+
+Siehe Antwort zu 10 bis 13.
 
 ### Frage 16
 
@@ -117,3 +161,7 @@ Plant die Flughafen Hamburg GmbH, das Langstreckenförderprogramm in seiner derz
 ### Frage 18
 
 Falls eine Fortführung oder Anpassung geplant ist: Welche Kriterien sollen für diese Entscheidung maßgeblich sein, und soll sie von einer vorherigen Evaluation der Förderkosten, der tatsächlich zusätzlich geschaffenen Langstreckenverbindungen und deren wirtschaftlichem Nettoeffekt abhängig gemacht werden?
+
+#### Antwort zu Fragen 16, 17 und 18
+
+Siehe Vorbemerkung.

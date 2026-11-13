@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105659
 titel: "Ungebrochener Klärungsbedarf zur Weigh-in-motion-Anlage an der Köhlbrandbrücke: Was tut der Senat, um eine Lücke in der Haupthafenroute zu verhindern? (V)"
 datum_anfrage: "2026-10-20"
-datum_drucksache: "2026-10-20"
+datum_drucksache: "2026-10-27"
 urheber: ["Dr. Antonia-Katharina Goldner", "Philipp Heißner"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 4
+vorgang: 89588
+seiten: 7
 fragen: 24
 einzelfragen: 37
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 12
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/4960", "23/5534", "22/2476"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105659"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105659/23_05742_ungebrochener_klaerungsbedarf_zur_weigh_in_motion_anlage_an_der_koehlbrandbruecke_was_tut_der_senat_um_eine_luecke_in_der_haupthafenroute_zu_verhinder"
-abgerufen: "2026-11-01"
+abgerufen: "2026-11-13"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5742: Ungebrochener Klärungsbedarf zur Weigh-in-motion-Anlage an der Köhlbrandbrücke: Was tut der Senat, um eine Lücke in der Haupthafenroute zu verhindern? (V)
 
-> Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner und Philipp Heißner (CDU) vom 20.10.26 und Antwort des Senats · Drucksache vom 20.10.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner und Philipp Heißner (CDU) vom 20.10.26 und Antwort des Senats · Drucksache vom 27.10.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105659) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105659/23_05742_ungebrochener_klaerungsbedarf_zur_weigh_in_motion_anlage_an_der_koehlbrandbruecke_was_tut_der_senat_um_eine_luecke_in_der_haupthafenroute_zu_verhinder)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 01.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -42,11 +40,35 @@ Daten der WIM-Anlage werden für mindestens sechs Monate vor Ort gespeichert. Da
 
 Vor diesem Hintergrund, angesichts wachsender Eilbedürftigkeit und weitergehenden Informationsbedarfs, fragen wir den Senat:
 
+## Einleitung für die Antworten des Senats
+
+Die Weigh-in-Motion-Anlage (WIM-Anlage) wurde ursprünglich nicht für verkehrsstatistische oder ordnungsrechtliche Auswertungen nach Gewichtsschwellen konzipiert, sondern dient der Unterstützung der technischen Bauwerksüberwachung und damit vorrangig der bauwerksbezogenen Erfassung und Analyse tatsächlicher Verkehrslasten auf der Köhlbrandbrücke.
+
+Die WIM-Anlage misst mit ihren Drucksensoren die für das Bauwerk besonders relevanten, einzelnen Achslasten. An Werktagen handelt es sich dabei um zehntausende von Achsen. Das Gewicht ganzer Fahrzeuge misst die WIM-Anlage dagegen nicht direkt. Vielmehr werden aus den gemessenen Achsüberfahrten anhand fahrzeugtypischer Achskonfiguration Fahrzeugtypen und -gewichte rechnerisch abgeleitet.
+
+Die WIM-Anlage erfasst die Messwerte während der Fahrzeugüberfahrt und berechnet die zugehörigen, abgeleiteten Fahrzeugparameter automatisiert. Die Daten stehen grundsätzlich in Echtzeit beziehungsweise innerhalb weniger Sekunden nach der Überfahrt für die Hamburg Port Authority AöR (HPA) zur Verfügung. Dies ist jedoch von der nachgelagerten Plausibilisierung, Qualitätssicherung und fachlichen Auswertung der Daten zu unterscheiden, die zeitversetzt erfolgt.
+
+Zu berücksichtigen ist zudem, dass die WIM-Anlage umfangreiche und technisch komplex strukturierte Datensätze generiert. Diese Rohdaten werden in einer Datenbankumgebung verarbeitet und liegen nicht in einer Form vor, die mit handelsüblicher Software ohne Weiteres ausgewertet werden kann. Aufgrund des Datenvolumens sowie der Vielzahl an Mess- und Fahrzeugparametern je Überfahrt sind für die Verarbeitung und Analyse spezielle Auswerteverfahren und Datenbankwerkzeuge erforderlich. Darüber hinaus enthalten die Rohdaten technische Messwerte, die ohne Plausibilisierung, Qualitätssicherung und fachliche Einordnung nur eingeschränkt interpretierbar sind. Die Aufbereitung dient daher nicht nur der Qualitätsprüfung der Daten, sondern auch ihrer fachlich nachvollziehbaren und belastbaren Auswertung. Im Übrigen käme die Vorlage von Rohdaten einer Aktenvorlage gleich. Diese ist gemäß Artikel 30 der Verfassung der Freien und Hansestadt Hamburg an Voraussetzungen gebunden, die hier nicht vorliegen.
+
+Sowohl bei der direkten Achslastmessung als auch der rechnerischen Ableitung der Fahrzeuggewichte liegen Unschärfen vor, die jedoch für die technische Bauwerksüberwachung, dem originären Zweck der WIM-Anlage, nicht relevant sind. Aus den von der WIM-Anlage generierten Rohdaten lassen sich daher Zahlen zu Überfahrten von mehr als 44 Tonnen herausfiltern, diese sind jedoch bisher nicht qualitätsgesichert und fehlerbehaftet. Gleichwohl wird im Rahmen der Stellungnahme des Senats zur gerügten Antwort in Drs. 23/4960 eine solche Auswertung im Sinne der darin enthaltenen Frage 5 und 6 in der gegenwärtig möglichen Qualität vorgelegt, auch wenn dies das Risiko von Fehlschlüssen birgt. Die Senatsstellungnahme erfolgt innerhalb der vorgegebenen Frist.
+
+Die erneuerte WIM-Anlage an der Köhlbrandbrücke wurde Ende 2025 baulich abgenommen und liefert seit April 2026 auswertbare Daten. Die Daten sind erst seit diesem Zeitpunkt auswertbar. Der HPA liegen seit September des Jahres 2026 damit erstmals Auswertungen für die Monate April bis Juli des Jahres 2026 vor. Auswertungen für August und September des Jahres 2026 gibt es nicht, weil wegen technischer Störungen zwischenzeitlich technische Anpassungen an der WIM-Anlage durchgeführt wurden, weshalb keine auswertbaren Datensätze verfügbar sind.
+
+Die HPA befindet sich in der Phase der Validierung der Daten. Zum Zwecke der Qualitätssicherung wird die HPA die WIM-Anlage kalibrieren. Dafür werden Lkw, deren Achsenlasten von der WIM-Anlage gemessen wurden, mit einer Fahrzeugwaage gewogen, um auf diese Weise die Fehlerquote der WIM-Anlage zu ermitteln. Vorgesehen ist dies für Ende Oktober des Jahres 2026. Auch wenn die Kalibrierung validere Auswertungen ermöglichen wird, muss jedoch die fehlerhafte Zuordnung von Achslasten zu unterschiedlichen Fahrzeugentypen noch verbessert werden.
+
+Die Eingrenzung der Fehlerquote ist ein schrittweiser Prozess. Der Aufbau eines standardisierten Berichtswesens durch die HPA befindet sich derzeit in Vorbereitung. Die Anforderungen werden aktuell mit einem Dienstleister abgestimmt; die erforderlichen Leistungen befinden sich im Vergabeprozess. Ein automatisierter Regelbetrieb besteht derzeit noch nicht. Eine standardisierte regelhafte Auswertung der Daten soll durch den externen Dienstleister im Jahr 2027erfolgen.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundlage von Auskünften der HPA wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
 
 Die WIM-Anlage ist laut Drs. 22/2476 seit 2011, laut Drs. 23/4960 bereits seit 2010 in Betrieb, jedenfalls nicht erst seit 2025, wie es aber seitens des Senats im Wirtschaftsausschuss am 7. Oktober 2026 hieß. Wie kommt es zu diesen Widersprüchen? Bitte genaues Datum der Inbetriebnahme der WIM-Anlage angeben.
+
+#### Antwort zu Frage 1
+
+Die Ausführungen im Ausschuss für Wirtschaft, Arbeit und Innovation der Hamburgischen Bürgerschaft bezogen sich auf die Ende des Jahres 2025 erneuerte Anlage, deren Daten für die Beantwortung der Fragen im Zusammenhang mit dem Großraum- und Schwertransport-Verbot (GST-Verbot) relevant sind. Die WIM-Anlage wurde erstmals im Jahr 2010 erstellt und im Juni des Jahres 2011 in Betrieb genommen.
 
 ### Frage 2
 
@@ -70,10 +92,18 @@ Laut senatsseitiger Aussage im Wirtschaftsausschuss am 7. Oktober 2026 habe es s
 
 An welchem Datum hat der Senat begonnen, die WIM-Daten entsprechend aufzubereiten, um sie gemäß Aussage im Ausschuss den Fragestellern nach etwa vier Wochen liefern zu können?
 
+#### Antwort zu Fragen 2 bis 5
+
+Siehe Vorbemerkung.
+
 ### Frage 6
 
 Hat der Senat im Blick, dass die ersten seit Inkrafttreten des 44-Tonnen-Fahrverbots am 1. Mai 2026 angefallenen WIM-Messdaten ab
 1. November 2026 verloren gehen (können)?
+
+#### Antwort zu Frage 6
+
+Die relevanten Messdaten werden durch die HPA gesichert. Diese werden über die systemisch vorgesehene Speicherfrist von sechs Monaten hinaus unter Wahrung der geltenden rechtlichen Rahmenbedingungen vorgehalten und stehen damit grundsätzlich – auch für den Zeitraum seit Einführung der 44-Tonnen-Beschränkung – unabhängig von einer unmittelbaren Auswertung für spätere fachliche Analysen zur Verfügung.
 
 ### Frage 7
 
@@ -95,11 +125,17 @@ Wenn ja, in welcher Form und Regelmäßigkeit werden die Daten künftig wem zur 
 
 Wenn nein, warum nicht?
 
+#### Antwort zu Fragen 7, 8 und 9
+
+Siehe Vorbemerkung.
+
 ### Frage 10
 
-Inwiefern werden die WIM-Daten im Vergleich zu vorher „sauber“ aufbereitet? Welche Art von Sichtbarmachung, Entschlüsselung oder
+Inwiefern werden die WIM-Daten im Vergleich zu vorher „sauber“ aufbereitet? Welche Art von Sichtbarmachung, Entschlüsselung oder Ähnlichem ist erforderlich, um ihren Nutzwert her- beziehungsweise sicherzustellen?
 
-Ähnlichem ist erforderlich, um ihren Nutzwert her- beziehungsweise sicherzustellen?
+#### Antwort zu Frage 10
+
+Die Messdaten werden fachlich plausibilisiert und qualitätsgesichert. Dabei werden insbesondere Messartefakte, Fehlklassifikationen und unplausible Fahrzeuggewichte identifiziert und bei der Auswertung berücksichtigt. Eine Entschlüsselung oder besondere Sichtbarmachung der Daten ist hierfür nicht erforderlich. Im Übrigen siehe Vorbemerkung.
 
 ### Frage 11
 
@@ -108,6 +144,10 @@ In welchem genauen Format können die (Roh-)Daten grundsätzlich ohne Aufbereitu
 ### Frage 12
 
 Was spricht aus Sicht des Senats im Einzelnen dagegen, die erfragten Daten ohne vorherige Aufbereitung zur Verfügung zu stellen?
+
+#### Antwort zu Fragen 11 und 12
+
+Siehe Vorbemerkung.
 
 ### Frage 13
 
@@ -121,6 +161,10 @@ Wie stellt der Senat sicher, dass es nicht zu einem Messdatenverlust mindestens 
 
 Wie stellt der Senat fortan sicher, dass sämtliche seit 1. Mai 2026 und fortlaufend anfallenden Einzelfahrzeugdaten über die bislang vorgesehene Speicherfrist von mindestens sechs Monaten hinaus vollständig und bis auf Weiteres erhalten bleiben?
 
+#### Antwort zu Fragen 13, 14 und 15
+
+Siehe Antwort zu 6.
+
 ## Vorbemerkung
 
 Seit 7. Januar 2019 gilt auf der Strombrücke für Lkw ein Abstandsgebot von mindestens 50 Metern, das auch in Stausituationen einzuhalten ist. Seit Februar 2019 soll zudem ein sogenannter Abstandstrichter in Form von Fahrbahnmarkierungen dafür sorgen, dass Lkw schon auf beiden Rampen einen Abstand von zunächst 20 und in Richtung Strombrücke zunehmend mehr Metern einhalten.
@@ -128,6 +172,10 @@ Seit 7. Januar 2019 gilt auf der Strombrücke für Lkw ein Abstandsgebot von min
 ### Frage 16
 
 Wie passen die geltenden Abstandsgebote auf der Brücke zu den Aussagen im Wirtschaftsausschuss am 7. Oktober 2026, die WIM- Anlage habe teils unzureichend trennscharfe, sozusagen ineinander verschmolzene Fahrzeugdaten erhoben, wenn doch die bestehenden Abstandsgebote klar abgrenzbare WIM-Daten dahingehend, wo die Abmessungen eines Fahrzeugs beginnen und wo sie enden, erlauben müssten?
+
+#### Antwort zu Frage 16
+
+Das Abstandsgebot für Lkw von 50 Metern gilt nur im Bereich der Strombrücke. Die WIM-Anlage ist jedoch im Rampenbereich noch vor dem Abstandtrichter installiert, weshalb kein Zusammenhang mit der Messsystematik der WIM-Anlage besteht.
 
 ### Frage 17
 
@@ -137,11 +185,15 @@ Wenn ja, durch wen, seit wann, in welcher Regelmäßigkeit, auf welche Weise –
 
 Wenn nein, warum nicht?
 
+#### Antwort zu Frage 17
+
+Die Verfolgung von Ordnungswidrigkeiten an der Köhlbrandbrücke ist permanente Aufgabe der Polizei und erfolgt durch den täglichen Dienst im Rahmen der zur Verfügung stehenden personellen Ressourcen. Darüber hinaus führen das örtlich zuständige Wasserschutzpolizeikommissariat 2 und die Dienstgruppe Schwerlastverkehr der Verkehrsdirektion (VD 413) zielgerichtet Schwerpunkteinsätze in diesem Bereich durch. Bei festgestellten Verstößen leitet die Polizei konsequent Ordnungswidrigkeitenverfahren mit den für den jeweiligen Verstoß vorgesehenen Verwarnungs- beziehungsweise Bußgeldern ein.
+
 ## Vorbemerkung
 
-Bereits ein 2012 in der Fachzeitschrift „Bauingenieur“ veröffentlichter Beitrag über das WIM-System der Köhlbrandbrücke beschreibt, dass bei der damaligen Datenauswertung Fahrzeuggewichte oberhalb von 40 beziehungsweise 44 Tonnen festgestellt wurden. So heißt es dort etwa: „Die Wiegesensoren und Induktionsschleifen wurden in verschiedenen Messfeldern so angeordnet, dass eine Identifikation des jeweiligen Fahrzeugtyps und nachfolgend eine detaillierte Klassifikation des Verkehrs möglich ist. (…) Bei der Datenauswertung zeigt
+Bereits ein 2012 in der Fachzeitschrift „Bauingenieur“ veröffentlichter Beitrag über das WIM-System der Köhlbrandbrücke beschreibt, dass bei der damaligen Datenauswertung Fahrzeuggewichte oberhalb von 40 beziehungsweise 44 Tonnen festgestellt wurden. So heißt es dort etwa: „Die Wiegesensoren und Induktionsschleifen wurden in verschiedenen Messfeldern so angeordnet, dass eine Identifikation des jeweiligen Fahrzeugtyps und nachfolgend eine detaillierte Klassifikation des Verkehrs möglich ist. (…) Bei der Datenauswertung zeigt sich, dass ein nicht unerheblicher Anteil des Verkehrs aus Fahrzeuggewichten oberhalb von 40 t beziehungsweise 44 t besteht (…).“ – Der Senat selbst führt in Drs. 23/4960 die Datensätze auf, die pro Fahrzeugüberfahrt grundsätzlich erfasst beziehungsweise berechnet werden: Achslasten jeder einzelnen Achse, Gesamtgewicht (Bruttogewicht) des Fahrzeugs, Anzahl der Achsen und Achsabstände,
 
-sich, dass ein nicht unerheblicher Anteil des Verkehrs aus Fahrzeuggewichten oberhalb von 40 t beziehungsweise 44 t besteht (…).“ – Der Senat selbst führt in Drs. 23/4960 die Datensätze auf, die pro Fahrzeugüberfahrt grundsätzlich erfasst beziehungsweise berechnet werden: Achslasten jeder einzelnen Achse, Gesamtgewicht (Bruttogewicht) des Fahrzeugs, Anzahl der Achsen und Achsabstände, Fahrzeugklasse/Fahrzeugtyp, Fahrzeuglänge, Geschwindigkeit bei der Überfahrt, Fahrspur, Fahrtrichtung, Datum und Uhrzeit.
+Fahrzeugklasse/Fahrzeugtyp, Fahrzeuglänge, Geschwindigkeit bei der Überfahrt, Fahrspur, Fahrtrichtung, Datum und Uhrzeit.
 
 ### Frage 18
 
@@ -150,6 +202,10 @@ Wie erklärt sich vor diesem Hintergrund – die WIM-Anlage erfasst beziehungswe
 ### Frage 19
 
 Warum hat der Senat auf diesen möglichen Umstand in der Antwort auf die entsprechende Frage in Drs. 23/4960 nicht hingewiesen, sondern die Frage im Ergebnis unbeantwortet gelassen?
+
+#### Antwort zu Fragen 18 und 19
+
+Die WIM-Anlage liefert grundsätzlich Messwerte und daraus rechnerisch abgeleitete Fahrzeuggewichte. Die im Ausschuss für Wirtschaft, Arbeit und Innovation der Hamburgischen Bürgerschaft dargestellte Unsicherheit bezog sich nicht auf das Vorhandensein der Daten, sondern auf deren fachliche Belastbarkeit. Aufgrund noch bestehender Unsicherheiten hinsichtlich Messgenauigkeit, Datenqualität und möglicher Fehlklassifikationen konnten zum Zeitpunkt der Anfrage keine belastbaren Aussagen zur tatsächlichen Anzahl von Fahrzeugen oberhalb bestimmter Gewichtsschwellen getroffen werden. Daher wurde in Drs. 23/4960 bewusst nicht auf vorläufige und noch nicht qualitätsgesicherte Auswertungsergebnisse Bezug genommen. Im Übrigen siehe Vorbemerkung.
 
 ## Vorbemerkung
 
@@ -167,6 +223,10 @@ Wenn ja, seit welchem Datum, mit welchen konkreten Ergebnissen und bis wann soll
 
 Wenn nein, warum nicht und wann rechnet der Senat mit dem Abschluss?
 
+#### Antwort zu Fragen 20 und 21
+
+Siehe Vorbemerkung.
+
 ### Frage 22
 
 Ist die in Drs. 23/4960 erwähnte Konzeptionierung der Schnittstelle der WIM-Anlage für unter anderem die Datennutzung zum Digitalen Zwilling der Haupthafenroute inzwischen abgeschlossen?
@@ -182,3 +242,7 @@ Wann im Jahr 2027 wird der sich an die Konzeptionierung der Schnittstelle anschl
 ### Frage 24
 
 Wann soll der reguläre Betrieb starten und welche Daten sollen im Einzelnen mit welcher Zeitverzögerung woher genau wohin genau übertragen werden?
+
+#### Antwort zu Fragen 22, 23 und 24
+
+Die Konzeptionierung der Schnittstelle zum Digitalen Zwilling ist noch nicht abgeschlossen. Der Testbetrieb wird voraussichtlich im Jahr 2027 erfolgen und voraussichtlich mehrere Monate dauern. Der Zeitpunkt für den Start des regulären Betriebs steht noch nicht fest. Die digital und damit umgehend zu übermittelnden Daten sind zu diesem frühen Zeitpunkt noch nicht abschließend festgelegt.
