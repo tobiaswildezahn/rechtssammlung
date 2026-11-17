@@ -1,6 +1,6 @@
 # Schriftliche Kleine Anfragen der 23. Wahlperiode
 
-Stand: 13.11.2026 22:13 · 3985 von 3985 SKA als Markdown (100%) · Quelle: Parlamentsdatenbank der Hamburgischen Bürgerschaft (ParlDok) · erzeugt mit `ska_archiv`
+Stand: 17.11.2026 22:10 · 4017 von 4017 SKA als Markdown (100%) · Quelle: Parlamentsdatenbank der Hamburgischen Bürgerschaft (ParlDok) · erzeugt mit `ska_archiv`
 
 Je SKA eine Datei mit YAML-Frontmatter (Drucksache, Datum, Urheber, Fraktion, Zahl der Fragen, zitierte Drucksachen) und Abschnitten *Einleitung für die Fragen*, *Einleitung für die Antworten des Senats* und *Fragen und Antworten* (`### Frage n`, `#### Antwort zu …`). Tabellen aus den PDFs stehen als Zeilen im Fließtext. Alle Metadaten zusätzlich in `index.csv`.
 
@@ -8,10 +8,10 @@ Je SKA eine Datei mit YAML-Frontmatter (Drucksache, Datum, Urheber, Fraktion, Za
 
 | Fraktion | SKA |
 |---|---:|
-| CDU | 2355 |
-| Die Linke | 1030 |
-| AfD | 497 |
-| SPD | 69 |
+| CDU | 2374 |
+| Die Linke | 1035 |
+| AfD | 504 |
+| SPD | 70 |
 | GRÜNE | 25 |
 | fraktionslos | 20 |
 
@@ -39,6 +39,6 @@ Je SKA eine Datei mit YAML-Frontmatter (Drucksache, Datum, Urheber, Fraktion, Za
 | 2026-08 | 165 |
 | 2026-09 | 224 |
 | 2026-10 | 198 |
-| 2026-11 | 62 |
+| 2026-11 | 94 |
 
-80 SKA lagen beim Abruf noch ohne Antwort des Senats vor (`beantwortet: false`); sie werden bei den nächsten Läufen nachgeholt.
+94 SKA lagen beim Abruf noch ohne Antwort des Senats vor (`beantwortet: false`); sie werden bei den nächsten Läufen nachgeholt.

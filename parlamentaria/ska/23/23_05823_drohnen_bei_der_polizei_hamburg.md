@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105756
 titel: "Drohnen bei der Polizei Hamburg"
 datum_anfrage: "2026-10-29"
-datum_drucksache: "2026-10-29"
+datum_drucksache: "2026-11-06"
 urheber: ["Martin Wolter", "Deniz Celik"]
 fraktionen: ["Die Linke"]
-vorgang: null
-seiten: 2
+vorgang: 89666
+seiten: 3
 fragen: 15
 einzelfragen: 18
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 3
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105756"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105756/23_05823_drohnen_bei_der_polizei_hamburg"
-abgerufen: "2026-11-03"
+abgerufen: "2026-11-17"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5823: Drohnen bei der Polizei Hamburg
 
-> Schriftliche Kleine Anfrage der Abgeordneten Martin Wolter und Deniz Çelik (Die Linke) vom 29.10.26 und Antwort des Senats · Drucksache vom 29.10.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Martin Wolter und Deniz Çelik (Die Linke) vom 29.10.26 und Antwort des Senats · Drucksache vom 06.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105756) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105756/23_05823_drohnen_bei_der_polizei_hamburg)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -37,6 +35,28 @@ Die Polizei Hamburg plant ein flächendeckendes Drohnennetz in der Stadt und tes
 Auf die Frage, wie viele Drohnen welchen Typs die Polizei Hamburg besitzt, verweigert der Senat unter Verweis darauf, dass die Antwort die Einsatztaktik der Polizei gefährden könnte, die Beantwortung. Zugleich gibt Sebastian Krause (Leiter der Grundsatzabteilung der Hamburger Schutzpolizei) weitergehende Informationen im Rahmen einer Berichterstattung der Zeitung „Die Welt“ preis, siehe: https://www.welt.de/regionales/hamburg/ article6942768e3e25dcaf036adb33/strategische-partnerschaft-polizei-hafenbehoerde-und-industrie-vereinbaren-kooperation-zur-drohnenabwehr-imhamburger-hafen.html.
 
 Vor diesem Hintergrund fragen wir den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Mit Beschluss des Steuerungskreises Digitalisierung der Behörde für Inneres und Sport (BIS) vom 17. April 2023 wurde der Einsatz unbemannter Luftfahrtsysteme (ULS) bei der Polizei Hamburg vom probatorischen Betrieb in den Wirkbetrieb überführt.
+
+Im Rahmen der erforderlichen Vorfeldprüfungen für den Einsatz von Drohnen bei der Polizei wurden insbesondere die rechtlichen und datenschutzrechtlichen Voraussetzungen, die Datensicherheit, die Verhältnismäßigkeit sowie die technischen und organisatorischen Rahmenbedingungen umfassend betrachtet und bewertet. Diese Aspekte werden auch bei der Einführung neuer ULS-Modelle sowie im laufenden Einsatz berücksichtigt und fortlaufend überprüft.
+
+Die Polizei informiert sich dabei fortwährend über neue Entwicklungen und Einsatzmöglichkeiten moderner Drohnentechnologie. Dabei werden die verfügbaren Systeme hinsichtlich ihrer technischen Eigenschaften, Einsatzmöglichkeiten und ihres Mehrwertes für die polizeiliche Aufgabenwahrnehmung miteinander verglichen und bewertet. In diese Bewertung fließen auch die Anforderungen der Informations- und Datensicherheit sowie einschlägige fachliche Erkenntnisse und Empfehlungen aus dem regelmäßigen
+
+fachlichen Austausch mit den Sicherheitsbehörden des Bundes und der Länder ein. Ziel ist es, die Potenziale moderner Drohnentechnologie zur Unterstützung polizeilicher Aufgaben und zur Gewährleistung der öffentlichen Sicherheit und Ordnung bestmöglich auszuschöpfen. Auf diese Weise werden aktuelle Entwicklungen berücksichtigt und die technische Ausstattung sowie die Einsatzfähigkeit an neue Anforderungen angepasst.
+
+Der Betrieb von ULS bei der Polizei Hamburg richtet sich nach der Verordnung (EU) 2018/1139 sowie den einschlägigen nationalen luftrechtlichen Bestimmungen. Die Regelungen zum Drohneneinsatz sind in der Polizeidienstvorschrift für den täglichen Dienst der Polizei (PDV 350 [HH] VS-NfD) festgehalten, die nur für den internen Dienstgebrauch bestimmt ist.
+
+Die Einsatzunterstützung von Drohnen bei der Polizei wird in den Medien wiederkehrend thematisiert. Sofern bei Großeinsätzen eine offene Datenerhebung im Rahmen der Gefahrenabwehr erfolgt, wird – soweit möglich – zusätzlich durch Lautsprecherdurchsagen, Hinweise in sozialen Medien und die Presse- und Öffentlichkeitsarbeit der Polizei auf den Drohneneinsatz hingewiesen. Eine gesonderte Berücksichtigung der Tageszeit bei der Hinweisgebung erfolgt nicht.
+
+Die Fragestellungen beziehen sich darüber hinaus teilweise auf sensible Informationen, die vor dem Hintergrund aktueller internationaler Entwicklungen besonders schutzbedürftig sind. Angaben, die für sich genommen oder in der Zusammenschau mit bereits öffentlich zugänglichen Informationen, einschließlich Presseberichterstattungen, Rückschlüsse auf Verwundbarkeiten zulassen und dadurch die Vorbereitung oder Durchführung von Sabotageakten, terroristischen Anschlägen, Spionagehandlungen oder sonstigen Angriffen erleichtern könnten, werden bei der Beantwortung Parlamentarischer Anfragen nicht dargestellt. Dies betrifft Angaben zur konkreten Einsatzfähigkeit, zu geplanten Beschaffungsmaßnahmen, zu technischen Parametern und Sicherungsmaßnahmen von Führungs- und Einsatzmitteln, zu Einsatzzeitpunkten, Einsatzorten, Einsatzanlässen, Einsatzhäufigkeiten von ULS sowie zur Anzahl, Verteilung und Ausbildung der verfügbaren Luftfahrzeugfernführerinnen und Luftfahrzeugfernführer.
+
+Bei der Beantwortung parlamentarischer und pressebezogener Anfragen sowie bei sonstiger öffentlicher Kommunikation über den Einsatz unbemannter Luftfahrtsysteme sind das Informationsinteresse der Öffentlichkeit und der Presse sowie der Schutz sicherheitsrelevanter Belange im Einzelfall miteinander abzuwägen.
+
+Die in verschiedenen Zusammenhängen dargestellte Perspektive einer dezentralen Einsatzunterstützung durch unbemannte Luftfahrtsysteme ist ein langfristiges fachliches Zielbild. Konkrete oder abschließend geplante Maßnahmen zu dessen Umsetzung bestehen derzeit nicht. Eine etwaige Realisierung steht unter dem Vorbehalt der jeweils geltenden internationalen, europäischen und nationalen rechtlichen Rahmenbedingungen. Weitergehende Angaben zu möglichen Betriebs- und Steuerungskonzepten, technischen Komponenten oder zeitlichen Perspektiven erfolgen aus oben genannten Sicherheitsgründen nicht.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 ## Fragen und Antworten
 
@@ -56,15 +76,23 @@ Welche Alternativen hat die Polizei Hamburg zu dem genannten Hersteller getestet
 
 Über wie viele Drohnen welchen Typs verfügt die Polizei Hamburg (Stand 29. Oktober 2026)?
 
+#### Antwort zu Fragen 1 bis 4
+
+Siehe Vorbemerkung.
+
 ### Frage 5
 
 Wie häufig wurden, wann und zu welchen Anlässen beziehungsweise Zwecken die Drohnen (ULS) seit einschließlich dem 24. Oktober 2021 durch die Polizei Hamburg eingesetzt?
 
 ### Frage 6
 
-Wie häufig wurden insbesondere, wann und zu welchen Anlässen beziehungsweise Zwecken die Drohnen (ULS) seit einschließlich
+Wie häufig wurden insbesondere, wann und zu welchen Anlässen beziehungsweise Zwecken die Drohnen (ULS) seit einschließlich dem 24. Oktober 2021 durch die Polizei Hamburg im Kontext von Fußballspielen eingesetzt? Bitte hierzu tabellarisch nach Verein, Partie und Datum aufschlüsseln.
 
-dem 24. Oktober 2021 durch die Polizei Hamburg im Kontext von Fußballspielen eingesetzt? Bitte hierzu tabellarisch nach Verein, Partie und Datum aufschlüsseln.
+#### Antwort zu Fragen 5 und 6
+
+Statistiken im Sinne der Fragestellung werden bei der Polizei nicht geführt. Zur Beantwortung wäre eine Durchsicht aller Einsatzberichte-/Meldungen seit dem 24. Oktober 2021 bei der Polizei erforderlich. Die Auswertung von mehreren zehntausend Vorgängen ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
+
+Im Übrigen siehe Vorbemerkung.
 
 ### Frage 7
 
@@ -107,3 +135,7 @@ Wenn ja: Was versteht sie darunter und was zeichnet den Begriff „autonom“ hi
 ### Frage 15
 
 Ab wann die starten ULS, welche Teile dieses Drohnennetzes sind die Livebild-Übertragung und werden die Aufnahmen dann automatisch gespeichert?
+
+#### Antwort zu Fragen 7 bis 15
+
+Siehe Vorbemerkung.

@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105763
 titel: "Linksextreme Propaganda und Aufrufe zur Steinigung an Hamburger Schule?"
 datum_anfrage: "2026-10-30"
-datum_drucksache: "2026-10-30"
+datum_drucksache: "2026-11-06"
 urheber: ["Benjamin Mennerich", "Dirk Nockemann"]
 fraktionen: ["AfD"]
-vorgang: null
-seiten: 2
+vorgang: 89680
+seiten: 3
 fragen: 15
 einzelfragen: 15
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 2
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105763"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105763/23_05835_linksextreme_propaganda_und_aufrufe_zur_steinigung_an_hamburger_schule"
-abgerufen: "2026-11-03"
+abgerufen: "2026-11-17"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5835: Linksextreme Propaganda und Aufrufe zur Steinigung an Hamburger Schule?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Benjamin Mennerich und Dirk Nockemann (AfD) vom 30.10.26 und Antwort des Senats · Drucksache vom 30.10.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Benjamin Mennerich und Dirk Nockemann (AfD) vom 30.10.26 und Antwort des Senats · Drucksache vom 06.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105763) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105763/23_05835_linksextreme_propaganda_und_aufrufe_zur_steinigung_an_hamburger_schule)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 03.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -42,6 +40,16 @@ Die Schulbehörde und die Regierung reagieren auf diese Entwicklung bisher nicht
 
 Vor diesem Hintergrund fragen wir den Senat:
 
+## Einleitung für die Antworten des Senats
+
+Behauptungen, die ausschließlich auf Hörensagen oder nicht überprüfbaren Angaben beruhen, können nicht ohne Weiteres als Tatsachen zugrunde gelegt werden. Für eine sachgerechte Prüfung sind möglichst konkrete Angaben zu Ort, Zeitpunkt, Inhalt, möglichen Urheberinnen oder Urhebern sowie gegebenenfalls vorhandenen Bild- oder sonstigen Belegen erforderlich. Erst nach einer solchen Prüfung kann beurteilt werden, ob ein schulischer oder behördlicher Handlungsbedarf besteht. Allgemeine oder pauschale Schlussfolgerungen über die Lage an einer Schule lassen sich aus einzelnen, nicht verifizierten Hinweisen nicht ableiten.
+
+Die Schulleitung der Max-Brauer-Schule wurde im Rahmen der Beantwortung dieser Anfrage um eine Stellungnahme gebeten und hat mitgeteilt, dass ihr die in der Anfrage benannten Motive und Vorwürfe nicht bekannt sind. Weder wurde ein regelmäßiges Tragen von Kleidung mit VERDI-Logo durch Lehrkräfte beobachtet noch sind explizite Werbebotschaften für die Partei Die Linke oder Volt oder die vom Fragesteller genannten Aufkleber, Parolen und gewaltverherrlichenden Darstellungen bekannt.
+
+Konkrete Hinweise auf eine politische Indoktrination, auf parteipolitische Werbung durch die Schule oder auf gewaltverherrlichende Darstellungen in den Gebäuden der Schule liegen nicht vor. Im Falle parteipolitischer oder gewaltverherrlichender Sticker und Graffiti werden diese grundsätzlich schnellstmöglich nach Bekanntwerden entfernt.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
@@ -51,6 +59,12 @@ Ist der Schulbehörde beziehungsweise dem Senat die Entwicklung an der Max-Braue
 ### Frage 2
 
 Ist der Schulbehörde beziehungsweise dem Senat bekannt, dass es an der Max-Brauer-Schule ein grundsätzliches Problem mit Schmierereien und Graffiti gibt?
+
+#### Antwort zu Fragen 1 und 2
+
+Die Schulleitung hat mitgeteilt, dass auf dem Außengelände und teilweise auch im Inneren der Schule vereinzelt Sticker und Graffiti festgestellt wurden. Diese hatten überwiegend keinen politischen Inhalt. In den Gebäuden der Grundschule seien der Schulleitung entsprechende Vorkommnisse nicht bekannt.
+
+Im Übrigen siehe Vorbemerkung.
 
 ### Frage 3
 
@@ -103,3 +117,7 @@ Wie erklärt sich die Schulbehörde, dass trotz ihrer Bestrebungen derartige Ber
 ### Frage 15
 
 Welche Hamburger Schulen sind in ähnlicher Weise betroffen, wie die hier erwähnte Max-Brauer-Schule?
+
+#### Antwort zu Fragen 3 bis 15
+
+Siehe Vorbemerkung.
