@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105793
 titel: "Offene Haftbefehle und Sozialleistungen in Hamburg"
 datum_anfrage: "2026-11-02"
-datum_drucksache: "2026-11-02"
+datum_drucksache: "2026-11-10"
 urheber: ["Dirk Nockemann"]
 fraktionen: ["AfD"]
-vorgang: null
-seiten: 4
+vorgang: 89718
+seiten: 6
 fragen: 18
 einzelfragen: 41
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 6
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/5650", "21/8741", "21/8349"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105793"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105793/23_05853_offene_haftbefehle_und_sozialleistungen_in_hamburg"
-abgerufen: "2026-11-06"
+abgerufen: "2026-11-20"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5853: Offene Haftbefehle und Sozialleistungen in Hamburg
 
-> Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 02.11.26 und Antwort des Senats · Drucksache vom 02.11.2026  
+> Schriftliche Kleine Anfrage des Abgeordneten Dirk Nockemann (AfD) vom 02.11.26 und Antwort des Senats · Drucksache vom 10.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105793) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105793/23_05853_offene_haftbefehle_und_sozialleistungen_in_hamburg)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 06.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -44,11 +42,29 @@ Bitte die Angaben auf Grundlage vorhandener und rechtmäßig auswertbarer Datenb
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Einleitung für die Antworten des Senats
+
+Die in der Anfrage zugrunde gelegten offenen nationalen Haftbefehle werden von Polizei- und Justizbehörden geführt. Die zuständigen Sozialleistungsträger, das Jobcenter sowie die für die öffentliche Unterbringung zuständigen Stellen erhalten hierüber grundsätzlich keine Informationen. Ein regelmäßiger oder automatisierter Abgleich zwischen polizeilichen Fahndungsdaten beziehungsweise Daten zu offenen Haftbefehlen und den Datenbeständen der Sozialleistungsträger findet nicht statt.
+
+Die Leistungsgewährung erfolgt jeweils nach den gesetzlichen Voraussetzungen des betreffenden Leistungssystems. Die hierfür zuständigen Stellen verarbeiten Sozialdaten nur, soweit hierfür eine gesetzliche Grundlage besteht. Ein pauschaler Abgleich von Sozialdaten mit Fahndungsdaten oder eine Übermittlung vollständiger Bestände von Personen mit offenen Haftbefehlen an Sozialleistungsträger ist auf Grundlage der bestehenden Regelungen nicht vorgesehen. Erkenntnisse über offene Haftbefehle können den Leistungsstellen daher allenfalls im Einzelfall und anlassbezogen bekannt werden, etwa aufgrund eines rechtmäßigen Auskunftsersuchens, einer Mitteilung einer hierzu befugten Stelle oder im Zusammenhang mit einem konkreten Verwaltungs- oder Strafverfahren.
+
+Die in der Anfrage erbetenen Angaben setzen überwiegend eine personenbezogene Verknüpfung von Fahndungsdaten mit Leistungsdaten verschiedener Stellen voraus. Eine solche Verknüpfung für eine statistische Auswertung wird nicht geführt.
+
+Die für eine Beantwortung erforderlichen Daten liegen daher weder in einem einheitlichen Datenbestand noch in einer rechtmäßig automatisiert auswertbaren Form vor. Eine Auswertung würde – soweit überhaupt rechtlich zulässig – die Übermittlung oder Bereitstellung von 5.347 Einzelfalldaten zu den von Polizei- oder Justizbehörden gesuchten Personen und eine anschließende manuelle Prüfung von 4.769 Einzelfällen bei mehreren Leistungsträgern erfordern. Dies ist innerhalb der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
+
+Sofern nach Sozialdaten gefragt ist, hat die für Soziales zuständige Behörde dies nicht ermittelt, da die Beantwortung aus Gründen des Sozialdatenschutzes nach den § 35 Erstes Buch Sozialgesetzbuch (SGB I) und §§ 67 fortfolgende Zehntes Buch Sozialgesetzbuch (SGB X) nicht zulässig wäre.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
 
 Wie viele offene nationale Haftbefehle und wie viele unterschiedliche gesuchte Personen umfasst der so abgegrenzte Bestand am aktuellen Stichtag? Für wie viele dieser Personen liegt eine aktuelle Hamburger Meldeanschrift vor? Fahndungen im Zusammenhang mit § 456a Strafprozessordnung bitte gesondert ausweisen.
+
+#### Antwort zu Frage 1
+
+Mit Erhebungsstand 4. November 2026 sind im Fahndungsbestand des Informationssystems der Polizei von der Polizei Hamburg insgesamt 5.347 Haftbefehle ausgeschrieben. Diese betreffen insgesamt 4.769 Personen. Darüber hinaus ist eine Auswertung im Sinne der Fragestellung nicht möglich. Im Übrigen siehe Drs. 23/5650.
 
 ### Frage 2
 
@@ -76,7 +92,9 @@ Bei wie vielen leistungsbeziehenden Gesuchten ist ein tatsächlicher Aufenthalt 
 
 ### Frage 8
 
-Wie viele leistungsbeziehende Gesuchte sind nach vorhandenen Erkenntnissen in öffentlich betriebenen oder öffentlich finanzierten Unterkünften in Hamburg untergebracht? Bitte nach Unterkunftsart und zuständiger Stelle aufschlüsseln. Für wie viele weitere leistungsbeziehende Gesuchte werden Unterkunftskosten an Vermieter oder andere Dritte gezahlt? Welche Erkenntnisse über den tatsächlichen Aufenthalt und persönliche Kontakte liegen den jeweils zuständigen Stellen vor?
+Wie viele leistungsbeziehende Gesuchte sind nach vorhandenen Erkenntnissen in öffentlich betriebenen oder öffentlich finanzierten Unterkünften in Hamburg untergebracht? Bitte nach Unterkunftsart und zuständiger Stelle aufschlüsseln. Für wie viele weitere leistungsbeziehende Gesuchte werden Unterkunftskosten an Vermieter oder andere Dritte gezahlt? Welche Erkenntnisse über den tatsächlichen
+
+Aufenthalt und persönliche Kontakte liegen den jeweils zuständigen Stellen vor?
 
 ### Frage 9
 
@@ -86,19 +104,39 @@ Für wie viele der aktuell leistungsbeziehenden Gesuchten ist ein gleichzeitiger
 
 Wie viele Fälle sind seit Beginn des Jahres 2025 bekannt geworden, in denen eine mit offenem Haftbefehl gesuchte Person während der laufenden Fahndung persönlich beim Jobcenter, bei einer Hamburger Sozialleistungsbehörde oder bei einer für ihre öffentliche Unterbringung zuständigen Stelle angetroffen wurde? Bitte persönliche Vorsprachen, Hausbesuche und Kontakte in Unterkünften unterscheiden. In wie vielen dieser Fälle war der jeweiligen Stelle die Fahndung zum Zeitpunkt des Kontakts bekannt? In wie vielen Fällen wurde die Polizei informiert und der Haftbefehl anschließend vollstreckt? Bitte den Umfang der Erfassung erläutern.
 
+#### Antwort zu Fragen 2 bis 10
+
+Siehe Vorbemerkung.
+
 ### Frage 11
 
 Wie erfahren die in Frage 10 genannten Stellen von offenen Haftbefehlen gegen Leistungsberechtigte? Bestehen anlassbezogene Nachfragen, regelmäßige Abgleiche oder automatisierte Verfahren? Bitte für jede Verfahrensart zuständige Stellen, Umfang, Rechtsgrundlage und vorhandene schriftliche Regelungen nennen. Welche dieser Stellen verfügen über eigene Abfragemöglichkeiten, und welche sind auf ein Ersuchen oder eine Mitteilung anderer Behörden angewiesen?
+
+#### Antwort zu Frage 11
+
+Die zuständigen Leistungsstellen verfügen über keinen eigenen Zugriff auf polizeiliche Fahndungsbestände oder Daten zu offenen Haftbefehlen. Im Übrigen siehe Vorbemerkung.
 
 ### Frage 12
 
 Wie viele Auskunfts- oder Übermittlungsersuchen zur Ermittlung des Aufenthalts gesuchter Personen richteten Hamburger Polizei- oder Justizbehörden an Sozialleistungsträger oder das Jobcenter? Bitte Ersuchen nach § 68 Absatz 1 SGB X, richterlich angeordnete Übermittlungen nach § 73 SGB X und andere Rechtsgrundlagen getrennt ausweisen. Wie viele Ersuchen wurden beantwortet oder ganz beziehungsweise teilweise abgelehnt, aus welchen Gründen und mit welchen erfassten Ergebnissen für Aufenthaltsermittlung oder Festnahme?
 
+#### Antwort zu Frage 12
+
+Im Vorgangsbearbeitungs- und Vorgangsverwaltungssystem der Staatsanwaltschaft MESTA wird nicht erfasst, ob in einem Verfahren Anfragen oder Übermittlungsersuchen an Sozialleistungsträger oder das Jobcenter erfolgt sind und zwar unabhängig davon, ob sie der Ermittlung des Aufenthalts von gesuchten Personen oder anderen Zwecken dienen. Zur Beantwortung der Frage müssten daher mindestens sämtliche Verfahren ausgewertet werden, in welchen eine beschuldigte Person in dem abgefragten Zeitraum zur Fahndung ausgeschrieben (gewesen) ist. Hierbei handelt es sich bereits im Hinblick auf Ausschreibungen zur Festnahme jährlich um eine mindestens dreistellige Anzahl an Verfahren. Eine solche Auswertung ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
+
+Auch bei der Polizei werden Statistiken im Sinne der Fragestellung nicht geführt. Zur Beantwortung würde eine Durchsicht aller aufgrund gesetzlicher Aufbewahrungs- und Löschfristen maximal noch für die letzten fünf Jahre bei der Polizei vorliegenden Ermittlungsakten erfordern. Die Auswertung von mehreren Hunderttausend Akten ist in der für die Beantwortung einer Parlamentarischen Anfrage zur Verfügung stehenden Zeit nicht möglich.
+
 ### Frage 13
 
-Unter welchen rechtlichen und organisatorischen Voraussetzungen dürfen die zuständigen Leistungs- und Unterbringungsstellen
+Unter welchen rechtlichen und organisatorischen Voraussetzungen dürfen die zuständigen Leistungs- und Unterbringungsstellen Erkenntnisse über den tatsächlichen Aufenthalt eines Gesuchten an Polizei oder Justiz übermitteln? Welche Verfahren werden dafür tatsächlich genutzt? Bitte insbesondere zwischen Antworten auf Ersuchen und Mitteilungen aus eigener Initiative unterscheiden und vorhandene Fallzahlen sowie festgestellte rechtliche oder praktische Hindernisse nennen.
 
-Erkenntnisse über den tatsächlichen Aufenthalt eines Gesuchten an Polizei oder Justiz übermitteln? Welche Verfahren werden dafür tatsächlich genutzt? Bitte insbesondere zwischen Antworten auf Ersuchen und Mitteilungen aus eigener Initiative unterscheiden und vorhandene Fallzahlen sowie festgestellte rechtliche oder praktische Hindernisse nennen.
+#### Antwort zu Frage 13
+
+Die Polizei kann grundsätzlich im Rahmen strafrechtlicher Ermittlungen einzelfallbezogen nach Maßgabe der Strafprozessordnung die Herausgabe von personenbezogenen Daten im Sinne der Fragestellung verlangen. Für Maßnahmen der Gefahrenabwehr gelten das Gesetz über die Datenverarbeitung der Polizei und das Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung mit eigenen Befugnissen. Ob und wie Stellen im Sinne der Fragestellung gegenüber der Polizei auskunftspflichtig sind, hängt insoweit auch vom rechtlichen Rahmen des polizeilichen Ersuchens ab.
+
+Die Übermittlung von Erkenntnissen über den tatsächlichen Aufenthalt leistungsberechtigter Personen an Polizei oder Justiz setzt eine gesetzliche Übermittlungsbefugnis voraus. Maßgeblich sind insbesondere die sozialdatenschutzrechtlichen Regelungen der §§ 67 fortfolgende SGB X, insbesondere § 68 Absatz 1 SGB X sowie die jeweiligen spezialgesetzlichen Vorschriften der betroffenen Leistungssysteme.
+
+Ob Sozialdaten auf ein Ersuchen hin übermittelt werden dürfen, ist im jeweiligen Einzelfall zu prüfen. Gleiches gilt für eine Übermittlung aus eigener Initiative. Eine allgemeine Befugnis zur vorsorglichen oder anlasslosen Übermittlung von Aufenthaltsdaten an Strafverfolgungsbehörden besteht nicht.
 
 ### Frage 14
 
@@ -110,7 +148,9 @@ In wie vielen seit Beginn des Jahres 2025 bekannt gewordenen Fällen mit gleichz
 
 ### Frage 16
 
-Welche zusätzlichen Erkenntnisse bestehen über Personen mit Leistungsbezug in Hamburg, die ausschließlich von Polizeibehörden anderer Länder oder des Bundes mit offenem nationalem Haftbefehl gesucht werden und deshalb nicht zum Bestand aus Frage 1 gehören? Bitte vorhandene Personenzahlen und Leistungsarten gesondert nennen. Wie werden entsprechende Fahndungshinweise im Rahmen der Zusammenarbeit berücksichtigt?
+Welche zusätzlichen Erkenntnisse bestehen über Personen mit Leistungsbezug in Hamburg, die ausschließlich von Polizeibehörden anderer Länder oder des Bundes mit offenem nationalem Haftbefehl gesucht werden und deshalb nicht zum Bestand aus Frage 1 gehö
+
+ren? Bitte vorhandene Personenzahlen und Leistungsarten gesondert nennen. Wie werden entsprechende Fahndungshinweise im Rahmen der Zusammenarbeit berücksichtigt?
 
 ### Frage 17
 
@@ -119,3 +159,7 @@ Soweit Zahlen oder Verknüpfungen nicht ermittelt werden können, welche Stelle 
 ### Frage 18
 
 Welche Maßnahmen zur Verbesserung des rechtlich zulässigen Informationsaustauschs, zur Nutzung vorhandener Aufenthaltsinformationen und zur Prüfung fortbestehender Leistungsvoraussetzungen sind bereits umgesetzt, beschlossen oder in Vorbereitung? Bitte jeweils zuständige Stellen, Umsetzungsstand und vorgesehenen Zeitplan nennen. Welche Möglichkeiten einer regelmäßigen aggregierten Auswertung von gleichzeitigem Leistungsbezug und offener Fahndung hat der Senat geprüft und mit welchem Ergebnis?
+
+#### Antwort zu Fragen 14 bis 18
+
+Entwicklungen zur Verbesserung des behördenübergreifenden Informationsaustauschs werden auf Bundesebene verfolgt. Im Übrigen siehe Vorbemerkung.

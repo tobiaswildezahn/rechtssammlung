@@ -62,6 +62,7 @@ Konvertiert aus PDF mit [lldr](https://github.com/tobiaswildezahn/law-loader) (`
 | `hamburg/katastrophenschutz/KatSO_Hamburg.md` | Katastrophenschutzordnung Hamburg |
 | `hamburg/katastrophenschutz/KatSchG_HA.md` | HmbKatSG |
 | `hamburg/katastrophenschutz/RettDG_HA_2019.md` | HmbRettDG |
+| `hamburg/katastrophenschutz/SenBeschl_Vertretung_Leiter_Katastrophenabwehr_2019.md` | Senatsbeschluss im Verfügungswege |
 
 #### Beamtenrecht
 
@@ -228,6 +229,8 @@ graph LR
     FeuerwG -->|2x| KatSchG
     FeuerwG -->|2x| BG
     FeuerwG -->|2x| SOG
+    SenBeschl["SenBeschl"]
+    SenBeschl -->|2x| KatSO
     BSIG -->|2x| NATOVertrag
     KRITIS_Dachgesetz -->|2x| GG
     KRITIS_Dachgesetz -->|2x| NIS2UmsuCG
@@ -270,6 +273,7 @@ graph LR
     PersVG --> GG
     PersVG --> BesG
     FeuerwG --> BeamtStG
+    KatSO --> SenBeschl
     KatSchG --> SOG
     KatSchG --> BeamtStG
     KatSchG --> BG
@@ -285,6 +289,7 @@ graph LR
     Drs --> VerkSiG
     Drs --> WiSiG
     Drs --> SOG
+    Drs --> SenBeschl
     BBKG --> ZSKG
     KZV --> TKG
     ZSKG --> THWG

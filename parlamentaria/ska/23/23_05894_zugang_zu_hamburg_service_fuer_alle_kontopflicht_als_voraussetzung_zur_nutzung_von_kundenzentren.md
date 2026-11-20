@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105833
 titel: "Zugang zu Hamburg Service für alle. Kontopflicht als Voraussetzung zur Nutzung von Kundenzentren?"
 datum_anfrage: "2026-11-05"
-datum_drucksache: "2026-11-05"
+datum_drucksache: "2026-11-13"
 urheber: ["Olga Fritzsche", "Marco Hosemann"]
 fraktionen: ["Die Linke"]
-vorgang: null
-seiten: 2
+vorgang: 89747
+seiten: 3
 fragen: 12
 einzelfragen: 18
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 3
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: ["23/748"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105833"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105833/23_05894_zugang_zu_hamburg_service_fuer_alle_kontopflicht_als_voraussetzung_zur_nutzung_von_kundenzentren"
-abgerufen: "2026-11-10"
+abgerufen: "2026-11-20"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5894: Zugang zu Hamburg Service für alle. Kontopflicht als Voraussetzung zur Nutzung von Kundenzentren?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Olga Fritzsche und Marco Hosemann (Die Linke) vom 05.11.26 und Antwort des Senats · Drucksache vom 05.11.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Olga Fritzsche und Marco Hosemann (Die Linke) vom 05.11.26 und Antwort des Senats · Drucksache vom 13.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105833) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105833/23_05894_zugang_zu_hamburg_service_fuer_alle_kontopflicht_als_voraussetzung_zur_nutzung_von_kundenzentren)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 10.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -39,6 +37,16 @@ Denn für die Beantragung von Leistungen ist zunächst eine Wohnsitzanmeldung no
 Auf eine Anfrage vom 26. Juni 2025 (Drs. 23/748) der Linksfraktion antwortet der Senat, dass der ausschließlich bargeldlose Zahlungsverkehr nur in den mobilen, temporären Standorten eingeführt wurde und es weiterhin möglich sein soll in den Hamburg Service Standorten mit Bargeld zu zahlen.
 
 Vor diesem Hintergrund fragen wir den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Der Hamburg Service (HS) setzt auf den stetigen Ausbau des digitalen Zahlungsverkehrs. Hierdurch können die Dienstleistungen für die Kundinnen und Kunden schneller und sicherer angeboten und gleichzeitig organisatorische und wirtschaftliche Potenziale realisiert werden.
+
+Der HS bietet grundsätzlich die Möglichkeit der Barzahlung an, aber nicht flächendeckend in sämtlichen Standorten. Ohne Einschränkungen sind Bargeldzahlungen in den Standorten City sowie Süderelbe möglich (Stand: 5. November 2026). Aufgrund der fortlaufenden, modernen Gestaltung der Standorte hat sich auch die Zuordnung der
+
+Standorte, an denen weiterhin Barzahlungen möglich sind, verändert. Infolgedessen hat vorübergehend eine Sortierung der hierzu verfügbaren Auskünfte stattgefunden. Ein ausnahmsloser Ausschluss von Bargeld wird somit ausdrücklich nicht angestrebt, da der HS auch in Zukunft die Möglichkeit der Barzahlung anbieten wird. Informationen zu den Zahlungsmöglichkeiten im jeweiligen Standort sind in den Terminbestätigungen sowie auf Hamburg Service - hamburg.de zu finden.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 ## Fragen und Antworten
 
@@ -86,9 +94,17 @@ Wurden Wohlfahrtsverbände, Träger der Wohnungslosenhilfe, Senior*innenvertretu
 
 Falls ja, welche und mit welchen Ergebnissen?
 
+#### Antwort zu Fragen 1 bis 9
+
+Siehe Vorbemerkung.
+
 ### Frage 10
 
 Welche Möglichkeiten bestehen für soziale Träger, deren Auftrag die Unterstützung wohnungsloser, haftentlassener und sonstiger prekär lebender Menschen ist, ihre Klientel zu unterstützen? Gibt es beispielsweise aufladbare Bezahlkarten für soziale Träger, die sie Klient*innen mitgeben können?
+
+#### Antwort zu Frage 10
+
+Die Unterstützung sozialer Trägerinnen und Träger bezieht sich auf unterschiedliche Lebensbereiche, für die angemessene Angebote vorzuhalten sind. Die Unterstützungskonzepte verfolgen das wesentliche Ziel, die Selbstständigkeit der Klientel zu stärken und weiterzuentwickeln. Dies gilt insbesondere auch hinsichtlich zunehmender Anforderungen, die sich aus der Digitalisierung ergeben. Dazu kann auch der Umgang mit aufladbaren Bezahlkarten gehören.
 
 ### Frage 11
 
@@ -97,3 +113,7 @@ Beabsichtigt der Senat, dauerhaft eine ausreichende Anzahl von Kundenzentren mit
 ### Frage 12
 
 Wie bewertet der Senat den Umstand, dass durch den Ausschluss von Bargeldzahlungen bei gebührenpflichtigen Verwaltungsdienstleistungen faktisch die Nutzung eines Bankkontos beziehungsweise einer elektronischen Zahlungsmöglichkeit vorausgesetzt wird, obwohl in Deutschland keine allgemeine gesetzliche Pflicht zum Besitz eines Girokontos besteht?
+
+#### Antwort zu Fragen 11 und 12
+
+Siehe Vorbemerkung.

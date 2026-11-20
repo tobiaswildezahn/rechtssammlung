@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105799
 titel: "Sozialberatung in Meiendorf und Farmsen-Berne vor dem Aus: Welche Finanzierungsmöglichkeiten sieht der Senat?"
 datum_anfrage: "2026-11-03"
-datum_drucksache: "2026-11-03"
+datum_drucksache: "2026-11-10"
 urheber: ["Markus Kranig", "Sandro Kappe"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 3
+vorgang: 89725
+seiten: 6
 fragen: 10
 einzelfragen: 16
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
-zitierte_drucksachen: []
+antwortbloecke: 9
+beantwortet: true
+status: "beantwortet"
+zitierte_drucksachen: ["23/4611", "23/5726", "23/5303"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105799"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105799/23_05862_sozialberatung_in_meiendorf_und_farmsen_berne_vor_dem_aus_welche_finanzierungsmoeglichkeiten_sieht_der_senat"
-abgerufen: "2026-11-06"
+abgerufen: "2026-11-20"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5862: Sozialberatung in Meiendorf und Farmsen-Berne vor dem Aus: Welche Finanzierungsmöglichkeiten sieht der Senat?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Markus Kranig und Sandro Kappe (CDU) vom 03.11.26 und Antwort des Senats · Drucksache vom 03.11.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Markus Kranig und Sandro Kappe (CDU) vom 03.11.26 und Antwort des Senats · Drucksache vom 10.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105799) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105799/23_05862_sozialberatung_in_meiendorf_und_farmsen_berne_vor_dem_aus_welche_finanzierungsmoeglichkeiten_sieht_der_senat)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 06.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -50,27 +48,117 @@ Gleichzeitig werden die Hamburger Integrationszentren zum Jahresbeginn 2027 neu 
 
 Vor diesem Hintergrund fragen wir den Senat:
 
+## Einleitung für die Antworten des Senats
+
+Die Freie und Hansestadt Hamburg (FHH) fördert eine Vielzahl von Angeboten und Maßnahmen zur Unterstützung der Integration und gesellschaftlichen Teilhabe. Diese umfassen sowohl gesamtstädtisch ausgerichtete (Sozial-)Beratungs- und Unterstützungsangebote als auch sozialräumlich verankerte Strukturen in den Bezirken und Quartieren. Die Angebote ergänzen die bestehenden Regelsysteme und tragen dazu bei, den Zugang zu Unterstützungsleistungen zu erleichtern und die chancengerechte Teilhabe von in der FHH lebenden Menschen zu stärken.
+
+Vor dem Hintergrund der in den vergangenen Jahren zeitweise erheblich gestiegenen Zuwanderungs- und Fluchtbewegungen wurden die bestehenden Beratungs- und Unterstützungsstrukturen im Bereich Integration und Sozialberatung zeitweise bedarfsgerecht erweitert und die soziale Infrastruktur gestärkt. Dies ermöglichte auch einen Ausbau niedrigschwelliger Angebote vor Ort, unter anderem im Rahmen der Sozialräumlichen Integrationsnetzwerke der Jugend- und Familienhilfe (SIN).
+
+Die Planung und Ausgestaltung der Beratungs- und Unterstützungsangebote erfolgen im Rahmen der jeweiligen fachlichen Zuständigkeiten unter Berücksichtigung der bestehenden Bedarfslagen sowie der verfügbaren Haushaltsmittel. Dabei kommt der bedarfsgerechten Weiterentwicklung der Angebote sowie ihrer Verzahnung mit den bestehenden sozialräumlichen Unterstützungsstrukturen eine wesentliche Bedeutung zu. Ziel ist es, Synergien zwischen den unterschiedlichen Angeboten stärker zu nutzen, vorhandene Ressourcen wirksam einzusetzen und den Zugang zu den Regelsystemen zu fördern.
+
+In diesem Zusammenhang werden auch die Hamburger Integrationszentren zum
+1. Januar 2027 neu ausgerichtet. Hierzu werden die bisherigen regionalen Beratungsstrukturen gebündelt und überregional ausgerichtet. Mit dem künftigen Schwerpunkt auf der hamburgweiten mobilen und aufsuchenden Beratung sollen die Angebote flexibler und bedarfsgerechter gestaltet sowie bislang schwer erreichbare Zielgruppen besser erreicht werden. Die Beratung soll dabei vorrangig dort erfolgen, wo sich die Menschen aufhalten und entsprechende Unterstützungsbedarfe bestehen. Zugleich soll die frühzeitige Anbindung an die bestehenden Regelsysteme gestärkt und damit die Selbstständigkeit sowie die chancengerechte Teilhabe gefördert werden. Der Senat hat hierzu mit Drs. 23/4611 und 23/5726 bereits ausführlich berichtet.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
 
 Wie haben sich die dem Bezirksamt Wandsbek zur Verfügung gestellten Mittel aus dem Programm Sozialräumliche Integrationsnetzwerke (SIN) in den Jahren 2024, 2025 und 2026 entwickelt und welche Mittel sind für das Jahr 2027 vorgesehen? Bitte die regulären SIN-Mittel und die zusätzlichen Mittel für flüchtlingsbedingte Mehrbedarfe jeweils getrennt nach Jahren ausweisen.
 
+#### Antwort zu Frage 1
+
+Die FHH hat in den vergangenen Jahren zur Deckung flüchtlingsbedingter Mehrbedarfe aufgrund der zeitweise erheblich gestiegenen Zuwanderungszahlen zusätzliche Haushaltsmittel bereitgestellt. Diese dienten insbesondere der zeitlich befristeten Ausweitung bestehender Beratungs- und Unterstützungsangebote. Die zusätzlichen Mittel wurden zur Bewältigung der besonderen Bedarfslagen bereitgestellt und waren nicht auf eine dauerhafte Finanzierung ausgerichtet. Vor dem Hintergrund der rückläufigen Zuzugszahlen und der damit einhergehenden veränderten Bedarfslagen wird die Bereitstellung dieser zusätzlichen Mittel nicht fortgeführt.
+
+Im Rahmen des Förderprogramms Sozialräumliche Integrationsnetzwerke (SIN) stellt die für Familie zuständige Behörde dem Bezirksamt Wandsbek jährlich Mittel über Fremdbewirtschaftungen zur Verfügung.
+
+Tabelle 1
+
+Maximalbeträge je Haushaltsjahr  
+2024 2025 2026  
+(jeweils in Tsd. Euro)  
+Reguläre SIN-Mittel 1.197,0 1.232,9 1.269,9
+
+Maximalbeträge je Haushaltsjahr  
+2024 2025 2026  
+(jeweils in Tsd. Euro)  
+Fluchtbedingte Mehrbedarfe 578,6 693,2 694,2
+
+Für das Jahr 2027 werden dem Bezirksamt Wandsbek vorbehaltlich des Haushaltsbeschlusses über den Doppelhaushalt für die Jahre 2027/2028 SIN-Mittel in Höhe von
+1.365.000 Euro (inklusive zweckgebundener Mittel zur Umsetzung von zwei Kinderfreundlichen Räumen (KfR)) zur Verfügung gestellt.
+
+Im Übrigen siehe Drs. 23/5303.
+
 ### Frage 2
 
 Nach welchen konkreten Kriterien wurden die SIN-Mittel für den Bezirk Wandsbek in den Jahren 2026 und 2027 bemessen und welche Veränderungen haben sich bei den zugrunde liegenden Bedarfszahlen gegenüber den Vorjahren ergeben?
+
+#### Antwort zu Frage 2
+
+Gemäß der gültigen Förderrichtlinie bemessen sich die zur Verfügung stehenden Haushaltsmittel für SIN unter anderem an den vorhandenen Platzzahlen in den Unterkünften. Zudem werden durch die für Familie zuständige Behörde ebenfalls die Zuzugszahlen von Geflüchteten in der FHH betrachtet. Flüchtlingsbedingte Mehrbedarfe wurden nach Beginn des Angriffskrieges auf die Ukraine und dem einhergehend hohen Zuzug an Schutzsuchenden und Geflüchteten in die FHH kurzfristig für das Förderprogramm ergänzt.
+
+Die Zugänge von Asyl- und Schutzsuchenden sind in die FHH konstant rückläufig. Zudem ist bei zunehmenden Verweildauern im Unterbringungssystem davon auszugehen, dass sich Integrationsprozesse und die Anbindung an sozialräumliche Regelstrukturen über längere Zeiträume entwickeln und verändern sowie die Anbindung an sozialräumliche Regelstrukturen in Teilen abgeschlossen werden konnten. Vor diesem Hintergrund wurde die SIN-Fördersumme sukzessive auf den Haushaltsansatz des Jahres 2026 für reguläre SIN zurückgeführt.
+
+Im Übrigen siehe Vorbemerkung.
 
 ### Frage 3
 
 In welcher Höhe wurde das Projekt „KurzIN“ des Internationalen Bundes in den Jahren 2024, 2025 und 2026 aus SIN-Mitteln, SAJF-Mitteln sowie gegebenenfalls weiteren Fachmitteln gefördert? Bitte nach Jahren und Finanzierungsquellen aufschlüsseln.
 
+#### Antwort zu Frage 3
+
+Die Finanzierung des Projekts „KurzIN mobil“ in den Jahren 2024 bis 2026, differenziert nach den jeweiligen Finanzierungsquellen, ist der nachfolgenden Übersicht zu entnehmen:
+
+Tabelle 2
+
+Förderhöhe KurzIN Andere Förderung  
+2024 355.362,61 €  
+2025 389.599,90 €  
+2026 416.902,87 € 10.241,90 € Quartiersfonds  
+64.516,30 € Quartiersfonds  
+Voraussichtlich  
+2027 (Beschlossen am  
+229.154,13 €  
+03.11.2026)
+
+Über Sozialräumliche Angebote der Jugend- und Familienhilfe (SAJF) -Mittel wurde das Angebot nicht gefördert.
+
 ### Frage 4
 
 Inwieweit berücksichtigen die zuständigen Fachbehörden bei der Bemessung und Förderung sozialräumlicher Beratungsangebote neben integrationsbezogenen Bedarfen auch den allgemeinen sozialen Unterstützungsbedarf der ansässigen Bevölkerung, insbesondere angesichts zunehmender sozialer und wirtschaftlicher Belastungen?
 
+#### Antwort zu Frage 4
+
+Die Bemessung und Förderung sozialräumlicher Beratungs- und Unterstützungsangebote erfolgt im Rahmen der jeweiligen fachlichen Zuständigkeiten und Förderzwecke unter Berücksichtigung der bestehenden Bedarfslagen sowie der verfügbaren Haushaltsmittel. Dabei können sowohl integrationsbezogene Unterstützungsbedarfe als auch allgemeine soziale Bedarfslagen von Bedeutung sein, sofern diese im Rahmen der jeweiligen Fördervoraussetzungen berücksichtig werden können.
+
+Im Übrigen siehe Vorbemerkung.
+
 ### Frage 5
 
 Welche vergleichbaren niedrigschwelligen Sozialberatungsangebote stehen den bisherigen Nutzerinnen und Nutzern der Sozialberatung des Internationalen Bundes in Meiendorf und Farmsen-Berne zur Verfügung? Bitte die jeweiligen Standorte, Träger und den Umfang der Beratungsangebote angeben.
+
+#### Antwort zu Frage 5
+
+Grundsätzlich bestehen für Leistungsberechtigte nach dem SGB II und SGB XII gesetzliche Beratungs- und Unterstützungspflichten nach § 14 SGB II sowie § 11 SGB XII durch das jeweils örtlich zuständige Jobcenter team.arbeit.hamburg (Jobcenter) und das örtlich zuständige Grundsicherungsamt im Bezirksamt Wandsbek im Rahmen eines sozialhilferechtlichen Antragsverfahrens. Die Beratung orientiert sich an der jeweiligen persönlichen Lebens- und Bedarfssituation. Sie umfasst insbesondere die Ermittlung bestehender Unterstützungsbedarfe, die Erläuterung möglicher sozialrechtlicher Ansprüche sowie Hinweise auf geeignete weiterführende Hilfe-, Beratungs- und Unterstützungsangebote. Bei Bedarf erfolgt eine Vermittlung an zuständige Stellen und spezialisierte Fachdienste.
+
+Darüber hinaus werden im Bezirk Wandsbek weitere Projekte und Angebote gefördert, die der nachfolgenden Übersicht zu entnehmen sind:
+
+• Familiennetzwerk Oldenfelde: Beratungsangebote für Familien sowie junge Menschen bis zur Vollendung des 27. Lebensjahres. Das Angebot umfasst unter anderem Ämterbegleitung sowie Schuldner- und Insolvenzberatung.
+
+• Mobile Sozialberatung Rahlstedt: Beratung für Familien, Jugendliche und junge Erwachsene bis zur Vollendung des 27. Lebensjahres in Erziehungs- und sozialen Angelegenheiten.
+
+• Jugend Aktiv Plus Rahlstedt: Beratung und Begleitung junger Menschen ab 16 Jahren bis zur Vollendung des 27. Lebensjahres in der Jugendhilferegion 3 (Farmsen- Berne, Walddörfer, Meiendorf/Oldenfelde und Rahlstedt).
+
+• Gesundheits- und Sozialberatung Hohenhorst im Haus am See: Mehrsprachiges Beratungsangebot für Familien zu gesundheitlichen und sozialen Fragestellungen.
+
+• AWO-Sozialberatung im KiFaZ Farmsen-Berne/Walddörfer: Sozialberatung für Familien aus Farmsen, Berne und den Walddörfern.
+
+• Treff Berne: Beratung zu Alltags- und sozialen Angelegenheiten für jungen Menschen und Familien aus Berne.
+
+• Unternehmer ohne Grenzen: Stadtteileltern Farmsen-Berne: Mehrsprachiges Beratungs- und Unterstützungsangebot für Familien zu gesundheitlichen und sozialen Fragestellungen.
+
+• Streetlife e.V.: Integrationsnetzwerker Farmsen: niedrigschwelliges Beratungs- und Unterstützungsangebot für Jugendliche und Jungerwachsene mit und ohne Flucht- oder Migrationshintergrund.
 
 ### Frage 6
 
@@ -84,13 +172,37 @@ Falls ja, aus welchen Mitteln könnte die Finanzierung erfolgen?
 
 Falls nein, welche Gründe stehen einer entsprechenden Finanzierung entgegen?
 
+#### Antwort zu Fragen 6 und 7
+
+Aufgrund des Wegfallens der sogenannten Mehrbedarfsmittel in Höhe von 601.514 Euro stehen dem Bezirksamt Wandsbek noch 1.269.926 Euro SIN-Mittel zur Verfügung. Der Träger Internationaler Bund e.V. wird voraussichtlich im Jahr 2027 SIN-Mittel in Höhe von 229.154,13 Euro erhalten und damit die einzelfallbezogene Arbeit mit geflüchteten Familien aus Wandsbeker Wohnunterkünften fortführen. Darüber hinaus stehen aus SIN und SAJF keine zusätzlichen Mittel im Sinne der Fragestellung zur Verfügung.
+
+Da der genannte Träger bereits im Jahr 2026 eine Förderung über den Quartiersfond erhalten hat, wurde auch für das Jahr 2027 seitens des Trägers ein Antrag auf Förderung für das kommende Jahr gestellt. Am 3. November 2026 erhielt der Träger die Zusage über die Bewilligung der 64.416,30 Euro über den Quartiersfond. Eine darüber hinausgehende Förderung ist nicht vorgesehen.
+
 ### Frage 8
 
 Inwieweit können die im Zuge der Neuorganisation der Hamburger Integrationszentren ab 2027 vorgesehenen Beratungsangebote die bisher durch das Projekt „KurzIN“ erbrachten Leistungen in Meiendorf und Farmsen-Berne ergänzen oder übernehmen? Welche konkreten Beratungsangebote und Standorte sind hierfür vorgesehen?
 
+#### Antwort zu Frage 8
+
+Die künftigen Beratungsangebote der Hamburger Integrationszentren können grundsätzlich auch in Meiendorf und Farmsen-Berne einen ergänzenden Beitrag zu den bestehenden Unterstützungsstrukturen leisten. Dabei ist zu berücksichtigen, dass sich die Beratungsangebote der Hamburger Integrationszentren an in der FHH lebende Menschen mit Migrationsgeschichte richten, die länger als drei Jahre in Deutschland leben.
+
+Die konkrete Ausgestaltung der künftigen stationären Standorte der Hamburger Integrationszentren sowie die stadtweite Einsatzplanung der mobilen und aufsuchenden Beratungsangebote werden im Rahmen des laufenden Zuwendungsverfahrens erörtert. Dabei sollen insbesondere die jeweiligen Unterstützungsbedarfe sowie die bereits bestehenden sozialräumlichen Beratungs- und Unterstützungsstrukturen berücksichtigt werden, um bestehende Angebote sinnvoll zu ergänzen und Überschneidungen zu vermeiden.
+
+Im Übrigen siehe Vorbemerkung, Antwort zu 6 bis 7 sowie Drs. 23/4611 und 23/5726.
+
 ### Frage 9
 
 Welche Möglichkeiten sieht der Senat, niedrigschwellige Sozialberatungsangebote wie das Projekt „KurzIN“, die sowohl integrationsbezogene Leistungen als auch allgemeine Sozialberatung für die ansässige Bevölkerung erbringen, langfristig aus geeigneten Fachmitteln zu finanzieren und damit unabhängig von jährlich neu zu beantragenden Mitteln des bezirklichen Quartiersfonds abzusichern?
+
+#### Antwort zu Frage 9
+
+Verlässliche Rahmenbedingungen für die im Integrationsbereich tätigen Trägerinnen und Träger sind für die Integration zuständige Behörde ein wichtiges Anliegen. Bei Angeboten, die sowohl integrationsbezogene Leistungen als auch allgemeine Sozialberatung umfassen, sind die jeweiligen fachlichen Zuständigkeiten, Fördervoraussetzungen und die Vorgaben der Landeshaushaltsordnung maßgeblich. Möglichkeiten
+
+einer längerfristigen Finanzierung entsprechender Angebote werden unter Berücksichtigung der fachlichen Anforderungen sowie der jeweils geltenden gesetzlichen Rahmenbedingungen geprüft.
+
+Die Erschließung von Finanzierungsquellen liegt dabei grundsätzlich in der Verantwortung der jeweiligen Trägerinnen und Träger.
+
+Im Übrigen siehe Drs. 23/5303.
 
 ### Frage 10
 
@@ -99,3 +211,9 @@ Haben die zuständigen Fachbehörden bereits Gespräche mit dem Bezirksamt Wands
 Falls ja, mit welchen Ergebnissen?
 
 Falls nein, sind entsprechende Gespräche vorgesehen?
+
+#### Antwort zu Frage 10
+
+Die Planung und Förderung sozialräumlicher Beratungs- und Unterstützungsangebote erfolgt fortlaufend auf bezirklicher wie auch auf gesamtstädtischer Ebene im Rahmen der jeweiligen fachlichen Zuständigkeiten unter Berücksichtigung der bestehenden Bedarfslagen, der geltenden Fördervoraussetzungen sowie der verfügbaren Haushaltsmittel. Die Möglichkeiten einer Fortführung oder anderweitigen Finanzierung einzelner Angebote sind unter Berücksichtigung ihrer fachlichen Ausrichtung, der bestehenden bezirklichen und hamburgweiten Beratungs- und Unterstützungsstrukturen sowie der jeweiligen Fördervoraussetzungen und verfügbaren Haushaltsmittel zu betrachten.
+
+Im Übrigen siehe Vorbemerkung, Antwort zu 6 bis 7 sowie Drs. 23/5303, 23/4611 und 23/5726.

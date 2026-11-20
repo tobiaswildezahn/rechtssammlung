@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105835
 titel: "Mobile Fahrgastunterstände"
 datum_anfrage: "2026-11-05"
-datum_drucksache: "2026-11-05"
+datum_drucksache: "2026-11-13"
 urheber: ["Dennis Thering", "Stefan Bereuter"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 1
+vorgang: 89754
+seiten: 2
 fragen: 5
 einzelfragen: 8
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 4
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105835"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105835/23_05896_mobile_fahrgastunterstaende"
-abgerufen: "2026-11-10"
+abgerufen: "2026-11-20"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5896: Mobile Fahrgastunterstände
 
-> Schriftliche Kleine Anfrage der Abgeordneten Dennis Thering und Stefan Bereuter (CDU) vom 05.11.26 und Antwort des Senats · Drucksache vom 05.11.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Dennis Thering und Stefan Bereuter (CDU) vom 05.11.26 und Antwort des Senats · Drucksache vom 13.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105835) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105835/23_05896_mobile_fahrgastunterstaende)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 10.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -40,15 +38,29 @@ Der Bedarf ist jedoch größer, wie sich an derzeitigen Defiziten beispielhaft a
 
 Vor diesem Hintergrund fragen wir den Senat:
 
+## Einleitung für die Antworten des Senats
+
+Der Senat beantwortet die Fragen teilweise auf der Grundlage von Auskünften der Hamburger Hochbahn AG (HOCHBAHN) und der Verkehrsbetriebe Hamburg-Holstein GmbH (VHH) wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
 
 Wie groß ist der durchschnittliche und der maximale Bedarf an mobilen Fahrgastunterständen in Hamburg? Können damit alle Anforderungen und Wünsche der Bezirksversammlungen abgedeckt werden?
 
+#### Antwort zu Frage 1
+
+Der Bedarf an mobilen Fahrgastunterständen (mFGU) kann nicht anhand von durchschnittlichen und maximalen Werten festgemacht werden. Die Summe an mFGU spiegelt einen Wert wider, der mit den dringendsten Anforderungen aus Baustellen- und Umleitungsplanungen in ganz Hamburg korrespondiert. Aus Kapazitätsgründen können nicht alle (Wunsch-)Standorte bedacht werden. Entsprechend muss eine Auswahl an Standorten getroffen werden.
+
+Eine Rolle bei der Definition der Anzahl an vorgehaltenen mFGU spielt auch die dafür notwendige Lagerkapazität sowie die personellen Kapazitäten zum Transport der mFGU. Notwendige Lagerkapazität können bei den Verkehrsbetrieben nur sehr begrenzt vorgehalten werden. Aus diesem Grunde ist es Ziel die mFGU-Standorte so erfolgreich zu koordinieren, dass sich die mFGU ständig in Bewegung, beziehungsweise Rotation befinden und „auf Strecke“ gehalten werden.
+
 ### Frage 2
 
 Wie viele mobile Fahrgastunterstände besitzen die HHA und die VHH (Antworten bitte getrennt)?
+
+#### Antwort zu Frage 2
+
+Die HOCHBAHN verwaltet 25 und die vhh sechs FGU.
 
 ### Frage 3
 
@@ -62,6 +74,14 @@ Sind alle vorhandenen und einsetzbaren Fahrgastunterstände in Hamburg eingesetz
 
 Wenn nein: Warum nicht?
 
+#### Antwort zu Fragen 3 und 4
+
+Ja.
+
 ### Frage 5
 
 Bis wann sollen die fehlenden mobilen Fahrgastunterstände angeschafft werden?
+
+#### Antwort zu Frage 5
+
+Siehe Antwort zu 1.

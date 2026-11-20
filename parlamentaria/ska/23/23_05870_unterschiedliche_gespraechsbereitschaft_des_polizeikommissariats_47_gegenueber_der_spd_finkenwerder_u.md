@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105807
 titel: "Unterschiedliche Gesprächsbereitschaft des Polizeikommissariats 47 gegenüber der SPD Finkenwerder und der CDU"
 datum_anfrage: "2026-11-04"
-datum_drucksache: "2026-11-04"
+datum_drucksache: "2026-11-10"
 urheber: ["Stefan Bereuter", "Dennis Gladiator"]
 fraktionen: ["CDU"]
-vorgang: null
-seiten: 2
+vorgang: 89737
+seiten: 3
 fragen: 10
 einzelfragen: 13
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 1
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105807"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105807/23_05870_unterschiedliche_gespraechsbereitschaft_des_polizeikommissariats_47_gegenueber_der_spd_finkenwerder_und_der_cdu"
-abgerufen: "2026-11-06"
+abgerufen: "2026-11-20"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5870: Unterschiedliche Gesprächsbereitschaft des Polizeikommissariats 47 gegenüber der SPD Finkenwerder und der CDU
 
-> Schriftliche Kleine Anfrage der Abgeordneten Stefan Bereuter und Dennis Gladiator (CDU) vom 04.11.26 und Antwort des Senats · Drucksache vom 04.11.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Stefan Bereuter und Dennis Gladiator (CDU) vom 04.11.26 und Antwort des Senats · Drucksache vom 10.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105807) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105807/23_05870_unterschiedliche_gespraechsbereitschaft_des_polizeikommissariats_47_gegenueber_der_spd_finkenwerder_und_der_cdu)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 06.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -45,6 +43,22 @@ Der unmittelbare Austausch zwischen Polizei, Politik und den Menschen vor Ort ka
 Gleichzeitig bedarf der Umgang der Polizei mit politischen Parteien und Vereinigungen klarer und nachvollziehbarer Maßstäbe. Insbesondere muss gewährleistet sein, dass Gesprächs- und Austauschmöglichkeiten unabhängig von der jeweiligen politischen Zugehörigkeit nach einheitlichen sachlichen Kriterien behandelt werden.
 
 Vor diesem Hintergrund fragen wir den Senat:
+
+## Einleitung für die Antworten des Senats
+
+Der persönliche Austausch der Polizei Hamburg mit politischen und gesellschaftlichen Akteuren auf Ebene der Polizeikommissariate dient der Förderung der Bürgernähe sowie der Vernetzung. Im Rahmen von bestehenden Ausschüssen und sonstigen institutionalisierten Gesprächsformaten erfolgt ein unmittelbarer Austausch dabei auf Stadtteil-, Bezirks- und Landesebene, sowie anlassbezogen auf Arbeitsebene zwischen den Polizeidienststellen und politischen Parteien, Fraktionen sowie politischen Vereinigungen. Hierzu zählen Sitzungen der Bezirksversammlungen und ihrer Ausschüsse sowie Sicherheitskonferenzen.
+
+Andere Besuchs- sowie Austauschtermine werden insbesondere zur Gewährleistung der Kapazität der Einsatzfähigkeit der Kräfte auf ein Minimum beschränkt. Daher werden grundsätzlich nur Bundestags- und Bürgerschaftsabgeordneten aus der Freien und Hansestadt Hamburg Besuche ermöglicht.
+
+Insofern wurde die in Rede stehende Anfrage eines Mitglieds der CDU zu einem persönlichen Austausch mit dem Stadtteilpolizisten des Polizeikommissariats 47 in Finkenwerder mit einem entsprechenden Hinweis abgewiesen. Ein persönliches Treffen zwischen Vertretern der SPD Finkenwerder und der Polizei hat nicht stattgefunden.
+
+Eine einheitliche Verfahrensweise wird durch die Polizeidienstvorschrift für den täglichen Dienst der Polizei (PDV 350 (HH) VS-NfD) gewährleistet, die nur für den internen Dienstgebrauch bestimmt ist.
+
+Statistiken zu Gesprächen oder sonstigen Austauschformaten werden nicht geführt.
+
+Im Übrigen korrespondiert mit dem parlamentarischen Fragerecht ein Anspruch auf Auskünfte, nicht aber auf meinungsbildende Stellungnahmen (vergleiche ThürVerfGH, Urteil vom 19.12.2008 – 35/07 –, juris Rn. 177), von denen der Senat deshalb auch im vorliegenden Fall absieht.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
 
 ## Fragen und Antworten
 
@@ -93,3 +107,7 @@ Welche Stelle ist innerhalb der Polizei Hamburg dafür verantwortlich, eine einh
 ### Frage 10
 
 Nach welchen Kriterien wird entschieden, ob ein Anliegen einer politischen Partei oder Vereinigung unmittelbar durch die Polizei behandelt oder an ein politisches beziehungsweise parlamentarisches Gremium verwiesen wird?
+
+#### Antwort zu Fragen 1 bis 10
+
+Siehe Vorbemerkung.

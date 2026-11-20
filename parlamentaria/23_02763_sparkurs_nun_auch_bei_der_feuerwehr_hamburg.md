@@ -67,4 +67,4 @@ Tabelle 2
 
 Gemäß § 35 Absatz 5 [HmbBG](../hamburg/beamtenrecht/BG_HA_2009.md) ist die Voraussetzung für die Bewilligung, dass zwingende dienstliche Interessen nicht entgegenstehen und die Beamtin beziehungsweise der Beamte – im Falle der Höchstdauer – im Laufe seiner Dienstzeit aus familiären Gründen in Teilzeit tätig oder beurlaubt war und aus einem dieser Gründe (oder aus beiden) ihre/seine Höchstversorgung im Ruhegehalt nicht erreichen konnte. Im erfragten Zeitraum sind keine Anträge nach § 35 Absatz 5 [HmbBG](../hamburg/beamtenrecht/BG_HA_2009.md) gestellt worden.
 
-Nach regulärer Überprüfung aller Voraussetzungen erfolgt eine Beteiligung der Amtsleitung und des Personalrates der Feuerwehr. Abschließend wird über den Staatsrat der Behörde für Inneres und Sport ein Senatsbeschluss im Verfügungswege erwirkt.
+Nach regulärer Überprüfung aller Voraussetzungen erfolgt eine Beteiligung der Amtsleitung und des Personalrates der Feuerwehr. Abschließend wird über den Staatsrat der Behörde für Inneres und Sport ein [Senatsbeschluss im Verfügungswege](../hamburg/katastrophenschutz/SenBeschl_Vertretung_Leiter_Katastrophenabwehr_2019.md) erwirkt.

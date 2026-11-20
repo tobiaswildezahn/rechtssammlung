@@ -67,7 +67,7 @@ Die Leiter der Katastrophenabwehr mit ihren Stäben lenken die Katastrophenabweh
 #### Nr. 5
 
 - (1) Die einheitliche Lenkung der Abwehrmaßnahmen mehrerer Behörden (§ 1 [HmbKatSG](KatSchG_HA.md)) ist Aufgabe des für die Behörde für Inneres zuständigen Staatsrats; für ihn sind zwei Staatsräte zu Stellvertretern zu bestellen. Der Präses der Behörde für Inneres oder der Präsident des Senats können jederzeit die Lenkung der Abwehrmaßnahmen übernehmen.
-- (2) Der Präsident des Senats, der Präses der Behörde für Inneres, der für die Behörde für Inneres zuständigen Staatsrat und seine Stellvertreter gemäß Absatz 1 werden nach § 22 Absatz 1 Buchstabe b der Geschäftsordnung des Senats ermächtigt, im Katastrophenfall allen hamburgischen Behörden durch Senatsbeschluss im Verfügungswege zur Abwehr unmittelbarer Gefahren Weisungen zu erteilen, wenn und solange Entscheidungen der Vollversammlung des Senats nicht oder nicht rechtzeitig herbeigeführt werden können. Die Urschrift dieser Beschlüsse verbleibt bei der Behörde für Inneres.
+- (2) Der Präsident des Senats, der Präses der Behörde für Inneres, der für die Behörde für Inneres zuständigen Staatsrat und seine Stellvertreter gemäß Absatz 1 werden nach § 22 Absatz 1 Buchstabe b der Geschäftsordnung des Senats ermächtigt, im Katastrophenfall allen hamburgischen Behörden durch [Senatsbeschluss im Verfügungswege](SenBeschl_Vertretung_Leiter_Katastrophenabwehr_2019.md) zur Abwehr unmittelbarer Gefahren Weisungen zu erteilen, wenn und solange Entscheidungen der Vollversammlung des Senats nicht oder nicht rechtzeitig herbeigeführt werden können. Die Urschrift dieser Beschlüsse verbleibt bei der Behörde für Inneres.
 
 #### Nr. 6
 

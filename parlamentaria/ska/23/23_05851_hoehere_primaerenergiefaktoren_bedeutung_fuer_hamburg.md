@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105791
 titel: "Höhere Primärenergiefaktoren – Bedeutung für Hamburg?"
 datum_anfrage: "2026-11-02"
-datum_drucksache: "2026-11-02"
+datum_drucksache: "2026-11-10"
 urheber: ["Stephan Jersch"]
 fraktionen: ["Die Linke"]
-vorgang: null
-seiten: 4
+vorgang: 89728
+seiten: 6
 fragen: 19
 einzelfragen: 21
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 17
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105791"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105791/23_05851_hoehere_primaerenergiefaktoren_bedeutung_fuer_hamburg"
-abgerufen: "2026-11-06"
+abgerufen: "2026-11-20"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/5851: Höhere Primärenergiefaktoren – Bedeutung für Hamburg?
 
-> Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (Die Linke) vom 02.11.26 und Antwort des Senats · Drucksache vom 02.11.2026  
+> Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (Die Linke) vom 02.11.26 und Antwort des Senats · Drucksache vom 10.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105791) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105791/23_05851_hoehere_primaerenergiefaktoren_bedeutung_fuer_hamburg)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 06.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -51,15 +49,29 @@ Zum Vergleich der Werte zu „Planungsdaten“: Auf der Webseite „Fernwärme S
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Einleitung für die Antworten des Senats
+
+Die nach dem Gebäudemodernisierungsgesetz (GModG) ab dem 1. Januar 2027 anzuwendenden Primärenergiefaktoren werden bei vielen Wärmenetzen, auch beim Stadtnetz der Hamburger Energiewerke GmbH (HEnW), zu höheren Zahlenwerten führen. Nur in Ausnahmefällen werden die Werte geringer oder ähnlich ausfallen. Dafür gibt es unterschiedliche Gründe, unter anderem die Art der Definition des Primärenergiefaktors vom nicht erneuerbaren Anteil auf die gesamte Primärenergie und die Änderung der Allokationsmethode zur Aufteilung der CO2-Emissionen auf die Produkte bei gekoppelter Strom- und Wärmeproduktion. Primärenergiefaktoren sind stets im Gesamtkontext der Gebäudedämmung, der technischen Gebäudeausrüstung, der Energieträgerbewertung und des Referenzgebäudes zu betrachten. Mit dem GModG verändern sich das Referenzgebäude und die Energieträgerbewertung. Aufgrund der systematischen Änderungen kommt einem Vergleich der Zahlenwerte vor und nach der Anpassung keine Aussagekraft zu.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen teilweise auf der Grundlage von Auskünften der HEnW wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
 
 Wie lange ist unter Beachtung des GModG bei Planungen und Anwendungen das Zertifikat der TU Dresden vom 15. Juli 2026, dem eine Gültigkeit bis zum 14. Juli 2033 bescheinigt wurde, noch einsetzbar?
 
+#### Antwort zu Frage 1
+
+Die Bescheinigung nach FW 309 Teil 1 verliert durch das GModG nicht ihre Gültigkeit und bleibt weiterhin für Einzelfälle relevant. Gebäude, die auch nach dem 1. Januar 2027 noch nach den Vorgaben des Gebäudeenergiegesetzes (GEG) berechnet werden müssen, weil die Bauantragstellung oder der Antrag auf Zustimmung oder die Bauanzeige vor dem 1. Januar 2027 eingereicht wurde oder weil sie nach der Bundesförderung für effiziente Gebäude (BEG) saniert werden, sind weiterhin auf die bestehenden Bescheinigungen nach FW 309 Teil 1 angewiesen.
+
 ### Frage 2
 
 Ab welchem Zeitpunkt ist bei Planungen, Nachweisen und Genehmigungen die Verwendung der nach dem GModG berechneten Primärenergiefaktoren und Emissionsfaktoren vorgeschrieben?
+
+#### Antwort zu Frage 2
+
+Bei Neubau oder maßgeblichen Änderungen sind Primärenergiefaktoren für die Nachweisführung notwendig. Im Übrigen siehe Vorbemerkung.
 
 ### Frage 3
 
@@ -69,25 +81,51 @@ Ab welchem Datum müssen Wärmenetzbetreiber wie die HEnW die nach der neuen Met
 
 Wie sollen an einem Fernwärmeanschluss Interessierte, Wohnungsunternehmen und Projektentwickler von den HEnW über die neuen Werte nach GModG informiert werden?
 
+#### Antwort zu Fragen 3 und 4
+
+Eine Veröffentlichung der Faktoren zu einem bestimmten Datum ist nicht vorgeschrieben. Es kann nach dem GModG immer mit einem pauschalen Faktor für den neuen Primärenergiefaktor von 0,7 – gegebenenfalls mit Bonus für den Anteil erneuerbarer Energie und unvermeidbarer Abwärme – gerechnet werden.
+
+Die neue Bescheinigung entsprechend den Vorgaben des GModG wird derzeit erstellt und nach Fertigstellung auf den Internetseiten der HEnW veröffentlicht. Zusätzlich kann für den Primärenergiefaktor von Wärmenetzen ab dem 1. Januar 2027 allgemein immer der Pauschalfaktor von 0,7 angewendet werden.
+
 ### Frage 5
 
 Inwieweit sind Neubauprojekte oder Projekte mit umfangreichen Sanierungen und Veränderungen von Gebäuden oder mit Förderung nach BEG, die sich auf der Grundlage der bisherigen PEF-Faktoren in Planung befinden beziehungsweise schon geplant wurden, von den Änderungen betroffen?
+
+#### Antwort zu Frage 5
+
+Siehe Antwort zu 1.
 
 ### Frage 6
 
 Welche Verpflichtungen und welche Auswirkungen bestehen für Bauanträge, Baugenehmigungen, energetische Nachweise und Förderzusagen, die auf den PEF-Werten des GEG basieren, wenn die Voraussetzungen nach der neuen Rechtslage des GModG nicht mehr zutreffen?
 
+#### Antwort zu Frage 6
+
+Die neuen Vorgaben gelten nur für Gebäudenachweise, die nach dem 1. Januar 2027 berechnet werden.
+
 ### Frage 7
 
-Welche Daten wurden für die Erstellung des Zertifikats vom 15. Juli 2026 als „Bilanzdaten 2025“ und welche als „Planungsdaten“ verwendet? (Bitte komplette Datensätze angeben, so dass eine Nachrechnung möglich ist.)
+Welche Daten wurden für die Erstellung des Zertifikats vom 15. Juli 2026 als „Bilanzdaten 2025“ und welche als „Planungsdaten“ verwendet? (Bitte komplette Datensätze angeben, so dass eine Nachrechnung möglich ist)
+
+#### Antwort zu Frage 7
+
+Die verwendeten Daten entsprechen den Vorgaben des GEG unter Verwendung der Arbeitsblätter des Energieeffizienzverbands für Wärme, Kälte und KWK e. V. (AGFW) FW 309 Teil 1, Teil 5 und Teil 7. Zur Aufstellung der Energiebilanz werden Daten aller Erzeugungsanlagen im Wärmenetz und der Fernwärmeabsatz herangezogen. Die Planungsdaten beschreiben das zukünftige Erzeugerportfolio und den erwarteten Fernwärmeabsatz Anfang der 2030er-Jahre. Die Berechnung fand durch einen unabhängigen und qualifizierten Gutachter statt. Eine Veröffentlichung der zugrunde liegenden Daten erfolgt nicht, da diese Betriebs- und Geschäftsgeheimnisse der HEnW betreffen.
 
 ### Frage 8
 
 Welche Werte für die Primärenergiefaktoren und für die Emissionsfaktoren ergeben sich nach eigenen Berechnungen der HEnW für die „Bilanzdaten 2025“ beziehungsweise für die „Planungsdaten“ entsprechend den Vorschriften des GModG?
 
+#### Antwort zu Frage 8
+
+Die entsprechenden Berechnungen sind noch in Bearbeitung.
+
 ### Frage 9
 
 Wann und wie wird die Öffentlichkeit von den HEnW darüber informiert werden, dass nach dem GModG neue Primärenergiefaktoren und Emissionsfaktoren vorgeschrieben sind und wie groß deren Werte für das Stadtnetz Hamburg und für die anderen Wärmenetze der HEnW sind?
+
+#### Antwort zu Frage 9
+
+Die Werte für das Hamburger Stadtnetz werden voraussichtlich Anfang 2027 über die Internetseite der HEnW veröffentlicht.
 
 ### Frage 10
 
@@ -95,9 +133,17 @@ Haben die HEnW bereits Zertifikate für ihre Wärmenetze nach dem GModG in Auftr
 
 Wenn ja, wann? Wann ist mit Ergebnissen zu rechnen?
 
+#### Antwort zu Frage 10
+
+Nein.
+
 ### Frage 11
 
 Wann ist mit weiteren Änderungen des Primärenergiefaktors und des Emissionsfaktors des Stadtnetzes zu rechnen, weil Transformationsschritte festliegen oder umgesetzt werden, die noch nicht in den jetzigen Planungsdaten enthalten sind?
+
+#### Antwort zu Frage 11
+
+Eine Neuberechnung aufgrund von Anpassungen des Anlagenportfolios ist voraussichtlich Anfang der 2030er-Jahre vorgesehen.
 
 ## Vorbemerkung
 
@@ -107,6 +153,10 @@ Der Primärenergiefaktor hat für Wärmenetze folgende Bedeutung: Nach der Forme
 
 Welche Folgen ergeben sich durch die betreffenden Änderungen des GModG für die energetische Sanierung von Gebäuden im öffentlichen Besitz, allgemein sowie insbesondere hinsichtlich des Kostenaufwandes und der zeitlichen Planungen?
 
+#### Antwort zu Frage 12
+
+Dieses ist derzeit nicht absehbar. Die Freie und Hansestadt Hamburg (FHH) hat vor dem Hintergrund im Gesetzgebungsverfahren darauf hingewirkt, dass der Bundesrat in seiner Stellungnahme die Bundesregierung auffordert, Datengrundlagen und Herleitung der neuen Anforderungen betreffend die Primärenergiefaktoren darzulegen, um eine Bewertung zu ermöglichen. Die Bundesregierung hat in ihrer Gegenäußerung darauf hingewiesen, dass eine beauftragte wissenschaftliche Begleitung der Umsetzung der EU-Gebäuderichtlinie noch nicht abgeschlossen sei.
+
 ## Vorbemerkung
 
 Der am 14. Juli 2026 zertifizierte Primärenergiefaktor von 0,26 beziehungsweise 0,24 liegt unter dem Wert 0,30. Daher ist nach § 22 Absatz 3 GEG in der Veröffentlichung der aus erneuerbaren Energien oder aus Abwärme erzeugte Anteil der im Stadtnetz genutzten Wärme mit schrittweisen Absenkungen um 0,001 pro Prozentpunkt anzugeben.
@@ -114,6 +164,10 @@ Der am 14. Juli 2026 zertifizierte Primärenergiefaktor von 0,26 beziehungsweise
 ### Frage 13
 
 Wo wurde von den HEnW diese Bedingung in einer Veröffentlichung zum PEF erfüllt?
+
+#### Antwort zu Frage 13
+
+Die Anteile erneuerbarer Energien und unvermeidbarer Abwärme werden in den Bescheinigungen FW 309 Teil 1 und Teil 5 nachgewiesen, die im Downloadbereich der Homepage der HEnW sowie unter Microsoft Word – Zerti_GEG_Hamburger_Energiewerke_2026_Nachweis_WNB_2.docx einsehbar sind.
 
 ## Vorbemerkung
 
@@ -123,6 +177,14 @@ Von Wikipedia wird aktuell angegeben: „Gemäß der Daten der Energie- und CO2-
 
 Wie ist die Abweichung der Daten der HEnW von denen der hier genannten CO2-Bilanz des Statistikamtes Nord zu erklären?
 
+#### Antwort zu Frage 14
+
+Der CO2-Emissionsfaktor für den Fernwärme-Mix der Energie- und CO2-Bilanz (Verursacherbilanz) umfasst alle statistisch als Fernwärme definierten und vom Statistikamt erhobenen Energielieferungen und bezieht sich damit nicht ausschließlich auf das Stadtnetz der HEnW, gleichwohl dieses Netz innerhalb der FHH den größten Einfluss auf den Fernwärme-Mix hat.
+
+Die CO2-Emissionen von Heizkraftwerken (Kraft-Wärme-Kopplung, KWK) werden in der Verursacherbilanz nach der sogenannten Finnischen Methode auf die Produkte Strom und Wärme aufgeteilt. Diese „Allokationsmethode“ unterscheidet sich von der Methode nach GEG („Stromgutschriftmethode“) und nach GModG („Carnotmethode“). Im Ergebnis wird der Wärme ein größerer Emissionsanteil zugerechnet. Die niedrigen CO2-Emissionsfaktoren nach Stromgutschriftmethode kommen zudem durch eine Verdrängungslogik auf der Stromseite zustande.
+
+Ein weiterer wesentlicher Grund für die Abweichung liegt in dem Umstand, dass in der Verursacherbilanz die CO2-Emissonen aus der thermischen Abfallbehandlung dem Fernwärme-Mix zugerechnet werden.
+
 ## Vorbemerkung
 
 Mit dem GModG verändert sich nicht nur die primärenergetische Bewertung von KWK-Netzen. Für den Energieträger Holz steigt der Primärenergiefaktor von 0,2 auf 0,7. Netzbezogener Strom für Großwärmepumpen steigt von 1,2 auf 1,5. Eine bisherige Sonderregelung für Großwärmepumpen entfällt ersatzlos.
@@ -131,15 +193,21 @@ Mit dem GModG verändert sich nicht nur die primärenergetische Bewertung von KW
 
 Welche Vorhaben der Energiewende in Hamburg sind außer den Fernwärmenetzen von diesen Änderungen betroffen?
 
+#### Antwort zu Frage 15
+
+Der zuständigen Behörde sind keine Vorhaben bekannt.
+
 ### Frage 16
 
 Falls sich aus der Neuberechnung von spezifischen CO2-Emissionsfaktoren Veränderungen in der CO2-Bilanz Hamburgs ergeben, in welchen Fällen sind diese relevant und was lässt sich schätzungsweise darüber angeben?
 
+#### Antwort zu Frage 16
+
+Die Berechnungsmethoden der Hamburger Energiebilanz sind von den Änderungen nicht betroffen, siehe auch Antwort zu 14.
+
 ## Vorbemerkung
 
-Die enercity AG (Hannover) ließ sich am 11. April 2022 für die Fernwärmeversorgung nicht nur die spezifischen CO2-Emissionen (75,5 kg CO2/MWh), sondern auch die THG-Emissionen (98,7 kg CO2/MWh) bescheinigen, die auch die Brennstoffvorketten sowie die CO2-Äquivalente andere Treibhausgase (THG) umfassen. Die HEnW schreiben auf ihrer Webseite „Fernwärme Stadtnetz“: „Der Primärenergiefaktor (PEF) gibt Aufschluss über die zum Heizen aufzuwendende Menge an Primärenergie und berücksichtigt auch vorgelagerte
-
-Ketten, wie die Verarbeitung und den Transport der Brennstoffe.“ Bei den spezifischen CO2-Emissionen scheinen die HEnW die „vorgelagerten Ketten“ nicht berücksichtigt zu haben.
+Die enercity AG (Hannover) ließ sich am 11. April 2022 für die Fernwärmeversorgung nicht nur die spezifischen CO2-Emissionen (75,5 kg CO2/MWh), sondern auch die THG-Emissionen (98,7 kg CO2/MWh) bescheinigen, die auch die Brennstoffvorketten sowie die CO2-Äquivalente andere Treibhausgase (THG) umfassen. Die HEnW schreiben auf ihrer Webseite „Fernwärme Stadtnetz“: „Der Primärenergiefaktor (PEF) gibt Aufschluss über die zum Heizen aufzuwendende Menge an Primärenergie und berücksichtigt auch vorgelagerte Ketten, wie die Verarbeitung und den Transport der Brennstoffe.“ Bei den spezifischen CO2-Emissionen scheinen die HEnW die „vorgelagerten Ketten“ nicht berücksichtigt zu haben.
 
 ### Frage 17
 
@@ -149,6 +217,14 @@ Wurden für die spezifischen CO2-Emissionen des Stadtnetzes, die im neuesten Zer
 
 Warum wurden für das Stadtnetz der HEnW nicht auch wie bei enercity die THG-Emissionen bescheinigt und wie groß sind diese?
 
+#### Antwort zu Fragen 17 und 18
+
+Es wurden die CO2-Faktoren für die Brennstoffe entsprechend der GEG-Vorgaben verwendet. Hier sind Vorketten berücksichtigt.
+
 ### Frage 19
 
 Welche Primärenergiefaktoren und Emissionsfaktoren ergeben sich nach dem GModG für die kleineren Fernwärmenetze und die Quartiersnetze der HEnW?
+
+#### Antwort zu Frage 19
+
+Die Daten liegen derzeit noch nicht vor.
