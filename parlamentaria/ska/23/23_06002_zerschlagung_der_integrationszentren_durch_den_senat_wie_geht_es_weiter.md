@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105944"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105944/23_06002_zerschlagung_der_integrationszentren_durch_den_senat_wie_geht_es_weiter"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Carola Ensslen (Die Linke) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105944) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105944/23_06002_zerschlagung_der_integrationszentren_durch_den_senat_wie_geht_es_weiter)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

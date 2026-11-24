@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105933"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105933/23_05990_banner_und_aufkleber_gegen_die_afd_am_buergerhaus_bruegge_in_lohbruegge"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Eugen Seiler (AfD) vom 13.11.26 und Antwort des Senats · Drucksache vom 13.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105933) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105933/23_05990_banner_und_aufkleber_gegen_die_afd_am_buergerhaus_bruegge_in_lohbruegge)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

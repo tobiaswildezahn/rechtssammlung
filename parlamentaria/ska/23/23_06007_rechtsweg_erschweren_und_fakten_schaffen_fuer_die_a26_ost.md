@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105948"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105948/23_06007_rechtsweg_erschweren_und_fakten_schaffen_fuer_die_a26_ost"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Stephan Jersch und Heike Sudmann (Die Linke) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105948) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105948/23_06007_rechtsweg_erschweren_und_fakten_schaffen_fuer_die_a26_ost)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

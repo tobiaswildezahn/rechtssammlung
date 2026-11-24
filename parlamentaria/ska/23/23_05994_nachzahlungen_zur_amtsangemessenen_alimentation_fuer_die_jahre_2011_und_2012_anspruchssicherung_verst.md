@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105937"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105937/23_05994_nachzahlungen_zur_amtsangemessenen_alimentation_fuer_die_jahre_2011_und_2012_anspruchssicherung_verstorbene_berechtigte_und_auszahlung_an_erben_und_re"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Stefan Bereuter (CDU) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105937) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105937/23_05994_nachzahlungen_zur_amtsangemessenen_alimentation_fuer_die_jahre_2011_und_2012_anspruchssicherung_verstorbene_berechtigte_und_auszahlung_an_erben_und_re)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

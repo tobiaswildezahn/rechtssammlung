@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105943"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105943/23_06001_erstbelehrungen_nach_dem_infektionsschutzgesetz_warum_beendet_hamburg_die_zusammenarbeit_mit_beauftragten_aerzten"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dennis Thering und Christin Christ (CDU) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105943) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105943/23_06001_erstbelehrungen_nach_dem_infektionsschutzgesetz_warum_beendet_hamburg_die_zusammenarbeit_mit_beauftragten_aerzten)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

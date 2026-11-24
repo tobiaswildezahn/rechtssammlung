@@ -19,7 +19,7 @@ zitierte_drucksachen: ["22/9028", "21/18917", "23/4967", "23/5309"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105942"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105942/23_05999_mietenmelder_arbeit_der_taskforce"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Martina Koeppen (SPD) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105942) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105942/23_05999_mietenmelder_arbeit_der_taskforce)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

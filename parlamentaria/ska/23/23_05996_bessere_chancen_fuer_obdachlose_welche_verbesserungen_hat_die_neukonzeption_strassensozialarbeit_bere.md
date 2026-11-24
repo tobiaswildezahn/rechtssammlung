@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5826"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105939"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105939/23_05996_bessere_chancen_fuer_obdachlose_welche_verbesserungen_hat_die_neukonzeption_strassensozialarbeit_bereits_erwirkt_iii"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Andreas Grutzeck (CDU) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105939) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105939/23_05996_bessere_chancen_fuer_obdachlose_welche_verbesserungen_hat_die_neukonzeption_strassensozialarbeit_bereits_erwirkt_iii)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

@@ -19,7 +19,7 @@ zitierte_drucksachen: ["21/3388"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105945"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105945/23_06003_einsatz_von_scrubbern_im_hamburger_hafen_und_auf_der_elbe"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Stephan Jersch (Die Linke) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105945) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105945/23_06003_einsatz_von_scrubbern_im_hamburger_hafen_und_auf_der_elbe)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

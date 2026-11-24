@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105930"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105930/23_05983_rueckfuehrungen_aus_hamburg_umfang_kosten_und_nachhaltigkeit"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Andreas Grutzeck (CDU) vom 12.11.26 und Antwort des Senats · Drucksache vom 12.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105930) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105930/23_05983_rueckfuehrungen_aus_hamburg_umfang_kosten_und_nachhaltigkeit)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

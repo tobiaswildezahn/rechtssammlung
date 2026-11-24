@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5778"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105931"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105931/23_05984_grosse_delegation_offene_bilanz_was_bringt_die_reise_von_buergermeister_tschentscher_nach_vietnam_und_china_fuer_hamburg"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Prof. Dr. Michael Becken (CDU) vom 12.11.26 und Antwort des Senats · Drucksache vom 12.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105931) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105931/23_05984_grosse_delegation_offene_bilanz_was_bringt_die_reise_von_buergermeister_tschentscher_nach_vietnam_und_china_fuer_hamburg)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

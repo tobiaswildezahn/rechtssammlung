@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/2351"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105936"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105936/23_05993_portone_wie_hebt_der_senat_das_potenzial_der_kuenftigen_hafenflaeche_steinwerder_sued"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Antonia-Katharina Goldner (CDU) vom 13.11.26 und Antwort des Senats · Drucksache vom 13.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105936) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105936/23_05993_portone_wie_hebt_der_senat_das_potenzial_der_kuenftigen_hafenflaeche_steinwerder_sued)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

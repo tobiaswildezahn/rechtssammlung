@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5864"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105941"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105941/23_05998_dramatischer_personalmangel_im_justizkrankenpflegedienst_warum_nutzt_der_senat_die_moeglichkeiten_der_verbeamtung_nicht"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Richard Seelmaecker (CDU) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105941) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105941/23_05998_dramatischer_personalmangel_im_justizkrankenpflegedienst_warum_nutzt_der_senat_die_moeglichkeiten_der_verbeamtung_nicht)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

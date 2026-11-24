@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5839"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105934"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105934/23_05991_schutz_von_hinweisgebern_und_freiwillige_offenlegung_moeglicher_pflichtverletzungen_in_hamburger_behoerden_und_oeffentlichen_unternehmen"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Sandro Kappe (CDU) vom 13.11.26 und Antwort des Senats · Drucksache vom 13.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105934) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105934/23_05991_schutz_von_hinweisgebern_und_freiwillige_offenlegung_moeglicher_pflichtverletzungen_in_hamburger_behoerden_und_oeffentlichen_unternehmen)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

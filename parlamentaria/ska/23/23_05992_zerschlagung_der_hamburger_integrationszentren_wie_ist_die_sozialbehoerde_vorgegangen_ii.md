@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5842", "23/4611"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105935"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105935/23_05992_zerschlagung_der_hamburger_integrationszentren_wie_ist_die_sozialbehoerde_vorgegangen_ii"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dietrich Wersich und Andreas Grutzeck (CDU) vom 13.11.26 und Antwort des Senats · Drucksache vom 13.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105935) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105935/23_05992_zerschlagung_der_hamburger_integrationszentren_wie_ist_die_sozialbehoerde_vorgegangen_ii)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

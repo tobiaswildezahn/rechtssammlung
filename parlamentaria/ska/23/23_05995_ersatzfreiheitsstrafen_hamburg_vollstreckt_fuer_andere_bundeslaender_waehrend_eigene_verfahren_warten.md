@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5570"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105938"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105938/23_05995_ersatzfreiheitsstrafen_hamburg_vollstreckt_fuer_andere_bundeslaender_waehrend_eigene_verfahren_warten_muessen"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Richard Seelmaecker (CDU) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105938) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105938/23_05995_ersatzfreiheitsstrafen_hamburg_vollstreckt_fuer_andere_bundeslaender_waehrend_eigene_verfahren_warten_muessen)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

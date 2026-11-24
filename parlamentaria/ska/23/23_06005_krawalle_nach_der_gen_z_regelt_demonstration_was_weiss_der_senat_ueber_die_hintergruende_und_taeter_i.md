@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/5844"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105946"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105946/23_06005_krawalle_nach_der_gen_z_regelt_demonstration_was_weiss_der_senat_ueber_die_hintergruende_und_taeter_ii"
-abgerufen: "2026-11-17"
+abgerufen: "2026-11-24"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Dennis Thering (CDU) vom 16.11.26 und Antwort des Senats · Drucksache vom 16.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105946) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105946/23_06005_krawalle_nach_der_gen_z_regelt_demonstration_was_weiss_der_senat_ueber_die_hintergruende_und_taeter_ii)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 17.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 24.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
