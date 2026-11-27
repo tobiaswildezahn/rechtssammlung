@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/2383"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105962"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105962/23_06015_elbchaussee_zwischen_betty_levi_passage_und_hohenzollernring_zeitplan_ursachen_der_erneuten_verzoegerung_und_kosten"
-abgerufen: "2026-11-20"
+abgerufen: "2026-11-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Dr. Anke Frieling (CDU) vom 18.11.26 und Antwort des Senats · Drucksache vom 18.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105962) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105962/23_06015_elbchaussee_zwischen_betty_levi_passage_und_hohenzollernring_zeitplan_ursachen_der_erneuten_verzoegerung_und_kosten)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 20.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

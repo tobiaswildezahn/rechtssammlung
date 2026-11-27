@@ -19,7 +19,7 @@ zitierte_drucksachen: ["22/690", "22/1483"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105957"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105957/23_06013_denkmalgeschuetzter_sassenhof_in_schnelsen_wie_lautet_der_aktuelle_planungs_und_umsetzungsstand_und_was_wird_aus_den_1_4_millionen_euro_bundesfoerderm"
-abgerufen: "2026-11-20"
+abgerufen: "2026-11-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Silke Seif (CDU) vom 17.11.26 und Antwort des Senats · Drucksache vom 17.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105957) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105957/23_06013_denkmalgeschuetzter_sassenhof_in_schnelsen_wie_lautet_der_aktuelle_planungs_und_umsetzungsstand_und_was_wird_aus_den_1_4_millionen_euro_bundesfoerderm)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 20.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

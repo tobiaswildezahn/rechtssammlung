@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105965"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105965/23_06019_regressverfahren_der_stadt_welche_behoerde_hat_in_welchen_projekten_schadensersatz_durchgesetzt"
-abgerufen: "2026-11-20"
+abgerufen: "2026-11-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage des Abgeordneten Thomas Reich (AfD) vom 18.11.26 und Antwort des Senats · Drucksache vom 18.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105965) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105965/23_06019_regressverfahren_der_stadt_welche_behoerde_hat_in_welchen_projekten_schadensersatz_durchgesetzt)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 20.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

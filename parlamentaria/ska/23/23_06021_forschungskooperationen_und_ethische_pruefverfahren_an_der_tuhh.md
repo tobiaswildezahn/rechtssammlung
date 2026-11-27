@@ -19,7 +19,7 @@ zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105967"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105967/23_06021_forschungskooperationen_und_ethische_pruefverfahren_an_der_tuhh"
-abgerufen: "2026-11-20"
+abgerufen: "2026-11-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage der Abgeordneten Anna-Elisabeth von Treuenfels-Frowein und Ralf Niedmers (CDU) vom 18.11.26 und Antwort des Senats · Drucksache vom 18.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105967) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105967/23_06021_forschungskooperationen_und_ethische_pruefverfahren_an_der_tuhh)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 20.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

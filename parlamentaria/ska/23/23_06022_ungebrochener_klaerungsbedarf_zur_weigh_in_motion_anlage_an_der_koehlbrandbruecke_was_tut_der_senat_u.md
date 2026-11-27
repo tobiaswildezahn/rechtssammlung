@@ -19,7 +19,7 @@ zitierte_drucksachen: ["23/4960", "23/5742", "23/3794"]
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105968"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105968/23_06022_ungebrochener_klaerungsbedarf_zur_weigh_in_motion_anlage_an_der_koehlbrandbruecke_was_tut_der_senat_um_eine_luecke_in_der_haupthafenroute_zu_verhinder"
-abgerufen: "2026-11-20"
+abgerufen: "2026-11-27"
 generator: "ska_archiv 1.0"
 ---
 
@@ -28,7 +28,7 @@ generator: "ska_archiv 1.0"
 > Schriftliche Kleine Anfrage und Antwort des Senats · Drucksache vom 18.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105968) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105968/23_06022_ungebrochener_klaerungsbedarf_zur_weigh_in_motion_anlage_an_der_koehlbrandbruecke_was_tut_der_senat_um_eine_luecke_in_der_haupthafenroute_zu_verhinder)
 >
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 20.11.2026 nicht vor.
+> **Hinweis:** Die Antwort des Senats lag beim Abruf am 27.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 

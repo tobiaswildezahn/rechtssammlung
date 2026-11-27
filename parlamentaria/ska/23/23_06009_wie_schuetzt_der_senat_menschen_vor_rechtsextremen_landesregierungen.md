@@ -5,30 +5,28 @@ wahlperiode: 23
 id: 105953
 titel: "Wie schützt der Senat Menschen vor rechtsextremen Landesregierungen?"
 datum_anfrage: "2026-11-17"
-datum_drucksache: "2026-11-17"
+datum_drucksache: "2026-11-24"
 urheber: ["Dr. Carola Ensslen"]
 fraktionen: ["Die Linke"]
 vorgang: null
-seiten: 2
+seiten: 3
 fragen: 10
 einzelfragen: 17
-antwortbloecke: 0
-beantwortet: false
-status: "unbeantwortet"
+antwortbloecke: 8
+beantwortet: true
+status: "beantwortet"
 zitierte_drucksachen: []
 format_erkannt: true
 quelle: "https://www.buergerschaft-hh.de/parldok/dokument/105953"
 pdf: "https://www.buergerschaft-hh.de/parldok/dokument/105953/23_06009_wie_schuetzt_der_senat_menschen_vor_rechtsextremen_landesregierungen"
-abgerufen: "2026-11-20"
+abgerufen: "2026-11-27"
 generator: "ska_archiv 1.0"
 ---
 
 # Drs. 23/6009: Wie schützt der Senat Menschen vor rechtsextremen Landesregierungen?
 
-> Schriftliche Kleine Anfrage der Abgeordneten Dr. Carola Ensslen (Die Linke) vom 17.11.26 und Antwort des Senats · Drucksache vom 17.11.2026  
+> Schriftliche Kleine Anfrage der Abgeordneten Dr. Carola Ensslen (Die Linke) vom 17.11.26 und Antwort des Senats · Drucksache vom 24.11.2026  
 > [ParlDok](https://www.buergerschaft-hh.de/parldok/dokument/105953) · [PDF](https://www.buergerschaft-hh.de/parldok/dokument/105953/23_06009_wie_schuetzt_der_senat_menschen_vor_rechtsextremen_landesregierungen)
->
-> **Hinweis:** Die Antwort des Senats lag beim Abruf am 20.11.2026 nicht vor.
 
 ## Einleitung für die Fragen
 
@@ -46,6 +44,14 @@ Der Offene Brief ist unterzeichnet von der Türkischen Gemeinde in Deutschland e
 
 Vor diesem Hintergrund frage ich den Senat:
 
+## Einleitung für die Antworten des Senats
+
+Die Bewertung konkreter Gefährdungslagen sowie gegebenenfalls erforderliche Maßnahmen erfolgen nach Maßgabe der geltenden Rechtsvorschriften und unter Würdigung des jeweiligen Einzelfalls durch die Behörden vor Ort.
+
+Um zu gewährleisten, dass alle 16 Länder gleichermaßen aufenthaltsrechtlich für Ausländerinnen und Ausländer, die weder mit einem Visum noch visumsfrei nach Deutschland einreisen, zuständig sind, gibt es verschiedene Verteilverfahren – für Asylsuchende, für Schutzsuchende aus der Ukraine und für Personen der Fallgruppe nach § 15a AufenhtG –, denen allen der Königsteiner Schlüssel zugrunde liegt. Der Senat hält an diesen Verteilsystemen fest. Abweichungen oder Umverteilungen kommen nur im Rahmen der gesetzlichen Vorgaben und nur bei Vorliegen besonderer Umstände im Einzelfall in Betracht.
+
+Dies vorausgeschickt, beantwortet der Senat die Fragen wie folgt:
+
 ## Fragen und Antworten
 
 ### Frage 1
@@ -60,13 +66,26 @@ Falls ja, was wurde geantwortet?
 
 Falls nein, wie beabsichtigt der Senat auf den Brief zu reagieren?
 
+#### Antwort zu Fragen 1 und 2
+
+Der Offene Brief wurde am 19. Oktober 2026 per E-Mail an die Staats- beziehungsweise Senatskanzleien der Länder verbreitet. Von einer Beantwortung Offener Briefe sieht der Senat in ständiger Praxis ab.
+
 ### Frage 3
 
 Wie hat der Senat auf die Anfrage des ARD Hauptstadtstudios (siehe hier: https://www.tagesschau.de/inland/gesellschaft/sachsen-anhaltafd-migranten-residenzpflicht-100.html) reagiert?
 
+#### Antwort zu Frage 3
+
+Die Senatskanzlei hat den Eingang der Presseanfrage bestätigt und mitgeteilt, dass der Senat Offene Briefe grundsätzlich nicht beantwortet.
+
 ### Frage 4
 
 Beabsichtigt der Senat, sich für eine Bund-Länder-Kommission zum Schutz von Minderheiten einzusetzen?
+
+#### Antwort zu Frage 4
+
+Das parlamentarische Fragerecht begründet einen Anspruch auf Auskünfte, nicht jedoch auf meinungsbildende Stellungnahmen (vergleiche ThürVerfGH, Urteil vom
+19. Dezember 2008, 37/07, juris Rn. 177), von denen der Senat auch im vorliegenden Fall absieht. Dies gilt auch für Aspekte der senats- bzw. behördeninternen Meinungsbildung, Planung und Sondierung, die im Kernbereich der exekutiven Eigenverantwortung liegen bzw. einer konkreten Positionierung vorgelagert sind. Im Übrigen hat sich der Senat hiermit nicht befasst.
 
 ### Frage 5
 
@@ -76,11 +95,19 @@ Falls ja, was genau wurde besprochen und soll vereinbart werden?
 
 Falls nein, warum nicht?
 
+#### Antwort zu Frage 5
+
+Gespräche im Sinne der Fragestellung wurden nicht geführt.
+
 ### Frage 6
 
 Beabsichtigt der Senat, sich für eine Änderung des Aufenthaltsgesetzes einzusetzen, wonach die Gefährdung durch rechtsextreme politische Strukturen und eine nachweisliche Zunahme rassistischer und antisemitischer Gewalt als Härtefall beim Wechsel des Wohnsitzes anerkannt werden muss?
 
 Falls nein, warum nicht?
+
+#### Antwort zu Frage 6
+
+Nein. Eine generelle Einordnung bestimmter Gefährdungslagen als Härtefall mit der Folge eines regelhaften länderübergreifenden Wohnsitzwechsels hält der Senat nicht für sachgerecht. Das Bejahen eines Härtefalls in pauschalierten Fallkonstellationen würde die erforderliche Einzelfallprüfung ersetzen und die bundesweit bewährten Verteilungssysteme nach dem Königsteiner Schlüssel erheblich beeinträchtigen. Im Übrigen siehe Vorbemerkung.
 
 ### Frage 7
 
@@ -88,9 +115,17 @@ Soweit Zustimmungserteilungen für Zuzüge nach Hamburg aus Sachsen-Anhalt angef
 
 Falls nein, warum nicht?
 
+#### Antwort zu Frage 7
+
+Jeder Zuzugswunsch wurde und wird individuell geprüft. Soweit für einen länderübergreifenden Wohnsitzwechsel die Zustimmung Hamburgs als aufnehmendes Land erforderlich ist, prüft das Amt für Migration insbesondere die für einen Zuzug nach Hamburg vorgetragenen Gründe sowie die rechtlichen und tatsächlichen Voraussetzungen des Einzelfalls. Eine nachvollziehbar dargelegte individuelle Gefährdungslage kann hierbei berücksichtigt werden.
+
 ### Frage 8
 
 Wie viele Zustimmungen in Bezug auf Zuzüge nach Hamburg wurden seit dem Wahltag in Sachsen-Anhalt von dortigen Behörden angefragt? Wie viele Zustimmungen hat Hamburg erteilt, wie viele abgelehnt?
+
+#### Antwort zu Frage 8
+
+Seit dem 6. September 2026 gab es insgesamt acht Anfragen auf Zustimmung zum Zuzug aus Sachsen-Anhalt nach Hamburg. Davon wurde in zwei Fällen eine positive Entscheidung getroffen. In sechs Fällen wurde keine Zustimmung erteilt.
 
 ### Frage 9
 
@@ -99,3 +134,7 @@ Welche weiteren Maßnahmen hat der Senat ergriffen, um Migrant*innen vor rechtse
 ### Frage 10
 
 Welche weiteren Maßnahmen des Senats zum Schutz von Migrant*innen vor rechtsextremen Landesregierungen sind in Planung?
+
+#### Antwort zu Fragen 9 und 10
+
+Der Senat verfolgt insbesondere im Rahmen des oben genannten Landesprogramms „Hamburg – Stadt mit Courage“ verschiedene Maßnahmen zur Prävention und Bekämpfung von Rechtsextremismus. Maßnahmen zum Schutz vor den Regierungen anderer Länder im Sinne der Fragestellung zählen nicht hierzu.
